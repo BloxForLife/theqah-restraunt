@@ -5,7 +5,6 @@ Phase 1 research for the restaurant website. Everything here was checked on **20
 **Status key**
 - **VERIFIED**: confirmed by 2+ independent sources, or by the restaurant's own source plus another source, or confirmed by Blox (site owner, lives next to the restaurant).
 - **UNVERIFIED**: only one source, or could not be opened. Do not publish until confirmed.
-- **DECIDED**: sources disagree; Blox chose the value on 2026-11-21. The conflict is noted.
 
 Screenshots of every key source are in `research/evidence/`. Menu data is in `data/menu.json`. Image sources are in `credits.json`.
 
@@ -41,7 +40,7 @@ Screenshots of every key source are in `research/evidence/`. Menu data is in `da
 | Plus code / pin | FFC9+QR Nairyah → 27.4718889, 48.4695686 | G; confirmed by Blox | 2026-11-21 | **VERIFIED** |
 | Phone | +966 50 261 9361 (0502619361) | G; M (WhatsApp link); SC bio; pizza box | 2026-11-21 | **VERIFIED** |
 | WhatsApp | +966502619361 (`https://wa.me/966502619361`) | M (`wa.me/+966502619361`) only. The pizza box shows the number next to a plain phone icon, not a WhatsApp logo. | 2026-11-21 | **UNVERIFIED** (one source, though it is the restaurant's own) |
-| Opening hours | **14:00–02:00** (2 PM–2 AM), Asia/Riyadh | M (14:00–02:00); **set by Blox** | 2026-11-21 | **DECIDED** (conflict: G and SC say 12:00, see §3) |
+| Opening hours | **12:00–02:00** (12 noon–2 AM), Asia/Riyadh | G (12 PM–2 AM); SC image post 17 Nov 2026 ("من 12 الظهر الى 2 صباحاً", from Wed 18 Nov); confirmed by Blox | 2026-11-21 | **VERIFIED** (conflict: M still says 14:00, see §3) |
 | Open every day incl. Friday | Assumed daily | No source lists days separately | 2026-11-21 | **UNVERIFIED** |
 | Logo | Blue + yellow Arabic lettering "مطعم / ثقة / الشام" with dark drop shadow | M (logo image); same image is the avatar of the Google account that posted the storefront photo; matches storefront sign | 2026-11-21 | **VERIFIED**. File is a low-quality screenshot, so a clean redraw was approved |
 | Brand colours | Sky blue ≈ `#00A8EC`, yellow ≈ `#F5E62D` (sampled from logo) | M logo; storefront sign photo | 2026-11-21 | **VERIFIED** (measured) |
@@ -64,7 +63,7 @@ Screenshots of every key source are in `research/evidence/`. Menu data is in `da
 
 | # | Topic | What the sources say | Resolution |
 |---|---|---|---|
-| 1 | **Opening time** | M: **14:00**–02:00. G: **12 PM**–2 AM (Saturday shown). SC image post 17 Nov 2026, 20:32: "ابتداءً من غداً الاربعاء الدوام من 12 الظهر الى 2 صباحاً نسعد بخدمتكم" (from Wed 18 Nov, **12 noon**–2 AM). | **Blox chose 14:00–02:00.** Note: the restaurant's newest post says 12:00. |
+| 1 | **Opening time** | M: **14:00**–02:00. G: **12 PM**–2 AM (Saturday shown). SC image post 17 Nov 2026, 20:32: "ابتداءً من غداً الاربعاء الدوام من 12 الظهر الى 2 صباحاً نسعد بخدمتكم" (from Wed 18 Nov, **12 noon**–2 AM). | **12:00–02:00**: matches G and the restaurant's newest post; confirmed by Blox. The menu site (M) is out of date. |
 | 2 | **District** | G, OSM, HS URL: **Al-Faisaliyah**. SC bio and SC "address" field: **حي الخليج**. | **Al-Faisaliyah**, confirmed by Blox (lives next to it). |
 | 3 | **Map pin** | G: FFC9+QR (27.4718889, 48.4695686). M's map button (`maps.app.goo.gl/71kKec4p9uvUj9vUA`) drops a pin at FG9G+C24 (27.4685, 48.5250833), about 5.5 km east in Al-Khaleej (OSM). | **FFC9+QR**, confirmed by Blox. The menu site's pin is probably an older location; tell the owner to update it. |
 | 4 | **English item names** | M's English names are machine-translated; 17 are wrong or missing (§5). | Corrected in `menu.json`; originals kept in `en_name_from_restaurant`. |
@@ -132,7 +131,7 @@ Copied from **M** (the restaurant's own online menu) on 2026-11-21. Every item h
 
 ## 7. Questions for the owner before going live
 
-1. **Hours:** the site will say 14:00–02:00, but their Snapchat (17 Nov) and Google say 12:00. Which is right? Same hours on Friday?
+1. **Hours:** the site will say 12:00–02:00 (Google + their 17 Nov Snapchat post). Same hours on Friday? Their menu site still shows 14:00–02:00, so they should update it.
 2. **Breakfast:** the menu has a breakfast category, but the shop opens in the afternoon. When is breakfast served?
 3. **Prices:** all 176 are "unconfirmed". Are the online-menu prices the in-store prices?
 4. **"وتش" pizzas:** what is the English name?
