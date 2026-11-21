@@ -1,0 +1,2743 @@
+{
+  "_note": "Every image the website may use, with the original URL and where it was found. Only images published by the restaurant itself (its own online menu, its Snapchat account @thiqat.sa, and the photo posted to its Google Maps listing by the account named 'مطعم ثقة الشام') are listed. Snapchat/Google media URLs are signed and may expire; the page URL and post date identify each post.",
+  "date_checked": "2026-11-21",
+  "logo": [
+    {
+      "file": "research/source-images/logo-original-menu-site.jpg",
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/03e1419bd2539db3880f4a05c58c41cf/1758800690-W4tsmh9pg90klULl4Ci4hrUckk9k7bV2kRzTeU9RhR2zrain9s5QkTOEuoJz4pLqhrBDnFMHEZoBu0jeLyqqUGlVIe7RigB5o0vc.jpg",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (its own online menu, logo slot)",
+      "note": "585x702 JPEG; it is a screenshot of a design-tool canvas (guide lines and handles visible). Site owner approved a clean vector redraw (2026-11-21). Same image is the avatar of the Google account that posted the storefront photo.",
+      "date_found": "2026-11-21"
+    }
+  ],
+  "photos": [
+    {
+      "file": "research/source-images/storefront-google-owner-2026-11.jpg",
+      "source_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLce4XDbGDaFHGofXs0ViGR5GGu6E1eh_YlIC-1T0AHTnWClMlwAtGVJkFUnEVuIKAxjadbETtPPydU2iVPZHqnaJWT17IqT8iibxCcOnG7TI-gS3FoyE-NeSEV_lGXvcwPDu4UiPzOfh6pN=w1600-h900-k-no",
+      "found_on": "https://www.google.com/maps/place/%D9%85%D8%B7%D8%B9%D9%85+%D8%AB%D9%82%D8%A9+%D8%A7%D9%84%D8%B4%D8%A7%D9%85/@27.4718889,48.4695686,17z/data=!4m6!3m5!1s0x3fccbbdc5f69e09d:0x84b90311b2f79988!8m2!3d27.4718889!4d48.4695686!16s%2Fg%2F11yrlkz3ks",
+      "publisher": "Google account named 'مطعم ثقة الشام' whose avatar is the restaurant logo (treated as owner)",
+      "posted": "Nov 2026 (Google label: 'Photo - Nov 2026')",
+      "subject": "Storefront at night: illuminated sign, glass front, dome ovens, shawarma station",
+      "date_found": "2026-11-21"
+    },
+    {
+      "file": "research/source-images/snapchat/sp49_f0.jpg",
+      "source_url": "https://bolt-gcdn.sc-cdn.net/z/7QPuKlVJGvFHuxeLLxxNQ.27.IRZXSOY?mo=GmEaCTIBeUgCUC5gAVCiAVoQU3BvdGxpZ2h0U2hhcmluZ6IBOQgbEigKJgingckBIAEwnAQ4wAdAAUoPCgqJAU5ZU0xaVWNUEPQDUKqDAWgCIgsSACoHSVJaWFNPWZADqoMB&uc=46",
+      "found_on": "https://www.snapchat.com/@thiqat.sa",
+      "publisher": "Restaurant's own Snapchat account @thiqat.sa ('مطعم ثقة الشام')",
+      "post_type": "Spotlight video",
+      "snap_id": "W7_EDlXWTBiXAEEniNoMPwAAYZmhjend5ZHJwAaH1KDuTAaH1J9b5AAAAAA",
+      "posted_utc": "2026-11-19T18:53:11+00:00",
+      "frame": "still frame #0 extracted from the video",
+      "watermark": "Snapchat '@thiqat.sa' watermark in corners (crop before use)",
+      "subject": "Charcoal grill (text overlay)",
+      "date_found": "2026-11-21"
+    },
+    {
+      "file": "research/source-images/snapchat/sp49_f1.jpg",
+      "source_url": "https://bolt-gcdn.sc-cdn.net/z/7QPuKlVJGvFHuxeLLxxNQ.27.IRZXSOY?mo=GmEaCTIBeUgCUC5gAVCiAVoQU3BvdGxpZ2h0U2hhcmluZ6IBOQgbEigKJgingckBIAEwnAQ4wAdAAUoPCgqJAU5ZU0xaVWNUEPQDUKqDAWgCIgsSACoHSVJaWFNPWZADqoMB&uc=46",
+      "found_on": "https://www.snapchat.com/@thiqat.sa",
+      "publisher": "Restaurant's own Snapchat account @thiqat.sa ('مطعم ثقة الشام')",
+      "post_type": "Spotlight video",
+      "snap_id": "W7_EDlXWTBiXAEEniNoMPwAAYZmhjend5ZHJwAaH1KDuTAaH1J9b5AAAAAA",
+      "posted_utc": "2026-11-19T18:53:11+00:00",
+      "frame": "still frame #1 extracted from the video",
+      "watermark": "Snapchat '@thiqat.sa' watermark in corners (crop before use)",
+      "subject": "Charcoal grill (text overlay)",
+      "date_found": "2026-11-21"
+    },
+    {
+      "file": "research/source-images/snapchat/sp49_f2.jpg",
+      "source_url": "https://bolt-gcdn.sc-cdn.net/z/7QPuKlVJGvFHuxeLLxxNQ.27.IRZXSOY?mo=GmEaCTIBeUgCUC5gAVCiAVoQU3BvdGxpZ2h0U2hhcmluZ6IBOQgbEigKJgingckBIAEwnAQ4wAdAAUoPCgqJAU5ZU0xaVWNUEPQDUKqDAWgCIgsSACoHSVJaWFNPWZADqoMB&uc=46",
+      "found_on": "https://www.snapchat.com/@thiqat.sa",
+      "publisher": "Restaurant's own Snapchat account @thiqat.sa ('مطعم ثقة الشام')",
+      "post_type": "Spotlight video",
+      "snap_id": "W7_EDlXWTBiXAEEniNoMPwAAYZmhjend5ZHJwAaH1KDuTAaH1J9b5AAAAAA",
+      "posted_utc": "2026-11-19T18:53:11+00:00",
+      "frame": "still frame #2 extracted from the video",
+      "watermark": "Snapchat '@thiqat.sa' watermark in corners (crop before use)",
+      "subject": "Charcoal grill (text overlay)",
+      "date_found": "2026-11-21"
+    },
+    {
+      "file": "research/source-images/snapchat/sp49_f3.jpg",
+      "source_url": "https://bolt-gcdn.sc-cdn.net/z/7QPuKlVJGvFHuxeLLxxNQ.27.IRZXSOY?mo=GmEaCTIBeUgCUC5gAVCiAVoQU3BvdGxpZ2h0U2hhcmluZ6IBOQgbEigKJgingckBIAEwnAQ4wAdAAUoPCgqJAU5ZU0xaVWNUEPQDUKqDAWgCIgsSACoHSVJaWFNPWZADqoMB&uc=46",
+      "found_on": "https://www.snapchat.com/@thiqat.sa",
+      "publisher": "Restaurant's own Snapchat account @thiqat.sa ('مطعم ثقة الشام')",
+      "post_type": "Spotlight video",
+      "snap_id": "W7_EDlXWTBiXAEEniNoMPwAAYZmhjend5ZHJwAaH1KDuTAaH1J9b5AAAAAA",
+      "posted_utc": "2026-11-19T18:53:11+00:00",
+      "frame": "still frame #3 extracted from the video",
+      "watermark": "Snapchat '@thiqat.sa' watermark in corners (crop before use)",
+      "subject": "Charcoal grill (text overlay)",
+      "date_found": "2026-11-21"
+    },
+    {
+      "file": "research/source-images/snapchat/sp52_f0.jpg",
+      "source_url": "https://bolt-gcdn.sc-cdn.net/z/657PznvcwgYZgSYAIc4hr.27.IRZXSOY?mo=Gl8aCTIBeUgCUC5gAVCiAVoQU3BvdGxpZ2h0U2hhcmluZ6IBOAgbEicKJQjx0I0BIAEwnAQ4wAdAAUoPCgqWAUVeR2tPbF5fEPQDUPBqaAIiCxIAKgdJUlpYU09ZkAPwag%3D%3D&uc=46",
+      "found_on": "https://www.snapchat.com/@thiqat.sa",
+      "publisher": "Restaurant's own Snapchat account @thiqat.sa ('مطعم ثقة الشام')",
+      "post_type": "Spotlight video",
+      "snap_id": "W7_EDlXWTBiXAEEniNoMPwAAYa3FoYnpkcmh6AaHuCRAUAaHuCPGZAAAAAA",
+      "posted_utc": "2026-11-18T09:42:05+00:00",
+      "frame": "still frame #0 extracted from the video",
+      "watermark": "Snapchat '@thiqat.sa' watermark in corners (crop before use)",
+      "subject": "Chicken shawarma on the spit",
+      "date_found": "2026-11-21"
+    },
+    {
+      "file": "research/source-images/snapchat/sp52_f1.jpg",
+      "source_url": "https://bolt-gcdn.sc-cdn.net/z/657PznvcwgYZgSYAIc4hr.27.IRZXSOY?mo=Gl8aCTIBeUgCUC5gAVCiAVoQU3BvdGxpZ2h0U2hhcmluZ6IBOAgbEicKJQjx0I0BIAEwnAQ4wAdAAUoPCgqWAUVeR2tPbF5fEPQDUPBqaAIiCxIAKgdJUlpYU09ZkAPwag%3D%3D&uc=46",
+      "found_on": "https://www.snapchat.com/@thiqat.sa",
+      "publisher": "Restaurant's own Snapchat account @thiqat.sa ('مطعم ثقة الشام')",
+      "post_type": "Spotlight video",
+      "snap_id": "W7_EDlXWTBiXAEEniNoMPwAAYa3FoYnpkcmh6AaHuCRAUAaHuCPGZAAAAAA",
+      "posted_utc": "2026-11-18T09:42:05+00:00",
+      "frame": "still frame #1 extracted from the video",
+      "watermark": "Snapchat '@thiqat.sa' watermark in corners (crop before use)",
+      "subject": "Chicken shawarma on the spit",
+      "date_found": "2026-11-21"
+    },
+    {
+      "file": "research/source-images/snapchat/sp52_f2.jpg",
+      "source_url": "https://bolt-gcdn.sc-cdn.net/z/657PznvcwgYZgSYAIc4hr.27.IRZXSOY?mo=Gl8aCTIBeUgCUC5gAVCiAVoQU3BvdGxpZ2h0U2hhcmluZ6IBOAgbEicKJQjx0I0BIAEwnAQ4wAdAAUoPCgqWAUVeR2tPbF5fEPQDUPBqaAIiCxIAKgdJUlpYU09ZkAPwag%3D%3D&uc=46",
+      "found_on": "https://www.snapchat.com/@thiqat.sa",
+      "publisher": "Restaurant's own Snapchat account @thiqat.sa ('مطعم ثقة الشام')",
+      "post_type": "Spotlight video",
+      "snap_id": "W7_EDlXWTBiXAEEniNoMPwAAYa3FoYnpkcmh6AaHuCRAUAaHuCPGZAAAAAA",
+      "posted_utc": "2026-11-18T09:42:05+00:00",
+      "frame": "still frame #2 extracted from the video",
+      "watermark": "Snapchat '@thiqat.sa' watermark in corners (crop before use)",
+      "subject": "Chicken shawarma on the spit",
+      "date_found": "2026-11-21"
+    },
+    {
+      "file": "research/source-images/snapchat/sp52_f3.jpg",
+      "source_url": "https://bolt-gcdn.sc-cdn.net/z/657PznvcwgYZgSYAIc4hr.27.IRZXSOY?mo=Gl8aCTIBeUgCUC5gAVCiAVoQU3BvdGxpZ2h0U2hhcmluZ6IBOAgbEicKJQjx0I0BIAEwnAQ4wAdAAUoPCgqWAUVeR2tPbF5fEPQDUPBqaAIiCxIAKgdJUlpYU09ZkAPwag%3D%3D&uc=46",
+      "found_on": "https://www.snapchat.com/@thiqat.sa",
+      "publisher": "Restaurant's own Snapchat account @thiqat.sa ('مطعم ثقة الشام')",
+      "post_type": "Spotlight video",
+      "snap_id": "W7_EDlXWTBiXAEEniNoMPwAAYa3FoYnpkcmh6AaHuCRAUAaHuCPGZAAAAAA",
+      "posted_utc": "2026-11-18T09:42:05+00:00",
+      "frame": "still frame #3 extracted from the video",
+      "watermark": "Snapchat '@thiqat.sa' watermark in corners (crop before use)",
+      "subject": "Chicken shawarma on the spit",
+      "date_found": "2026-11-21"
+    },
+    {
+      "file": "research/source-images/snapchat/sp55_f0.jpg",
+      "source_url": "https://bolt-gcdn.sc-cdn.net/z/KtqDgXP3kJAxBsBm1hzMq.27.IRZXSOY?mo=Gl8aCTIBeUgCUC5gAVCiAVoQU3BvdGxpZ2h0U2hhcmluZ6IBOAgbEicKJQiIypcBIAEwnAQ4wAdAAUoPCgqiAU1FUFRAQUZMEPQDUIZxaAIiCxIAKgdJUlpYU09ZkAOGcQ%3D%3D&uc=46",
+      "found_on": "https://www.snapchat.com/@thiqat.sa",
+      "publisher": "Restaurant's own Snapchat account @thiqat.sa ('مطعم ثقة الشام')",
+      "post_type": "Spotlight video",
+      "snap_id": "W7_EDlXWTBiXAEEniNoMPwAAYd3FxeHVsZ2xqAaHrAplCAaHrAkI5AAAAAA",
+      "posted_utc": "2026-11-17T19:35:56+00:00",
+      "frame": "still frame #0 extracted from the video",
+      "watermark": "Snapchat '@thiqat.sa' watermark in corners (crop before use)",
+      "subject": "Skewers over charcoal",
+      "date_found": "2026-11-21"
+    },
+    {
+      "file": "research/source-images/snapchat/sp55_f1.jpg",
+      "source_url": "https://bolt-gcdn.sc-cdn.net/z/KtqDgXP3kJAxBsBm1hzMq.27.IRZXSOY?mo=Gl8aCTIBeUgCUC5gAVCiAVoQU3BvdGxpZ2h0U2hhcmluZ6IBOAgbEicKJQiIypcBIAEwnAQ4wAdAAUoPCgqiAU1FUFRAQUZMEPQDUIZxaAIiCxIAKgdJUlpYU09ZkAOGcQ%3D%3D&uc=46",
+      "found_on": "https://www.snapchat.com/@thiqat.sa",
+      "publisher": "Restaurant's own Snapchat account @thiqat.sa ('مطعم ثقة الشام')",
+      "post_type": "Spotlight video",
+      "snap_id": "W7_EDlXWTBiXAEEniNoMPwAAYd3FxeHVsZ2xqAaHrAplCAaHrAkI5AAAAAA",
+      "posted_utc": "2026-11-17T19:35:56+00:00",
+      "frame": "still frame #1 extracted from the video",
+      "watermark": "Snapchat '@thiqat.sa' watermark in corners (crop before use)",
+      "subject": "Skewers over charcoal",
+      "date_found": "2026-11-21"
+    },
+    {
+      "file": "research/source-images/snapchat/sp55_f2.jpg",
+      "source_url": "https://bolt-gcdn.sc-cdn.net/z/KtqDgXP3kJAxBsBm1hzMq.27.IRZXSOY?mo=Gl8aCTIBeUgCUC5gAVCiAVoQU3BvdGxpZ2h0U2hhcmluZ6IBOAgbEicKJQiIypcBIAEwnAQ4wAdAAUoPCgqiAU1FUFRAQUZMEPQDUIZxaAIiCxIAKgdJUlpYU09ZkAOGcQ%3D%3D&uc=46",
+      "found_on": "https://www.snapchat.com/@thiqat.sa",
+      "publisher": "Restaurant's own Snapchat account @thiqat.sa ('مطعم ثقة الشام')",
+      "post_type": "Spotlight video",
+      "snap_id": "W7_EDlXWTBiXAEEniNoMPwAAYd3FxeHVsZ2xqAaHrAplCAaHrAkI5AAAAAA",
+      "posted_utc": "2026-11-17T19:35:56+00:00",
+      "frame": "still frame #2 extracted from the video",
+      "watermark": "Snapchat '@thiqat.sa' watermark in corners (crop before use)",
+      "subject": "Skewers over charcoal",
+      "date_found": "2026-11-21"
+    },
+    {
+      "file": "research/source-images/snapchat/sp55_f3.jpg",
+      "source_url": "https://bolt-gcdn.sc-cdn.net/z/KtqDgXP3kJAxBsBm1hzMq.27.IRZXSOY?mo=Gl8aCTIBeUgCUC5gAVCiAVoQU3BvdGxpZ2h0U2hhcmluZ6IBOAgbEicKJQiIypcBIAEwnAQ4wAdAAUoPCgqiAU1FUFRAQUZMEPQDUIZxaAIiCxIAKgdJUlpYU09ZkAOGcQ%3D%3D&uc=46",
+      "found_on": "https://www.snapchat.com/@thiqat.sa",
+      "publisher": "Restaurant's own Snapchat account @thiqat.sa ('مطعم ثقة الشام')",
+      "post_type": "Spotlight video",
+      "snap_id": "W7_EDlXWTBiXAEEniNoMPwAAYd3FxeHVsZ2xqAaHrAplCAaHrAkI5AAAAAA",
+      "posted_utc": "2026-11-17T19:35:56+00:00",
+      "frame": "still frame #3 extracted from the video",
+      "watermark": "Snapchat '@thiqat.sa' watermark in corners (crop before use)",
+      "subject": "Skewers over charcoal",
+      "date_found": "2026-11-21"
+    },
+    {
+      "file": "research/source-images/snapchat/sp59_f0.jpg",
+      "source_url": "https://bolt-gcdn.sc-cdn.net/z/S2nwkR7gex5fGZ2VYMiug.27.IRZXSOY?mo=Gl4aCTIBeUgCUC5gAVCiAVoQU3BvdGxpZ2h0U2hhcmluZ6IBNwgbEiYKJAj053AgATCcBDjAB0ABSg8KCoQBNDRDS1Q3P0IQ9ANQtmFoAiILEgAqB0lSWlhTT1mQA7Zh&uc=46",
+      "found_on": "https://www.snapchat.com/@thiqat.sa",
+      "publisher": "Restaurant's own Snapchat account @thiqat.sa ('مطعم ثقة الشام')",
+      "post_type": "Spotlight video",
+      "snap_id": "W7_EDlXWTBiXAEEniNoMPwAAYbWR3Y3VvbXhzAaHpOz-aAaHpOwY2AAAAAA",
+      "posted_utc": "2026-11-17T11:18:41+00:00",
+      "frame": "still frame #0 extracted from the video",
+      "watermark": "Snapchat '@thiqat.sa' watermark in corners (crop before use)",
+      "subject": "Shish tawook over charcoal",
+      "date_found": "2026-11-21"
+    },
+    {
+      "file": "research/source-images/snapchat/sp59_f1.jpg",
+      "source_url": "https://bolt-gcdn.sc-cdn.net/z/S2nwkR7gex5fGZ2VYMiug.27.IRZXSOY?mo=Gl4aCTIBeUgCUC5gAVCiAVoQU3BvdGxpZ2h0U2hhcmluZ6IBNwgbEiYKJAj053AgATCcBDjAB0ABSg8KCoQBNDRDS1Q3P0IQ9ANQtmFoAiILEgAqB0lSWlhTT1mQA7Zh&uc=46",
+      "found_on": "https://www.snapchat.com/@thiqat.sa",
+      "publisher": "Restaurant's own Snapchat account @thiqat.sa ('مطعم ثقة الشام')",
+      "post_type": "Spotlight video",
+      "snap_id": "W7_EDlXWTBiXAEEniNoMPwAAYbWR3Y3VvbXhzAaHpOz-aAaHpOwY2AAAAAA",
+      "posted_utc": "2026-11-17T11:18:41+00:00",
+      "frame": "still frame #1 extracted from the video",
+      "watermark": "Snapchat '@thiqat.sa' watermark in corners (crop before use)",
+      "subject": "Shish tawook over charcoal",
+      "date_found": "2026-11-21"
+    },
+    {
+      "file": "research/source-images/snapchat/sp59_f2.jpg",
+      "source_url": "https://bolt-gcdn.sc-cdn.net/z/S2nwkR7gex5fGZ2VYMiug.27.IRZXSOY?mo=Gl4aCTIBeUgCUC5gAVCiAVoQU3BvdGxpZ2h0U2hhcmluZ6IBNwgbEiYKJAj053AgATCcBDjAB0ABSg8KCoQBNDRDS1Q3P0IQ9ANQtmFoAiILEgAqB0lSWlhTT1mQA7Zh&uc=46",
+      "found_on": "https://www.snapchat.com/@thiqat.sa",
+      "publisher": "Restaurant's own Snapchat account @thiqat.sa ('مطعم ثقة الشام')",
+      "post_type": "Spotlight video",
+      "snap_id": "W7_EDlXWTBiXAEEniNoMPwAAYbWR3Y3VvbXhzAaHpOz-aAaHpOwY2AAAAAA",
+      "posted_utc": "2026-11-17T11:18:41+00:00",
+      "frame": "still frame #2 extracted from the video",
+      "watermark": "Snapchat '@thiqat.sa' watermark in corners (crop before use)",
+      "subject": "Shish tawook over charcoal",
+      "date_found": "2026-11-21"
+    },
+    {
+      "file": "research/source-images/snapchat/sp59_f3.jpg",
+      "source_url": "https://bolt-gcdn.sc-cdn.net/z/S2nwkR7gex5fGZ2VYMiug.27.IRZXSOY?mo=Gl4aCTIBeUgCUC5gAVCiAVoQU3BvdGxpZ2h0U2hhcmluZ6IBNwgbEiYKJAj053AgATCcBDjAB0ABSg8KCoQBNDRDS1Q3P0IQ9ANQtmFoAiILEgAqB0lSWlhTT1mQA7Zh&uc=46",
+      "found_on": "https://www.snapchat.com/@thiqat.sa",
+      "publisher": "Restaurant's own Snapchat account @thiqat.sa ('مطعم ثقة الشام')",
+      "post_type": "Spotlight video",
+      "snap_id": "W7_EDlXWTBiXAEEniNoMPwAAYbWR3Y3VvbXhzAaHpOz-aAaHpOwY2AAAAAA",
+      "posted_utc": "2026-11-17T11:18:41+00:00",
+      "frame": "still frame #3 extracted from the video",
+      "watermark": "Snapchat '@thiqat.sa' watermark in corners (crop before use)",
+      "subject": "Shish tawook over charcoal",
+      "date_found": "2026-11-21"
+    },
+    {
+      "file": "research/source-images/snapchat/sp60_f0.jpg",
+      "source_url": "https://bolt-gcdn.sc-cdn.net/z/8qG7oM8kGGIDMxVw4GtYI.27.IRZXSOY?mo=GmEaCTIBeUgCUC5gAVCiAVoQU3BvdGxpZ2h0U2hhcmluZ6IBOQgbEigKJgjHtqYCIAEwnAQ4wAdAAUoPCgpHOEdbfF5veYoBEPQDUOy4AWgCIgsSACoHSVJaWFNPWZAD7LgB&uc=46",
+      "found_on": "https://www.snapchat.com/@thiqat.sa",
+      "publisher": "Restaurant's own Snapchat account @thiqat.sa ('مطعم ثقة الشام')",
+      "post_type": "Spotlight video",
+      "snap_id": "W7_EDlXWTBiXAEEniNoMPwAAYZmt6dmZzaW5vAaHl0NN2AaHl0HCQAAAAAA",
+      "posted_utc": "2026-11-16T19:23:25+00:00",
+      "frame": "still frame #0 extracted from the video",
+      "watermark": "Snapchat '@thiqat.sa' watermark in corners (crop before use)",
+      "subject": "Fatayer collage",
+      "date_found": "2026-11-21"
+    },
+    {
+      "file": "research/source-images/snapchat/sp60_f1.jpg",
+      "source_url": "https://bolt-gcdn.sc-cdn.net/z/8qG7oM8kGGIDMxVw4GtYI.27.IRZXSOY?mo=GmEaCTIBeUgCUC5gAVCiAVoQU3BvdGxpZ2h0U2hhcmluZ6IBOQgbEigKJgjHtqYCIAEwnAQ4wAdAAUoPCgpHOEdbfF5veYoBEPQDUOy4AWgCIgsSACoHSVJaWFNPWZAD7LgB&uc=46",
+      "found_on": "https://www.snapchat.com/@thiqat.sa",
+      "publisher": "Restaurant's own Snapchat account @thiqat.sa ('مطعم ثقة الشام')",
+      "post_type": "Spotlight video",
+      "snap_id": "W7_EDlXWTBiXAEEniNoMPwAAYZmt6dmZzaW5vAaHl0NN2AaHl0HCQAAAAAA",
+      "posted_utc": "2026-11-16T19:23:25+00:00",
+      "frame": "still frame #1 extracted from the video",
+      "watermark": "Snapchat '@thiqat.sa' watermark in corners (crop before use)",
+      "subject": "Fatayer collage",
+      "date_found": "2026-11-21"
+    },
+    {
+      "file": "research/source-images/snapchat/sp60_f2.jpg",
+      "source_url": "https://bolt-gcdn.sc-cdn.net/z/8qG7oM8kGGIDMxVw4GtYI.27.IRZXSOY?mo=GmEaCTIBeUgCUC5gAVCiAVoQU3BvdGxpZ2h0U2hhcmluZ6IBOQgbEigKJgjHtqYCIAEwnAQ4wAdAAUoPCgpHOEdbfF5veYoBEPQDUOy4AWgCIgsSACoHSVJaWFNPWZAD7LgB&uc=46",
+      "found_on": "https://www.snapchat.com/@thiqat.sa",
+      "publisher": "Restaurant's own Snapchat account @thiqat.sa ('مطعم ثقة الشام')",
+      "post_type": "Spotlight video",
+      "snap_id": "W7_EDlXWTBiXAEEniNoMPwAAYZmt6dmZzaW5vAaHl0NN2AaHl0HCQAAAAAA",
+      "posted_utc": "2026-11-16T19:23:25+00:00",
+      "frame": "still frame #2 extracted from the video",
+      "watermark": "Snapchat '@thiqat.sa' watermark in corners (crop before use)",
+      "subject": "Fatayer collage",
+      "date_found": "2026-11-21"
+    },
+    {
+      "file": "research/source-images/snapchat/sp60_f3.jpg",
+      "source_url": "https://bolt-gcdn.sc-cdn.net/z/8qG7oM8kGGIDMxVw4GtYI.27.IRZXSOY?mo=GmEaCTIBeUgCUC5gAVCiAVoQU3BvdGxpZ2h0U2hhcmluZ6IBOQgbEigKJgjHtqYCIAEwnAQ4wAdAAUoPCgpHOEdbfF5veYoBEPQDUOy4AWgCIgsSACoHSVJaWFNPWZAD7LgB&uc=46",
+      "found_on": "https://www.snapchat.com/@thiqat.sa",
+      "publisher": "Restaurant's own Snapchat account @thiqat.sa ('مطعم ثقة الشام')",
+      "post_type": "Spotlight video",
+      "snap_id": "W7_EDlXWTBiXAEEniNoMPwAAYZmt6dmZzaW5vAaHl0NN2AaHl0HCQAAAAAA",
+      "posted_utc": "2026-11-16T19:23:25+00:00",
+      "frame": "still frame #3 extracted from the video",
+      "watermark": "Snapchat '@thiqat.sa' watermark in corners (crop before use)",
+      "subject": "Fatayer collage",
+      "date_found": "2026-11-21"
+    },
+    {
+      "file": "research/source-images/snapchat/sp61_f0.jpg",
+      "source_url": "https://bolt-gcdn.sc-cdn.net/z/xb6yM6hSCggn2k4c3MidC.27.IRZXSOY?mo=GmEaCTIBeUgCUC5gAVCiAVoQU3BvdGxpZ2h0U2hhcmluZ6IBOggbEikKJwiljuEBIAEwnAQ4wAdAAUoRCgzUAWZ1iAGMAWpxeHYQ9ANQtnpoAiILEgAqB0lSWlhTT1mQA7Z6&uc=46",
+      "found_on": "https://www.snapchat.com/@thiqat.sa",
+      "publisher": "Restaurant's own Snapchat account @thiqat.sa ('مطعم ثقة الشام')",
+      "post_type": "Spotlight video",
+      "snap_id": "W7_EDlXWTBiXAEEniNoMPwAAYeXVka3htY3JnAaHlkX4ZAaHlkRp1AAAAAA",
+      "posted_utc": "2026-11-16T18:14:14+00:00",
+      "frame": "still frame #0 extracted from the video",
+      "watermark": "Snapchat '@thiqat.sa' watermark in corners (crop before use)",
+      "subject": "Pizza collage",
+      "date_found": "2026-11-21"
+    },
+    {
+      "file": "research/source-images/snapchat/sp61_f1.jpg",
+      "source_url": "https://bolt-gcdn.sc-cdn.net/z/xb6yM6hSCggn2k4c3MidC.27.IRZXSOY?mo=GmEaCTIBeUgCUC5gAVCiAVoQU3BvdGxpZ2h0U2hhcmluZ6IBOggbEikKJwiljuEBIAEwnAQ4wAdAAUoRCgzUAWZ1iAGMAWpxeHYQ9ANQtnpoAiILEgAqB0lSWlhTT1mQA7Z6&uc=46",
+      "found_on": "https://www.snapchat.com/@thiqat.sa",
+      "publisher": "Restaurant's own Snapchat account @thiqat.sa ('مطعم ثقة الشام')",
+      "post_type": "Spotlight video",
+      "snap_id": "W7_EDlXWTBiXAEEniNoMPwAAYeXVka3htY3JnAaHlkX4ZAaHlkRp1AAAAAA",
+      "posted_utc": "2026-11-16T18:14:14+00:00",
+      "frame": "still frame #1 extracted from the video",
+      "watermark": "Snapchat '@thiqat.sa' watermark in corners (crop before use)",
+      "subject": "Pizza collage",
+      "date_found": "2026-11-21"
+    },
+    {
+      "file": "research/source-images/snapchat/sp61_f2.jpg",
+      "source_url": "https://bolt-gcdn.sc-cdn.net/z/xb6yM6hSCggn2k4c3MidC.27.IRZXSOY?mo=GmEaCTIBeUgCUC5gAVCiAVoQU3BvdGxpZ2h0U2hhcmluZ6IBOggbEikKJwiljuEBIAEwnAQ4wAdAAUoRCgzUAWZ1iAGMAWpxeHYQ9ANQtnpoAiILEgAqB0lSWlhTT1mQA7Z6&uc=46",
+      "found_on": "https://www.snapchat.com/@thiqat.sa",
+      "publisher": "Restaurant's own Snapchat account @thiqat.sa ('مطعم ثقة الشام')",
+      "post_type": "Spotlight video",
+      "snap_id": "W7_EDlXWTBiXAEEniNoMPwAAYeXVka3htY3JnAaHlkX4ZAaHlkRp1AAAAAA",
+      "posted_utc": "2026-11-16T18:14:14+00:00",
+      "frame": "still frame #2 extracted from the video",
+      "watermark": "Snapchat '@thiqat.sa' watermark in corners (crop before use)",
+      "subject": "Pizza collage",
+      "date_found": "2026-11-21"
+    },
+    {
+      "file": "research/source-images/snapchat/sp61_f3.jpg",
+      "source_url": "https://bolt-gcdn.sc-cdn.net/z/xb6yM6hSCggn2k4c3MidC.27.IRZXSOY?mo=GmEaCTIBeUgCUC5gAVCiAVoQU3BvdGxpZ2h0U2hhcmluZ6IBOggbEikKJwiljuEBIAEwnAQ4wAdAAUoRCgzUAWZ1iAGMAWpxeHYQ9ANQtnpoAiILEgAqB0lSWlhTT1mQA7Z6&uc=46",
+      "found_on": "https://www.snapchat.com/@thiqat.sa",
+      "publisher": "Restaurant's own Snapchat account @thiqat.sa ('مطعم ثقة الشام')",
+      "post_type": "Spotlight video",
+      "snap_id": "W7_EDlXWTBiXAEEniNoMPwAAYeXVka3htY3JnAaHlkX4ZAaHlkRp1AAAAAA",
+      "posted_utc": "2026-11-16T18:14:14+00:00",
+      "frame": "still frame #3 extracted from the video",
+      "watermark": "Snapchat '@thiqat.sa' watermark in corners (crop before use)",
+      "subject": "Pizza collage",
+      "date_found": "2026-11-21"
+    },
+    {
+      "file": "research/source-images/snapchat/sp64_f0.jpg",
+      "source_url": "https://bolt-gcdn.sc-cdn.net/z/6RMyBTt0AI8N7Z7wXgrfM.27.IRZXSOY?mo=GmEaCTIBeUgCUC5gAVCiAVoQU3BvdGxpZ2h0U2hhcmluZ6IBOQgbEigKJgiRsaECIAEwnAQ4wAdAAUoPCgqgAUpHUEpCRkVNEPQDUJKDAmgCIgsSACoHSVJaWFNPWZADkoMC&uc=46",
+      "found_on": "https://www.snapchat.com/@thiqat.sa",
+      "publisher": "Restaurant's own Snapchat account @thiqat.sa ('مطعم ثقة الشام')",
+      "post_type": "Spotlight video",
+      "snap_id": "W7_EDlXWTBiXAEEniNoMPwAAYaGxzbGZnb2dnAaHhXGtvAaHhXAj_AAAAAA",
+      "posted_utc": "2026-11-15T22:37:47+00:00",
+      "frame": "still frame #0 extracted from the video",
+      "watermark": "Snapchat '@thiqat.sa' watermark in corners (crop before use)",
+      "subject": "Pizza being topped in the box",
+      "date_found": "2026-11-21"
+    },
+    {
+      "file": "research/source-images/snapchat/sp64_f1.jpg",
+      "source_url": "https://bolt-gcdn.sc-cdn.net/z/6RMyBTt0AI8N7Z7wXgrfM.27.IRZXSOY?mo=GmEaCTIBeUgCUC5gAVCiAVoQU3BvdGxpZ2h0U2hhcmluZ6IBOQgbEigKJgiRsaECIAEwnAQ4wAdAAUoPCgqgAUpHUEpCRkVNEPQDUJKDAmgCIgsSACoHSVJaWFNPWZADkoMC&uc=46",
+      "found_on": "https://www.snapchat.com/@thiqat.sa",
+      "publisher": "Restaurant's own Snapchat account @thiqat.sa ('مطعم ثقة الشام')",
+      "post_type": "Spotlight video",
+      "snap_id": "W7_EDlXWTBiXAEEniNoMPwAAYaGxzbGZnb2dnAaHhXGtvAaHhXAj_AAAAAA",
+      "posted_utc": "2026-11-15T22:37:47+00:00",
+      "frame": "still frame #1 extracted from the video",
+      "watermark": "Snapchat '@thiqat.sa' watermark in corners (crop before use)",
+      "subject": "Pizza being topped in the box",
+      "date_found": "2026-11-21"
+    },
+    {
+      "file": "research/source-images/snapchat/sp64_f2.jpg",
+      "source_url": "https://bolt-gcdn.sc-cdn.net/z/6RMyBTt0AI8N7Z7wXgrfM.27.IRZXSOY?mo=GmEaCTIBeUgCUC5gAVCiAVoQU3BvdGxpZ2h0U2hhcmluZ6IBOQgbEigKJgiRsaECIAEwnAQ4wAdAAUoPCgqgAUpHUEpCRkVNEPQDUJKDAmgCIgsSACoHSVJaWFNPWZADkoMC&uc=46",
+      "found_on": "https://www.snapchat.com/@thiqat.sa",
+      "publisher": "Restaurant's own Snapchat account @thiqat.sa ('مطعم ثقة الشام')",
+      "post_type": "Spotlight video",
+      "snap_id": "W7_EDlXWTBiXAEEniNoMPwAAYaGxzbGZnb2dnAaHhXGtvAaHhXAj_AAAAAA",
+      "posted_utc": "2026-11-15T22:37:47+00:00",
+      "frame": "still frame #2 extracted from the video",
+      "watermark": "Snapchat '@thiqat.sa' watermark in corners (crop before use)",
+      "subject": "Pizza being topped in the box",
+      "date_found": "2026-11-21"
+    },
+    {
+      "file": "research/source-images/snapchat/sp64_f3.jpg",
+      "source_url": "https://bolt-gcdn.sc-cdn.net/z/6RMyBTt0AI8N7Z7wXgrfM.27.IRZXSOY?mo=GmEaCTIBeUgCUC5gAVCiAVoQU3BvdGxpZ2h0U2hhcmluZ6IBOQgbEigKJgiRsaECIAEwnAQ4wAdAAUoPCgqgAUpHUEpCRkVNEPQDUJKDAmgCIgsSACoHSVJaWFNPWZADkoMC&uc=46",
+      "found_on": "https://www.snapchat.com/@thiqat.sa",
+      "publisher": "Restaurant's own Snapchat account @thiqat.sa ('مطعم ثقة الشام')",
+      "post_type": "Spotlight video",
+      "snap_id": "W7_EDlXWTBiXAEEniNoMPwAAYaGxzbGZnb2dnAaHhXGtvAaHhXAj_AAAAAA",
+      "posted_utc": "2026-11-15T22:37:47+00:00",
+      "frame": "still frame #3 extracted from the video",
+      "watermark": "Snapchat '@thiqat.sa' watermark in corners (crop before use)",
+      "subject": "Pizza being topped in the box",
+      "date_found": "2026-11-21"
+    },
+    {
+      "file": "research/source-images/snapchat/sp65_f0.jpg",
+      "source_url": "https://bolt-gcdn.sc-cdn.net/z/TyFioV7cXYsPR1utfVvRO.27.IRZXSOY?mo=Gl4aCTIBeUgCUC5gAVCiAVoQU3BvdGxpZ2h0U2hhcmluZ6IBNwgbEiYKJAjUkmAgATCcBDjAB0ABSg8KCpYBJlY7WVBTS2AQ9ANQ3EJoAiILEgAqB0lSWlhTT1mQA9xC&uc=46",
+      "found_on": "https://www.snapchat.com/@thiqat.sa",
+      "publisher": "Restaurant's own Snapchat account @thiqat.sa ('مطعم ثقة الشام')",
+      "post_type": "Spotlight video",
+      "snap_id": "W7_EDlXWTBiXAEEniNoMPwAAYanlscnJja2JkAaHgoQpGAaHgoNBIAAAAAA",
+      "posted_utc": "2026-11-15T19:13:17+00:00",
+      "frame": "still frame #0 extracted from the video",
+      "watermark": "Snapchat '@thiqat.sa' watermark in corners (crop before use)",
+      "subject": "Skewers over charcoal",
+      "date_found": "2026-11-21"
+    },
+    {
+      "file": "research/source-images/snapchat/sp65_f1.jpg",
+      "source_url": "https://bolt-gcdn.sc-cdn.net/z/TyFioV7cXYsPR1utfVvRO.27.IRZXSOY?mo=Gl4aCTIBeUgCUC5gAVCiAVoQU3BvdGxpZ2h0U2hhcmluZ6IBNwgbEiYKJAjUkmAgATCcBDjAB0ABSg8KCpYBJlY7WVBTS2AQ9ANQ3EJoAiILEgAqB0lSWlhTT1mQA9xC&uc=46",
+      "found_on": "https://www.snapchat.com/@thiqat.sa",
+      "publisher": "Restaurant's own Snapchat account @thiqat.sa ('مطعم ثقة الشام')",
+      "post_type": "Spotlight video",
+      "snap_id": "W7_EDlXWTBiXAEEniNoMPwAAYanlscnJja2JkAaHgoQpGAaHgoNBIAAAAAA",
+      "posted_utc": "2026-11-15T19:13:17+00:00",
+      "frame": "still frame #1 extracted from the video",
+      "watermark": "Snapchat '@thiqat.sa' watermark in corners (crop before use)",
+      "subject": "Skewers over charcoal",
+      "date_found": "2026-11-21"
+    },
+    {
+      "file": "research/source-images/snapchat/sp65_f2.jpg",
+      "source_url": "https://bolt-gcdn.sc-cdn.net/z/TyFioV7cXYsPR1utfVvRO.27.IRZXSOY?mo=Gl4aCTIBeUgCUC5gAVCiAVoQU3BvdGxpZ2h0U2hhcmluZ6IBNwgbEiYKJAjUkmAgATCcBDjAB0ABSg8KCpYBJlY7WVBTS2AQ9ANQ3EJoAiILEgAqB0lSWlhTT1mQA9xC&uc=46",
+      "found_on": "https://www.snapchat.com/@thiqat.sa",
+      "publisher": "Restaurant's own Snapchat account @thiqat.sa ('مطعم ثقة الشام')",
+      "post_type": "Spotlight video",
+      "snap_id": "W7_EDlXWTBiXAEEniNoMPwAAYanlscnJja2JkAaHgoQpGAaHgoNBIAAAAAA",
+      "posted_utc": "2026-11-15T19:13:17+00:00",
+      "frame": "still frame #2 extracted from the video",
+      "watermark": "Snapchat '@thiqat.sa' watermark in corners (crop before use)",
+      "subject": "Skewers over charcoal",
+      "date_found": "2026-11-21"
+    },
+    {
+      "file": "research/source-images/snapchat/sp65_f3.jpg",
+      "source_url": "https://bolt-gcdn.sc-cdn.net/z/TyFioV7cXYsPR1utfVvRO.27.IRZXSOY?mo=Gl4aCTIBeUgCUC5gAVCiAVoQU3BvdGxpZ2h0U2hhcmluZ6IBNwgbEiYKJAjUkmAgATCcBDjAB0ABSg8KCpYBJlY7WVBTS2AQ9ANQ3EJoAiILEgAqB0lSWlhTT1mQA9xC&uc=46",
+      "found_on": "https://www.snapchat.com/@thiqat.sa",
+      "publisher": "Restaurant's own Snapchat account @thiqat.sa ('مطعم ثقة الشام')",
+      "post_type": "Spotlight video",
+      "snap_id": "W7_EDlXWTBiXAEEniNoMPwAAYanlscnJja2JkAaHgoQpGAaHgoNBIAAAAAA",
+      "posted_utc": "2026-11-15T19:13:17+00:00",
+      "frame": "still frame #3 extracted from the video",
+      "watermark": "Snapchat '@thiqat.sa' watermark in corners (crop before use)",
+      "subject": "Skewers over charcoal",
+      "date_found": "2026-11-21"
+    },
+    {
+      "file": "research/source-images/snapchat/sp66_f0.jpg",
+      "source_url": "https://bolt-gcdn.sc-cdn.net/z/G87prsmhB5UQaizVmW9D7.27.IRZXSOY?mo=GmEaCTIBeUgCUC5gAVCiAVoQU3BvdGxpZ2h0U2hhcmluZ6IBOQgbEigKJgiL39QBIAEwnAQ4wAdAAUoPCgqMAVtsRUJgJVY7EPQDULqfAWgCIgsSACoHSVJaWFNPWZADup8B&uc=46",
+      "found_on": "https://www.snapchat.com/@thiqat.sa",
+      "publisher": "Restaurant's own Snapchat account @thiqat.sa ('مطعم ثقة الشام')",
+      "post_type": "Spotlight video",
+      "snap_id": "W7_EDlXWTBiXAEEniNoMPwAAYc21ta3h5Y2puAaHfD8Z5AaHfD4znAAAAAA",
+      "posted_utc": "2026-11-15T11:55:00+00:00",
+      "frame": "still frame #0 extracted from the video",
+      "watermark": "Snapchat '@thiqat.sa' watermark in corners (crop before use)",
+      "subject": "Fatayer trays",
+      "date_found": "2026-11-21"
+    },
+    {
+      "file": "research/source-images/snapchat/sp66_f1.jpg",
+      "source_url": "https://bolt-gcdn.sc-cdn.net/z/G87prsmhB5UQaizVmW9D7.27.IRZXSOY?mo=GmEaCTIBeUgCUC5gAVCiAVoQU3BvdGxpZ2h0U2hhcmluZ6IBOQgbEigKJgiL39QBIAEwnAQ4wAdAAUoPCgqMAVtsRUJgJVY7EPQDULqfAWgCIgsSACoHSVJaWFNPWZADup8B&uc=46",
+      "found_on": "https://www.snapchat.com/@thiqat.sa",
+      "publisher": "Restaurant's own Snapchat account @thiqat.sa ('مطعم ثقة الشام')",
+      "post_type": "Spotlight video",
+      "snap_id": "W7_EDlXWTBiXAEEniNoMPwAAYc21ta3h5Y2puAaHfD8Z5AaHfD4znAAAAAA",
+      "posted_utc": "2026-11-15T11:55:00+00:00",
+      "frame": "still frame #1 extracted from the video",
+      "watermark": "Snapchat '@thiqat.sa' watermark in corners (crop before use)",
+      "subject": "Fatayer trays",
+      "date_found": "2026-11-21"
+    },
+    {
+      "file": "research/source-images/snapchat/sp66_f2.jpg",
+      "source_url": "https://bolt-gcdn.sc-cdn.net/z/G87prsmhB5UQaizVmW9D7.27.IRZXSOY?mo=GmEaCTIBeUgCUC5gAVCiAVoQU3BvdGxpZ2h0U2hhcmluZ6IBOQgbEigKJgiL39QBIAEwnAQ4wAdAAUoPCgqMAVtsRUJgJVY7EPQDULqfAWgCIgsSACoHSVJaWFNPWZADup8B&uc=46",
+      "found_on": "https://www.snapchat.com/@thiqat.sa",
+      "publisher": "Restaurant's own Snapchat account @thiqat.sa ('مطعم ثقة الشام')",
+      "post_type": "Spotlight video",
+      "snap_id": "W7_EDlXWTBiXAEEniNoMPwAAYc21ta3h5Y2puAaHfD8Z5AaHfD4znAAAAAA",
+      "posted_utc": "2026-11-15T11:55:00+00:00",
+      "frame": "still frame #2 extracted from the video",
+      "watermark": "Snapchat '@thiqat.sa' watermark in corners (crop before use)",
+      "subject": "Fatayer trays",
+      "date_found": "2026-11-21"
+    },
+    {
+      "file": "research/source-images/snapchat/sp66_f3.jpg",
+      "source_url": "https://bolt-gcdn.sc-cdn.net/z/G87prsmhB5UQaizVmW9D7.27.IRZXSOY?mo=GmEaCTIBeUgCUC5gAVCiAVoQU3BvdGxpZ2h0U2hhcmluZ6IBOQgbEigKJgiL39QBIAEwnAQ4wAdAAUoPCgqMAVtsRUJgJVY7EPQDULqfAWgCIgsSACoHSVJaWFNPWZADup8B&uc=46",
+      "found_on": "https://www.snapchat.com/@thiqat.sa",
+      "publisher": "Restaurant's own Snapchat account @thiqat.sa ('مطعم ثقة الشام')",
+      "post_type": "Spotlight video",
+      "snap_id": "W7_EDlXWTBiXAEEniNoMPwAAYc21ta3h5Y2puAaHfD8Z5AaHfD4znAAAAAA",
+      "posted_utc": "2026-11-15T11:55:00+00:00",
+      "frame": "still frame #3 extracted from the video",
+      "watermark": "Snapchat '@thiqat.sa' watermark in corners (crop before use)",
+      "subject": "Fatayer trays",
+      "date_found": "2026-11-21"
+    },
+    {
+      "file": "research/source-images/snapchat/sp68_f0.jpg",
+      "source_url": "https://bolt-gcdn.sc-cdn.net/z/Imu0SjasnCwgm0jKfSShb.27.IRZXSOY?mo=GmEaCTIBeUgCUC5gAVCiAVoQU3BvdGxpZ2h0U2hhcmluZ6IBOQgbEigKJgj73YwBIAEwnAQ4wAdAAUoPCgqOAS0zMjg2JzRGEPQDUPaGAWgCIgsSACoHSVJaWFNPWZAD9oYB&uc=46",
+      "found_on": "https://www.snapchat.com/@thiqat.sa",
+      "publisher": "Restaurant's own Snapchat account @thiqat.sa ('مطعم ثقة الشام')",
+      "post_type": "Spotlight video",
+      "snap_id": "W7_EDlXWTBiXAEEniNoMPwAAYam9leWNzZGpsAaHQm0kcAaHQbUOXAAAAAA",
+      "posted_utc": "2026-11-12T15:43:04+00:00",
+      "frame": "still frame #0 extracted from the video",
+      "watermark": "Snapchat '@thiqat.sa' watermark in corners (crop before use)",
+      "subject": "Skewers over charcoal",
+      "date_found": "2026-11-21"
+    },
+    {
+      "file": "research/source-images/snapchat/sp68_f1.jpg",
+      "source_url": "https://bolt-gcdn.sc-cdn.net/z/Imu0SjasnCwgm0jKfSShb.27.IRZXSOY?mo=GmEaCTIBeUgCUC5gAVCiAVoQU3BvdGxpZ2h0U2hhcmluZ6IBOQgbEigKJgj73YwBIAEwnAQ4wAdAAUoPCgqOAS0zMjg2JzRGEPQDUPaGAWgCIgsSACoHSVJaWFNPWZAD9oYB&uc=46",
+      "found_on": "https://www.snapchat.com/@thiqat.sa",
+      "publisher": "Restaurant's own Snapchat account @thiqat.sa ('مطعم ثقة الشام')",
+      "post_type": "Spotlight video",
+      "snap_id": "W7_EDlXWTBiXAEEniNoMPwAAYam9leWNzZGpsAaHQm0kcAaHQbUOXAAAAAA",
+      "posted_utc": "2026-11-12T15:43:04+00:00",
+      "frame": "still frame #1 extracted from the video",
+      "watermark": "Snapchat '@thiqat.sa' watermark in corners (crop before use)",
+      "subject": "Skewers over charcoal",
+      "date_found": "2026-11-21"
+    },
+    {
+      "file": "research/source-images/snapchat/sp68_f2.jpg",
+      "source_url": "https://bolt-gcdn.sc-cdn.net/z/Imu0SjasnCwgm0jKfSShb.27.IRZXSOY?mo=GmEaCTIBeUgCUC5gAVCiAVoQU3BvdGxpZ2h0U2hhcmluZ6IBOQgbEigKJgj73YwBIAEwnAQ4wAdAAUoPCgqOAS0zMjg2JzRGEPQDUPaGAWgCIgsSACoHSVJaWFNPWZAD9oYB&uc=46",
+      "found_on": "https://www.snapchat.com/@thiqat.sa",
+      "publisher": "Restaurant's own Snapchat account @thiqat.sa ('مطعم ثقة الشام')",
+      "post_type": "Spotlight video",
+      "snap_id": "W7_EDlXWTBiXAEEniNoMPwAAYam9leWNzZGpsAaHQm0kcAaHQbUOXAAAAAA",
+      "posted_utc": "2026-11-12T15:43:04+00:00",
+      "frame": "still frame #2 extracted from the video",
+      "watermark": "Snapchat '@thiqat.sa' watermark in corners (crop before use)",
+      "subject": "Skewers over charcoal",
+      "date_found": "2026-11-21"
+    },
+    {
+      "file": "research/source-images/snapchat/sp68_f3.jpg",
+      "source_url": "https://bolt-gcdn.sc-cdn.net/z/Imu0SjasnCwgm0jKfSShb.27.IRZXSOY?mo=GmEaCTIBeUgCUC5gAVCiAVoQU3BvdGxpZ2h0U2hhcmluZ6IBOQgbEigKJgj73YwBIAEwnAQ4wAdAAUoPCgqOAS0zMjg2JzRGEPQDUPaGAWgCIgsSACoHSVJaWFNPWZAD9oYB&uc=46",
+      "found_on": "https://www.snapchat.com/@thiqat.sa",
+      "publisher": "Restaurant's own Snapchat account @thiqat.sa ('مطعم ثقة الشام')",
+      "post_type": "Spotlight video",
+      "snap_id": "W7_EDlXWTBiXAEEniNoMPwAAYam9leWNzZGpsAaHQm0kcAaHQbUOXAAAAAA",
+      "posted_utc": "2026-11-12T15:43:04+00:00",
+      "frame": "still frame #3 extracted from the video",
+      "watermark": "Snapchat '@thiqat.sa' watermark in corners (crop before use)",
+      "subject": "Skewers over charcoal",
+      "date_found": "2026-11-21"
+    },
+    {
+      "file": "research/source-images/snapchat/sp71_f0.jpg",
+      "source_url": "https://bolt-gcdn.sc-cdn.net/z/QziJXTYrRCEzsqNHaYQkk.27.IRZXSOY?mo=GmIaCTIBeUgCUC5gAVCiAVoQU3BvdGxpZ2h0U2hhcmluZ6IBOggbEikKJwjMlKEEIAEwnAQ4wAdAAUoQCgvAATtDN05bV4ABPxD0A1CKvQNoAiILEgAqB0lSWlhTT1mQA4q9Aw%3D%3D&uc=46",
+      "found_on": "https://www.snapchat.com/@thiqat.sa",
+      "publisher": "Restaurant's own Snapchat account @thiqat.sa ('مطعم ثقة الشام')",
+      "post_type": "Spotlight video",
+      "snap_id": "W7_EDlXWTBiXAEEniNoMPwAAYcHN0cWRidXltAaHA2lA8AaHA2fwTAAAAAA",
+      "posted_utc": "2026-11-09T15:07:53+00:00",
+      "frame": "still frame #0 extracted from the video",
+      "watermark": "Snapchat '@thiqat.sa' watermark in corners (crop before use)",
+      "subject": "Pizzas being prepared",
+      "date_found": "2026-11-21"
+    },
+    {
+      "file": "research/source-images/snapchat/sp71_f1.jpg",
+      "source_url": "https://bolt-gcdn.sc-cdn.net/z/QziJXTYrRCEzsqNHaYQkk.27.IRZXSOY?mo=GmIaCTIBeUgCUC5gAVCiAVoQU3BvdGxpZ2h0U2hhcmluZ6IBOggbEikKJwjMlKEEIAEwnAQ4wAdAAUoQCgvAATtDN05bV4ABPxD0A1CKvQNoAiILEgAqB0lSWlhTT1mQA4q9Aw%3D%3D&uc=46",
+      "found_on": "https://www.snapchat.com/@thiqat.sa",
+      "publisher": "Restaurant's own Snapchat account @thiqat.sa ('مطعم ثقة الشام')",
+      "post_type": "Spotlight video",
+      "snap_id": "W7_EDlXWTBiXAEEniNoMPwAAYcHN0cWRidXltAaHA2lA8AaHA2fwTAAAAAA",
+      "posted_utc": "2026-11-09T15:07:53+00:00",
+      "frame": "still frame #1 extracted from the video",
+      "watermark": "Snapchat '@thiqat.sa' watermark in corners (crop before use)",
+      "subject": "Pizzas being prepared",
+      "date_found": "2026-11-21"
+    },
+    {
+      "file": "research/source-images/snapchat/sp71_f2.jpg",
+      "source_url": "https://bolt-gcdn.sc-cdn.net/z/QziJXTYrRCEzsqNHaYQkk.27.IRZXSOY?mo=GmIaCTIBeUgCUC5gAVCiAVoQU3BvdGxpZ2h0U2hhcmluZ6IBOggbEikKJwjMlKEEIAEwnAQ4wAdAAUoQCgvAATtDN05bV4ABPxD0A1CKvQNoAiILEgAqB0lSWlhTT1mQA4q9Aw%3D%3D&uc=46",
+      "found_on": "https://www.snapchat.com/@thiqat.sa",
+      "publisher": "Restaurant's own Snapchat account @thiqat.sa ('مطعم ثقة الشام')",
+      "post_type": "Spotlight video",
+      "snap_id": "W7_EDlXWTBiXAEEniNoMPwAAYcHN0cWRidXltAaHA2lA8AaHA2fwTAAAAAA",
+      "posted_utc": "2026-11-09T15:07:53+00:00",
+      "frame": "still frame #2 extracted from the video",
+      "watermark": "Snapchat '@thiqat.sa' watermark in corners (crop before use)",
+      "subject": "Pizzas being prepared",
+      "date_found": "2026-11-21"
+    },
+    {
+      "file": "research/source-images/snapchat/sp71_f3.jpg",
+      "source_url": "https://bolt-gcdn.sc-cdn.net/z/QziJXTYrRCEzsqNHaYQkk.27.IRZXSOY?mo=GmIaCTIBeUgCUC5gAVCiAVoQU3BvdGxpZ2h0U2hhcmluZ6IBOggbEikKJwjMlKEEIAEwnAQ4wAdAAUoQCgvAATtDN05bV4ABPxD0A1CKvQNoAiILEgAqB0lSWlhTT1mQA4q9Aw%3D%3D&uc=46",
+      "found_on": "https://www.snapchat.com/@thiqat.sa",
+      "publisher": "Restaurant's own Snapchat account @thiqat.sa ('مطعم ثقة الشام')",
+      "post_type": "Spotlight video",
+      "snap_id": "W7_EDlXWTBiXAEEniNoMPwAAYcHN0cWRidXltAaHA2lA8AaHA2fwTAAAAAA",
+      "posted_utc": "2026-11-09T15:07:53+00:00",
+      "frame": "still frame #3 extracted from the video",
+      "watermark": "Snapchat '@thiqat.sa' watermark in corners (crop before use)",
+      "subject": "Pizzas being prepared",
+      "date_found": "2026-11-21"
+    },
+    {
+      "file": "research/source-images/snapchat/sp73-shawarma-2026-11-08.jpg",
+      "source_url": "https://cf-st.sc-cdn.net/d/KnaTTl3m56mYrApmmfpb3.1023.IRZXSOY?mo=GkUaCTIBBEgDUC5gAVBeWhBQdWJsaWNJbWFnZVN0b3J5ogEQCP8HIgsSACoHSVJaWFNPWaIBEAjnByILEgAqB0lSWlhTT1k%3D&uc=46",
+      "found_on": "https://www.snapchat.com/@thiqat.sa",
+      "publisher": "Restaurant's own Snapchat account @thiqat.sa ('مطعم ثقة الشام')",
+      "post_type": "Spotlight image",
+      "snap_id": "W7_EDlXWTBiXAEEniNoMPwAAYdGN3YmtrcWF6AaG8J5WvAaG8J5Q8AAAAAA",
+      "posted_utc": "2026-11-08T17:14:32+00:00",
+      "frame": "original image",
+      "watermark": null,
+      "subject": "Chicken shawarma on the spit",
+      "date_found": "2026-11-21"
+    },
+    {
+      "file": "research/source-images/snapchat/sp75_f0.jpg",
+      "source_url": "https://bolt-gcdn.sc-cdn.net/z/qVpmCI0VLY9Ky6XTsFlU1.27.IRZXSOY?mo=GmAaCTIBeUgCUC5gAVCiAVoQU3BvdGxpZ2h0U2hhcmluZ6IBOAgbEicKJQi467ECIAEwnAQ4wAdAAUoOCglzLSwvPDhFTkoQ9ANQyK0CaAIiCxIAKgdJUlpYU09ZkAPIrQI%3D&uc=46",
+      "found_on": "https://www.snapchat.com/@thiqat.sa",
+      "publisher": "Restaurant's own Snapchat account @thiqat.sa ('مطعم ثقة الشام')",
+      "post_type": "Spotlight video",
+      "snap_id": "W7_EDlXWTBiXAEEniNoMPwAAYdXh6ampta2R0AaG2JyB2AaG2JuGvAAAAAA",
+      "posted_utc": "2026-11-07T13:16:03+00:00",
+      "frame": "still frame #0 extracted from the video",
+      "watermark": "Snapchat '@thiqat.sa' watermark in corners (crop before use)",
+      "subject": "Pizzas",
+      "date_found": "2026-11-21"
+    },
+    {
+      "file": "research/source-images/snapchat/sp75_f1.jpg",
+      "source_url": "https://bolt-gcdn.sc-cdn.net/z/qVpmCI0VLY9Ky6XTsFlU1.27.IRZXSOY?mo=GmAaCTIBeUgCUC5gAVCiAVoQU3BvdGxpZ2h0U2hhcmluZ6IBOAgbEicKJQi467ECIAEwnAQ4wAdAAUoOCglzLSwvPDhFTkoQ9ANQyK0CaAIiCxIAKgdJUlpYU09ZkAPIrQI%3D&uc=46",
+      "found_on": "https://www.snapchat.com/@thiqat.sa",
+      "publisher": "Restaurant's own Snapchat account @thiqat.sa ('مطعم ثقة الشام')",
+      "post_type": "Spotlight video",
+      "snap_id": "W7_EDlXWTBiXAEEniNoMPwAAYdXh6ampta2R0AaG2JyB2AaG2JuGvAAAAAA",
+      "posted_utc": "2026-11-07T13:16:03+00:00",
+      "frame": "still frame #1 extracted from the video",
+      "watermark": "Snapchat '@thiqat.sa' watermark in corners (crop before use)",
+      "subject": "Pizzas",
+      "date_found": "2026-11-21"
+    },
+    {
+      "file": "research/source-images/snapchat/sp75_f2.jpg",
+      "source_url": "https://bolt-gcdn.sc-cdn.net/z/qVpmCI0VLY9Ky6XTsFlU1.27.IRZXSOY?mo=GmAaCTIBeUgCUC5gAVCiAVoQU3BvdGxpZ2h0U2hhcmluZ6IBOAgbEicKJQi467ECIAEwnAQ4wAdAAUoOCglzLSwvPDhFTkoQ9ANQyK0CaAIiCxIAKgdJUlpYU09ZkAPIrQI%3D&uc=46",
+      "found_on": "https://www.snapchat.com/@thiqat.sa",
+      "publisher": "Restaurant's own Snapchat account @thiqat.sa ('مطعم ثقة الشام')",
+      "post_type": "Spotlight video",
+      "snap_id": "W7_EDlXWTBiXAEEniNoMPwAAYdXh6ampta2R0AaG2JyB2AaG2JuGvAAAAAA",
+      "posted_utc": "2026-11-07T13:16:03+00:00",
+      "frame": "still frame #2 extracted from the video",
+      "watermark": "Snapchat '@thiqat.sa' watermark in corners (crop before use)",
+      "subject": "Pizzas",
+      "date_found": "2026-11-21"
+    },
+    {
+      "file": "research/source-images/snapchat/sp75_f3.jpg",
+      "source_url": "https://bolt-gcdn.sc-cdn.net/z/qVpmCI0VLY9Ky6XTsFlU1.27.IRZXSOY?mo=GmAaCTIBeUgCUC5gAVCiAVoQU3BvdGxpZ2h0U2hhcmluZ6IBOAgbEicKJQi467ECIAEwnAQ4wAdAAUoOCglzLSwvPDhFTkoQ9ANQyK0CaAIiCxIAKgdJUlpYU09ZkAPIrQI%3D&uc=46",
+      "found_on": "https://www.snapchat.com/@thiqat.sa",
+      "publisher": "Restaurant's own Snapchat account @thiqat.sa ('مطعم ثقة الشام')",
+      "post_type": "Spotlight video",
+      "snap_id": "W7_EDlXWTBiXAEEniNoMPwAAYdXh6ampta2R0AaG2JyB2AaG2JuGvAAAAAA",
+      "posted_utc": "2026-11-07T13:16:03+00:00",
+      "frame": "still frame #3 extracted from the video",
+      "watermark": "Snapchat '@thiqat.sa' watermark in corners (crop before use)",
+      "subject": "Pizzas",
+      "date_found": "2026-11-21"
+    },
+    {
+      "file": "research/source-images/snapchat/st00_f0.jpg",
+      "source_url": "https://cf-st.sc-cdn.net/i/BcjJVL5UbaYRBR9YY7xUE.1034.IRZXSOY?mo=GlcaFDIBCToBfkIGCOe75tcGSAJQS2ABULABogE3CIoIEiUKIwiF8kYgATDgAzjWBkABSg4KCWE_VisqPR87NRD0A1D8TWgCIgsSACoHSVJaWFNPWZAD_E0%3D&uc=75",
+      "found_on": "https://www.snapchat.com/@thiqat.sa",
+      "publisher": "Restaurant's own Snapchat account @thiqat.sa ('مطعم ثقة الشام')",
+      "post_type": "Public story video",
+      "snap_id": "K928xVWVQVa7qZ7bH1o8-AAAgcWh2Y2xoaHJkAaHfD8irAaHfD54EAAAAAA",
+      "posted_utc": "2026-11-15T11:55:05+00:00",
+      "frame": "still frame #0 extracted from the video",
+      "watermark": null,
+      "subject": "Tray of fatayer",
+      "date_found": "2026-11-21"
+    },
+    {
+      "file": "research/source-images/snapchat/st00_f1.jpg",
+      "source_url": "https://cf-st.sc-cdn.net/i/BcjJVL5UbaYRBR9YY7xUE.1034.IRZXSOY?mo=GlcaFDIBCToBfkIGCOe75tcGSAJQS2ABULABogE3CIoIEiUKIwiF8kYgATDgAzjWBkABSg4KCWE_VisqPR87NRD0A1D8TWgCIgsSACoHSVJaWFNPWZAD_E0%3D&uc=75",
+      "found_on": "https://www.snapchat.com/@thiqat.sa",
+      "publisher": "Restaurant's own Snapchat account @thiqat.sa ('مطعم ثقة الشام')",
+      "post_type": "Public story video",
+      "snap_id": "K928xVWVQVa7qZ7bH1o8-AAAgcWh2Y2xoaHJkAaHfD8irAaHfD54EAAAAAA",
+      "posted_utc": "2026-11-15T11:55:05+00:00",
+      "frame": "still frame #1 extracted from the video",
+      "watermark": null,
+      "subject": "Tray of fatayer",
+      "date_found": "2026-11-21"
+    },
+    {
+      "file": "research/source-images/snapchat/st00_f2.jpg",
+      "source_url": "https://cf-st.sc-cdn.net/i/BcjJVL5UbaYRBR9YY7xUE.1034.IRZXSOY?mo=GlcaFDIBCToBfkIGCOe75tcGSAJQS2ABULABogE3CIoIEiUKIwiF8kYgATDgAzjWBkABSg4KCWE_VisqPR87NRD0A1D8TWgCIgsSACoHSVJaWFNPWZAD_E0%3D&uc=75",
+      "found_on": "https://www.snapchat.com/@thiqat.sa",
+      "publisher": "Restaurant's own Snapchat account @thiqat.sa ('مطعم ثقة الشام')",
+      "post_type": "Public story video",
+      "snap_id": "K928xVWVQVa7qZ7bH1o8-AAAgcWh2Y2xoaHJkAaHfD8irAaHfD54EAAAAAA",
+      "posted_utc": "2026-11-15T11:55:05+00:00",
+      "frame": "still frame #2 extracted from the video",
+      "watermark": null,
+      "subject": "Tray of fatayer",
+      "date_found": "2026-11-21"
+    },
+    {
+      "file": "research/source-images/snapchat/st00_f3.jpg",
+      "source_url": "https://cf-st.sc-cdn.net/i/BcjJVL5UbaYRBR9YY7xUE.1034.IRZXSOY?mo=GlcaFDIBCToBfkIGCOe75tcGSAJQS2ABULABogE3CIoIEiUKIwiF8kYgATDgAzjWBkABSg4KCWE_VisqPR87NRD0A1D8TWgCIgsSACoHSVJaWFNPWZAD_E0%3D&uc=75",
+      "found_on": "https://www.snapchat.com/@thiqat.sa",
+      "publisher": "Restaurant's own Snapchat account @thiqat.sa ('مطعم ثقة الشام')",
+      "post_type": "Public story video",
+      "snap_id": "K928xVWVQVa7qZ7bH1o8-AAAgcWh2Y2xoaHJkAaHfD8irAaHfD54EAAAAAA",
+      "posted_utc": "2026-11-15T11:55:05+00:00",
+      "frame": "still frame #3 extracted from the video",
+      "watermark": null,
+      "subject": "Tray of fatayer",
+      "date_found": "2026-11-21"
+    },
+    {
+      "file": "research/source-images/snapchat/st19_f0.jpg",
+      "source_url": "https://cf-st.sc-cdn.net/i/8rG4979ZyMq27FEQ2gvk1.1034.IRZXSOY?mo=GlUaFDIBCToBfkIGCOWw7dcGSAJQS2ABULABogE1CIoIEiMKIQjh1xsgATDgAzjWBkABSgwKB1JDNyZhNy8Q9ANQrhxoAiILEgAqB0lSWlhTT1mQA64c&uc=75",
+      "found_on": "https://www.snapchat.com/@thiqat.sa",
+      "publisher": "Restaurant's own Snapchat account @thiqat.sa ('مطعم ثقة الشام')",
+      "post_type": "Public story video",
+      "snap_id": "K928xVWVQVa7qZ7bH1o8-AAAgemlkc2t5cmF0AaHl0Ne-AaHl0IWWAAAAAA",
+      "posted_utc": "2026-11-16T19:23:30+00:00",
+      "frame": "still frame #0 extracted from the video",
+      "watermark": null,
+      "subject": "Shaping fatayer dough",
+      "date_found": "2026-11-21"
+    },
+    {
+      "file": "research/source-images/snapchat/st19_f1.jpg",
+      "source_url": "https://cf-st.sc-cdn.net/i/8rG4979ZyMq27FEQ2gvk1.1034.IRZXSOY?mo=GlUaFDIBCToBfkIGCOWw7dcGSAJQS2ABULABogE1CIoIEiMKIQjh1xsgATDgAzjWBkABSgwKB1JDNyZhNy8Q9ANQrhxoAiILEgAqB0lSWlhTT1mQA64c&uc=75",
+      "found_on": "https://www.snapchat.com/@thiqat.sa",
+      "publisher": "Restaurant's own Snapchat account @thiqat.sa ('مطعم ثقة الشام')",
+      "post_type": "Public story video",
+      "snap_id": "K928xVWVQVa7qZ7bH1o8-AAAgemlkc2t5cmF0AaHl0Ne-AaHl0IWWAAAAAA",
+      "posted_utc": "2026-11-16T19:23:30+00:00",
+      "frame": "still frame #1 extracted from the video",
+      "watermark": null,
+      "subject": "Shaping fatayer dough",
+      "date_found": "2026-11-21"
+    },
+    {
+      "file": "research/source-images/snapchat/st19_f2.jpg",
+      "source_url": "https://cf-st.sc-cdn.net/i/8rG4979ZyMq27FEQ2gvk1.1034.IRZXSOY?mo=GlUaFDIBCToBfkIGCOWw7dcGSAJQS2ABULABogE1CIoIEiMKIQjh1xsgATDgAzjWBkABSgwKB1JDNyZhNy8Q9ANQrhxoAiILEgAqB0lSWlhTT1mQA64c&uc=75",
+      "found_on": "https://www.snapchat.com/@thiqat.sa",
+      "publisher": "Restaurant's own Snapchat account @thiqat.sa ('مطعم ثقة الشام')",
+      "post_type": "Public story video",
+      "snap_id": "K928xVWVQVa7qZ7bH1o8-AAAgemlkc2t5cmF0AaHl0Ne-AaHl0IWWAAAAAA",
+      "posted_utc": "2026-11-16T19:23:30+00:00",
+      "frame": "still frame #2 extracted from the video",
+      "watermark": null,
+      "subject": "Shaping fatayer dough",
+      "date_found": "2026-11-21"
+    },
+    {
+      "file": "research/source-images/snapchat/st19_f3.jpg",
+      "source_url": "https://cf-st.sc-cdn.net/i/8rG4979ZyMq27FEQ2gvk1.1034.IRZXSOY?mo=GlUaFDIBCToBfkIGCOWw7dcGSAJQS2ABULABogE1CIoIEiMKIQjh1xsgATDgAzjWBkABSgwKB1JDNyZhNy8Q9ANQrhxoAiILEgAqB0lSWlhTT1mQA64c&uc=75",
+      "found_on": "https://www.snapchat.com/@thiqat.sa",
+      "publisher": "Restaurant's own Snapchat account @thiqat.sa ('مطعم ثقة الشام')",
+      "post_type": "Public story video",
+      "snap_id": "K928xVWVQVa7qZ7bH1o8-AAAgemlkc2t5cmF0AaHl0Ne-AaHl0IWWAAAAAA",
+      "posted_utc": "2026-11-16T19:23:30+00:00",
+      "frame": "still frame #3 extracted from the video",
+      "watermark": null,
+      "subject": "Shaping fatayer dough",
+      "date_found": "2026-11-21"
+    },
+    {
+      "file": "research/source-images/snapchat/st20_f0.jpg",
+      "source_url": "https://cf-st.sc-cdn.net/i/ogxZ4GiiPtxX9zPuFrjGr.1034.IRZXSOY?mo=GlcaFDIBCToBfkIGCMDw8NcGSAJQS2ABULABogE3CIoIEiUKIwjQjUMgATDgAzjWBkABSg4KCV8oLDU0OygwNBD0A1DyTWgCIgsSACoHSVJaWFNPWZAD8k0%3D&uc=75",
+      "found_on": "https://www.snapchat.com/@thiqat.sa",
+      "publisher": "Restaurant's own Snapchat account @thiqat.sa ('مطعم ثقة الشام')",
+      "post_type": "Public story video",
+      "snap_id": "K928xVWVQVa7qZ7bH1o8-AAAgbmtrd2x2cXB5AaHpOy3EAaHpOwY2AAAAAA",
+      "posted_utc": "2026-11-17T11:18:41+00:00",
+      "frame": "still frame #0 extracted from the video",
+      "watermark": null,
+      "subject": "Shish tawook and kebab skewers over charcoal",
+      "date_found": "2026-11-21"
+    },
+    {
+      "file": "research/source-images/snapchat/st20_f1.jpg",
+      "source_url": "https://cf-st.sc-cdn.net/i/ogxZ4GiiPtxX9zPuFrjGr.1034.IRZXSOY?mo=GlcaFDIBCToBfkIGCMDw8NcGSAJQS2ABULABogE3CIoIEiUKIwjQjUMgATDgAzjWBkABSg4KCV8oLDU0OygwNBD0A1DyTWgCIgsSACoHSVJaWFNPWZAD8k0%3D&uc=75",
+      "found_on": "https://www.snapchat.com/@thiqat.sa",
+      "publisher": "Restaurant's own Snapchat account @thiqat.sa ('مطعم ثقة الشام')",
+      "post_type": "Public story video",
+      "snap_id": "K928xVWVQVa7qZ7bH1o8-AAAgbmtrd2x2cXB5AaHpOy3EAaHpOwY2AAAAAA",
+      "posted_utc": "2026-11-17T11:18:41+00:00",
+      "frame": "still frame #1 extracted from the video",
+      "watermark": null,
+      "subject": "Shish tawook and kebab skewers over charcoal",
+      "date_found": "2026-11-21"
+    },
+    {
+      "file": "research/source-images/snapchat/st20_f2.jpg",
+      "source_url": "https://cf-st.sc-cdn.net/i/ogxZ4GiiPtxX9zPuFrjGr.1034.IRZXSOY?mo=GlcaFDIBCToBfkIGCMDw8NcGSAJQS2ABULABogE3CIoIEiUKIwjQjUMgATDgAzjWBkABSg4KCV8oLDU0OygwNBD0A1DyTWgCIgsSACoHSVJaWFNPWZAD8k0%3D&uc=75",
+      "found_on": "https://www.snapchat.com/@thiqat.sa",
+      "publisher": "Restaurant's own Snapchat account @thiqat.sa ('مطعم ثقة الشام')",
+      "post_type": "Public story video",
+      "snap_id": "K928xVWVQVa7qZ7bH1o8-AAAgbmtrd2x2cXB5AaHpOy3EAaHpOwY2AAAAAA",
+      "posted_utc": "2026-11-17T11:18:41+00:00",
+      "frame": "still frame #2 extracted from the video",
+      "watermark": null,
+      "subject": "Shish tawook and kebab skewers over charcoal",
+      "date_found": "2026-11-21"
+    },
+    {
+      "file": "research/source-images/snapchat/st20_f3.jpg",
+      "source_url": "https://cf-st.sc-cdn.net/i/ogxZ4GiiPtxX9zPuFrjGr.1034.IRZXSOY?mo=GlcaFDIBCToBfkIGCMDw8NcGSAJQS2ABULABogE3CIoIEiUKIwjQjUMgATDgAzjWBkABSg4KCV8oLDU0OygwNBD0A1DyTWgCIgsSACoHSVJaWFNPWZAD8k0%3D&uc=75",
+      "found_on": "https://www.snapchat.com/@thiqat.sa",
+      "publisher": "Restaurant's own Snapchat account @thiqat.sa ('مطعم ثقة الشام')",
+      "post_type": "Public story video",
+      "snap_id": "K928xVWVQVa7qZ7bH1o8-AAAgbmtrd2x2cXB5AaHpOy3EAaHpOwY2AAAAAA",
+      "posted_utc": "2026-11-17T11:18:41+00:00",
+      "frame": "still frame #3 extracted from the video",
+      "watermark": null,
+      "subject": "Shish tawook and kebab skewers over charcoal",
+      "date_found": "2026-11-21"
+    },
+    {
+      "file": "research/source-images/snapchat/st31_f0.jpg",
+      "source_url": "https://cf-st.sc-cdn.net/i/MSKEZjpqusOQfzHmeGp4N.1034.IRZXSOY?mo=GlYaFDIBCToBfkIGCMPZ8tcGSAJQS2ABULABogE2CIoIEiQKIgi1iSEgATDgAzjWBkABSg0KCGU8ODNOPTkwEPQDUPYiaAIiCxIAKgdJUlpYU09ZkAP2Ig%3D%3D&uc=75",
+      "found_on": "https://www.snapchat.com/@thiqat.sa",
+      "publisher": "Restaurant's own Snapchat account @thiqat.sa ('مطعم ثقة الشام')",
+      "post_type": "Public story video",
+      "snap_id": "K928xVWVQVa7qZ7bH1o8-AAAgeWZyeXFlbmZ2AaHrAmL6AaHrAkI6AAAAAA",
+      "posted_utc": "2026-11-17T19:35:56+00:00",
+      "frame": "still frame #0 extracted from the video",
+      "watermark": null,
+      "subject": "Mixed skewers over charcoal",
+      "date_found": "2026-11-21"
+    },
+    {
+      "file": "research/source-images/snapchat/st31_f1.jpg",
+      "source_url": "https://cf-st.sc-cdn.net/i/MSKEZjpqusOQfzHmeGp4N.1034.IRZXSOY?mo=GlYaFDIBCToBfkIGCMPZ8tcGSAJQS2ABULABogE2CIoIEiQKIgi1iSEgATDgAzjWBkABSg0KCGU8ODNOPTkwEPQDUPYiaAIiCxIAKgdJUlpYU09ZkAP2Ig%3D%3D&uc=75",
+      "found_on": "https://www.snapchat.com/@thiqat.sa",
+      "publisher": "Restaurant's own Snapchat account @thiqat.sa ('مطعم ثقة الشام')",
+      "post_type": "Public story video",
+      "snap_id": "K928xVWVQVa7qZ7bH1o8-AAAgeWZyeXFlbmZ2AaHrAmL6AaHrAkI6AAAAAA",
+      "posted_utc": "2026-11-17T19:35:56+00:00",
+      "frame": "still frame #1 extracted from the video",
+      "watermark": null,
+      "subject": "Mixed skewers over charcoal",
+      "date_found": "2026-11-21"
+    },
+    {
+      "file": "research/source-images/snapchat/st31_f2.jpg",
+      "source_url": "https://cf-st.sc-cdn.net/i/MSKEZjpqusOQfzHmeGp4N.1034.IRZXSOY?mo=GlYaFDIBCToBfkIGCMPZ8tcGSAJQS2ABULABogE2CIoIEiQKIgi1iSEgATDgAzjWBkABSg0KCGU8ODNOPTkwEPQDUPYiaAIiCxIAKgdJUlpYU09ZkAP2Ig%3D%3D&uc=75",
+      "found_on": "https://www.snapchat.com/@thiqat.sa",
+      "publisher": "Restaurant's own Snapchat account @thiqat.sa ('مطعم ثقة الشام')",
+      "post_type": "Public story video",
+      "snap_id": "K928xVWVQVa7qZ7bH1o8-AAAgeWZyeXFlbmZ2AaHrAmL6AaHrAkI6AAAAAA",
+      "posted_utc": "2026-11-17T19:35:56+00:00",
+      "frame": "still frame #2 extracted from the video",
+      "watermark": null,
+      "subject": "Mixed skewers over charcoal",
+      "date_found": "2026-11-21"
+    },
+    {
+      "file": "research/source-images/snapchat/st31_f3.jpg",
+      "source_url": "https://cf-st.sc-cdn.net/i/MSKEZjpqusOQfzHmeGp4N.1034.IRZXSOY?mo=GlYaFDIBCToBfkIGCMPZ8tcGSAJQS2ABULABogE2CIoIEiQKIgi1iSEgATDgAzjWBkABSg0KCGU8ODNOPTkwEPQDUPYiaAIiCxIAKgdJUlpYU09ZkAP2Ig%3D%3D&uc=75",
+      "found_on": "https://www.snapchat.com/@thiqat.sa",
+      "publisher": "Restaurant's own Snapchat account @thiqat.sa ('مطعم ثقة الشام')",
+      "post_type": "Public story video",
+      "snap_id": "K928xVWVQVa7qZ7bH1o8-AAAgeWZyeXFlbmZ2AaHrAmL6AaHrAkI6AAAAAA",
+      "posted_utc": "2026-11-17T19:35:56+00:00",
+      "frame": "still frame #3 extracted from the video",
+      "watermark": null,
+      "subject": "Mixed skewers over charcoal",
+      "date_found": "2026-11-21"
+    },
+    {
+      "file": "research/source-images/snapchat/st37_f0.jpg",
+      "source_url": "https://cf-st.sc-cdn.net/i/o0zrWIaRMSh7Xrh4pP54p.1034.IRZXSOY?mo=GlcaFDIBCToBfkIGCJbm9dcGSAJQS2ABULABogE3CIoIEiUKIwjJj0kgATDgAzjWBkABSg4KCWMtOy8_MUM2PRD0A1DyTWgCIgsSACoHSVJaWFNPWZAD8k0%3D&uc=75",
+      "found_on": "https://www.snapchat.com/@thiqat.sa",
+      "publisher": "Restaurant's own Snapchat account @thiqat.sa ('مطعم ثقة الشام')",
+      "post_type": "Public story video",
+      "snap_id": "K928xVWVQVa7qZ7bH1o8-AAAgYnNzb2xiZmhyAaHuCQK3AaHuCPGZAAAAAA",
+      "posted_utc": "2026-11-18T09:42:05+00:00",
+      "frame": "still frame #0 extracted from the video",
+      "watermark": null,
+      "subject": "Chicken shawarma on the spit",
+      "date_found": "2026-11-21"
+    },
+    {
+      "file": "research/source-images/snapchat/st37_f1.jpg",
+      "source_url": "https://cf-st.sc-cdn.net/i/o0zrWIaRMSh7Xrh4pP54p.1034.IRZXSOY?mo=GlcaFDIBCToBfkIGCJbm9dcGSAJQS2ABULABogE3CIoIEiUKIwjJj0kgATDgAzjWBkABSg4KCWMtOy8_MUM2PRD0A1DyTWgCIgsSACoHSVJaWFNPWZAD8k0%3D&uc=75",
+      "found_on": "https://www.snapchat.com/@thiqat.sa",
+      "publisher": "Restaurant's own Snapchat account @thiqat.sa ('مطعم ثقة الشام')",
+      "post_type": "Public story video",
+      "snap_id": "K928xVWVQVa7qZ7bH1o8-AAAgYnNzb2xiZmhyAaHuCQK3AaHuCPGZAAAAAA",
+      "posted_utc": "2026-11-18T09:42:05+00:00",
+      "frame": "still frame #1 extracted from the video",
+      "watermark": null,
+      "subject": "Chicken shawarma on the spit",
+      "date_found": "2026-11-21"
+    },
+    {
+      "file": "research/source-images/snapchat/st37_f2.jpg",
+      "source_url": "https://cf-st.sc-cdn.net/i/o0zrWIaRMSh7Xrh4pP54p.1034.IRZXSOY?mo=GlcaFDIBCToBfkIGCJbm9dcGSAJQS2ABULABogE3CIoIEiUKIwjJj0kgATDgAzjWBkABSg4KCWMtOy8_MUM2PRD0A1DyTWgCIgsSACoHSVJaWFNPWZAD8k0%3D&uc=75",
+      "found_on": "https://www.snapchat.com/@thiqat.sa",
+      "publisher": "Restaurant's own Snapchat account @thiqat.sa ('مطعم ثقة الشام')",
+      "post_type": "Public story video",
+      "snap_id": "K928xVWVQVa7qZ7bH1o8-AAAgYnNzb2xiZmhyAaHuCQK3AaHuCPGZAAAAAA",
+      "posted_utc": "2026-11-18T09:42:05+00:00",
+      "frame": "still frame #2 extracted from the video",
+      "watermark": null,
+      "subject": "Chicken shawarma on the spit",
+      "date_found": "2026-11-21"
+    },
+    {
+      "file": "research/source-images/snapchat/st37_f3.jpg",
+      "source_url": "https://cf-st.sc-cdn.net/i/o0zrWIaRMSh7Xrh4pP54p.1034.IRZXSOY?mo=GlcaFDIBCToBfkIGCJbm9dcGSAJQS2ABULABogE3CIoIEiUKIwjJj0kgATDgAzjWBkABSg4KCWMtOy8_MUM2PRD0A1DyTWgCIgsSACoHSVJaWFNPWZAD8k0%3D&uc=75",
+      "found_on": "https://www.snapchat.com/@thiqat.sa",
+      "publisher": "Restaurant's own Snapchat account @thiqat.sa ('مطعم ثقة الشام')",
+      "post_type": "Public story video",
+      "snap_id": "K928xVWVQVa7qZ7bH1o8-AAAgYnNzb2xiZmhyAaHuCQK3AaHuCPGZAAAAAA",
+      "posted_utc": "2026-11-18T09:42:05+00:00",
+      "frame": "still frame #3 extracted from the video",
+      "watermark": null,
+      "subject": "Chicken shawarma on the spit",
+      "date_found": "2026-11-21"
+    },
+    {
+      "file": "research/source-images/snapchat/st41_f0.jpg",
+      "source_url": "https://cf-st.sc-cdn.net/i/v4lqRWShLQW16cs7x0N5X.1034.IRZXSOY?mo=GlMaFDIBCToBfkIGCNfT99cGSAJQS2ABULABogEzCIoIEiEKHwieohAgATDgAzjWBkABSgoKBTAsVzIfEPQDUOwTaAIiCxIAKgdJUlpYU09ZkAPsEw%3D%3D&uc=75",
+      "found_on": "https://www.snapchat.com/@thiqat.sa",
+      "publisher": "Restaurant's own Snapchat account @thiqat.sa ('مطعم ثقة الشام')",
+      "post_type": "Public story video",
+      "snap_id": "K928xVWVQVa7qZ7bH1o8-AAAgZGxianJ0ZGNpAaHv2P5QAaHv2KXIAAAAAA",
+      "posted_utc": "2026-11-18T18:08:35+00:00",
+      "frame": "still frame #0 extracted from the video",
+      "watermark": null,
+      "subject": "Pizza in branded box ('مخبوزة بحب')",
+      "date_found": "2026-11-21"
+    },
+    {
+      "file": "research/source-images/snapchat/st41_f1.jpg",
+      "source_url": "https://cf-st.sc-cdn.net/i/v4lqRWShLQW16cs7x0N5X.1034.IRZXSOY?mo=GlMaFDIBCToBfkIGCNfT99cGSAJQS2ABULABogEzCIoIEiEKHwieohAgATDgAzjWBkABSgoKBTAsVzIfEPQDUOwTaAIiCxIAKgdJUlpYU09ZkAPsEw%3D%3D&uc=75",
+      "found_on": "https://www.snapchat.com/@thiqat.sa",
+      "publisher": "Restaurant's own Snapchat account @thiqat.sa ('مطعم ثقة الشام')",
+      "post_type": "Public story video",
+      "snap_id": "K928xVWVQVa7qZ7bH1o8-AAAgZGxianJ0ZGNpAaHv2P5QAaHv2KXIAAAAAA",
+      "posted_utc": "2026-11-18T18:08:35+00:00",
+      "frame": "still frame #1 extracted from the video",
+      "watermark": null,
+      "subject": "Pizza in branded box ('مخبوزة بحب')",
+      "date_found": "2026-11-21"
+    },
+    {
+      "file": "research/source-images/snapchat/st41_f2.jpg",
+      "source_url": "https://cf-st.sc-cdn.net/i/v4lqRWShLQW16cs7x0N5X.1034.IRZXSOY?mo=GlMaFDIBCToBfkIGCNfT99cGSAJQS2ABULABogEzCIoIEiEKHwieohAgATDgAzjWBkABSgoKBTAsVzIfEPQDUOwTaAIiCxIAKgdJUlpYU09ZkAPsEw%3D%3D&uc=75",
+      "found_on": "https://www.snapchat.com/@thiqat.sa",
+      "publisher": "Restaurant's own Snapchat account @thiqat.sa ('مطعم ثقة الشام')",
+      "post_type": "Public story video",
+      "snap_id": "K928xVWVQVa7qZ7bH1o8-AAAgZGxianJ0ZGNpAaHv2P5QAaHv2KXIAAAAAA",
+      "posted_utc": "2026-11-18T18:08:35+00:00",
+      "frame": "still frame #2 extracted from the video",
+      "watermark": null,
+      "subject": "Pizza in branded box ('مخبوزة بحب')",
+      "date_found": "2026-11-21"
+    },
+    {
+      "file": "research/source-images/snapchat/st41_f3.jpg",
+      "source_url": "https://cf-st.sc-cdn.net/i/v4lqRWShLQW16cs7x0N5X.1034.IRZXSOY?mo=GlMaFDIBCToBfkIGCNfT99cGSAJQS2ABULABogEzCIoIEiEKHwieohAgATDgAzjWBkABSgoKBTAsVzIfEPQDUOwTaAIiCxIAKgdJUlpYU09ZkAPsEw%3D%3D&uc=75",
+      "found_on": "https://www.snapchat.com/@thiqat.sa",
+      "publisher": "Restaurant's own Snapchat account @thiqat.sa ('مطعم ثقة الشام')",
+      "post_type": "Public story video",
+      "snap_id": "K928xVWVQVa7qZ7bH1o8-AAAgZGxianJ0ZGNpAaHv2P5QAaHv2KXIAAAAAA",
+      "posted_utc": "2026-11-18T18:08:35+00:00",
+      "frame": "still frame #3 extracted from the video",
+      "watermark": null,
+      "subject": "Pizza in branded box ('مخبوزة بحب')",
+      "date_found": "2026-11-21"
+    },
+    {
+      "file": "research/source-images/snapchat/st43_f0.jpg",
+      "source_url": "https://cf-st.sc-cdn.net/i/9qadivv1tjfFByJc4sqk3.1034.IRZXSOY?mo=GlcaFDIBCToBfkIGCM-V_NcGSAJQS2ABULABogE3CIoIEiUKIwiFsTggATDgAzjWBkABSg4KCUwmKSkqKTEzMBD0A1DyTWgCIgsSACoHSVJaWFNPWZAD8k0%3D&uc=75",
+      "found_on": "https://www.snapchat.com/@thiqat.sa",
+      "publisher": "Restaurant's own Snapchat account @thiqat.sa ('مطعم ثقة الشام')",
+      "post_type": "Public story video",
+      "snap_id": "K928xVWVQVa7qZ7bH1o8-AAAgeWJ3bXNmcWJiAaH0QVVSAaH0QUteAAAAAA",
+      "posted_utc": "2026-11-19T14:41:22+00:00",
+      "frame": "still frame #0 extracted from the video",
+      "watermark": null,
+      "subject": "Fresh shawarma wraps (text overlay 'شورما طازا')",
+      "date_found": "2026-11-21"
+    },
+    {
+      "file": "research/source-images/snapchat/st43_f1.jpg",
+      "source_url": "https://cf-st.sc-cdn.net/i/9qadivv1tjfFByJc4sqk3.1034.IRZXSOY?mo=GlcaFDIBCToBfkIGCM-V_NcGSAJQS2ABULABogE3CIoIEiUKIwiFsTggATDgAzjWBkABSg4KCUwmKSkqKTEzMBD0A1DyTWgCIgsSACoHSVJaWFNPWZAD8k0%3D&uc=75",
+      "found_on": "https://www.snapchat.com/@thiqat.sa",
+      "publisher": "Restaurant's own Snapchat account @thiqat.sa ('مطعم ثقة الشام')",
+      "post_type": "Public story video",
+      "snap_id": "K928xVWVQVa7qZ7bH1o8-AAAgeWJ3bXNmcWJiAaH0QVVSAaH0QUteAAAAAA",
+      "posted_utc": "2026-11-19T14:41:22+00:00",
+      "frame": "still frame #1 extracted from the video",
+      "watermark": null,
+      "subject": "Fresh shawarma wraps (text overlay 'شورما طازا')",
+      "date_found": "2026-11-21"
+    },
+    {
+      "file": "research/source-images/snapchat/st43_f2.jpg",
+      "source_url": "https://cf-st.sc-cdn.net/i/9qadivv1tjfFByJc4sqk3.1034.IRZXSOY?mo=GlcaFDIBCToBfkIGCM-V_NcGSAJQS2ABULABogE3CIoIEiUKIwiFsTggATDgAzjWBkABSg4KCUwmKSkqKTEzMBD0A1DyTWgCIgsSACoHSVJaWFNPWZAD8k0%3D&uc=75",
+      "found_on": "https://www.snapchat.com/@thiqat.sa",
+      "publisher": "Restaurant's own Snapchat account @thiqat.sa ('مطعم ثقة الشام')",
+      "post_type": "Public story video",
+      "snap_id": "K928xVWVQVa7qZ7bH1o8-AAAgeWJ3bXNmcWJiAaH0QVVSAaH0QUteAAAAAA",
+      "posted_utc": "2026-11-19T14:41:22+00:00",
+      "frame": "still frame #2 extracted from the video",
+      "watermark": null,
+      "subject": "Fresh shawarma wraps (text overlay 'شورما طازا')",
+      "date_found": "2026-11-21"
+    },
+    {
+      "file": "research/source-images/snapchat/st43_f3.jpg",
+      "source_url": "https://cf-st.sc-cdn.net/i/9qadivv1tjfFByJc4sqk3.1034.IRZXSOY?mo=GlcaFDIBCToBfkIGCM-V_NcGSAJQS2ABULABogE3CIoIEiUKIwiFsTggATDgAzjWBkABSg4KCUwmKSkqKTEzMBD0A1DyTWgCIgsSACoHSVJaWFNPWZAD8k0%3D&uc=75",
+      "found_on": "https://www.snapchat.com/@thiqat.sa",
+      "publisher": "Restaurant's own Snapchat account @thiqat.sa ('مطعم ثقة الشام')",
+      "post_type": "Public story video",
+      "snap_id": "K928xVWVQVa7qZ7bH1o8-AAAgeWJ3bXNmcWJiAaH0QVVSAaH0QUteAAAAAA",
+      "posted_utc": "2026-11-19T14:41:22+00:00",
+      "frame": "still frame #3 extracted from the video",
+      "watermark": null,
+      "subject": "Fresh shawarma wraps (text overlay 'شورما طازا')",
+      "date_found": "2026-11-21"
+    }
+  ],
+  "menu_item_photos": [
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/ce9febddd0f3f3813e2ace964afd5dd8/g8Arb1CQKNUNfbNcVLiT3k5p3qHE4ZXUintAs4Fs9DacUkaBUhjmz9xrPUgwSn0XOz0kQrvHA1Hzvugsd5KEZBuZzNpFwJLhtcf1DlzbGNl3tBI8LOxIHSG1mODSDTivZkrkgh6UeggNUZw0BEr3cT.png",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "samoli-shawarma-meal"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/eb5fc792ea822c2b45638516f953936e/shYQz8VifL22NE9REfflpJKH9d1VQThUp5q3U3Ne06BJTPwGoJotljvUgQ24zprgRE9fzb27sDwkfYlUzt50AMfcWD8LtI6KkUVmfFuQmdtK1ibEwyB7R3FYyf3cOF7ANB94HrhpByV04TVFuGPvil.jpg",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "samoli-shawarma"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/8804bfa9ee5e72cb26ad6a4702208530/FqKY0lNqQEEgX38RfqJjvJLtCIX0d0oATvEoYtM10lEmennHimWHZHgdrNjrCyNKtz0yBtom1gw2FaLo0dDxv0BF2IX9savEayIaNYpulAYf0285TTse3xfQseEMk2cGxY6vPfZ116LbdD9C1twQXi.jpeg",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "chicken-codo-meal"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/25e8590b2cb1476e39976e1dd012468f/TfIwE5JZ04I39oPH58L9ID4TtFKHoX8VtrOXuJgmzeg8bkREgH4XnSMuuAIlMSjmQUOljahxLhrwQ87AbuaCYOBMkgodjDbFozBCezaS61CmR8MVCN6MgFLJhMJ3vAtouKhtyb032hD24zpvjy5gFm.jpeg",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "chicken-fajita-meal"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/502363400adbe521bfab7e97d29e9609/Q7ixsczZAWRLlcq8O3AGDEM9xp24ipz2NmUxYvD8ikbxTO1ItfCaJbqebdbYHtQGKfmKkgOw0hXC6oVvgbQ4WlZ0NiVvQWXWK7RqdO7WBGgx3rXR0W3w8V3YKv9Pr3cuHrZ0PkUTKETxpnY2fc6aWR.jpeg",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "chicken-codo"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/6436e6ba1500bacbd9c143ee84759ad7/cXzc1D2ndhq77vO3TFZaErJv9YM0mnjLSE2DRRDKkUzjF9hjj79kkyEnvaYzSDNHt2fbinGJcL9SkA1RDW6tA2T5DhTK60cGCc8elz4xOikyC5VbfwD79vPNaXkzyWgooTSwhzsyWAINdxVsSc2v4D.jpeg",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "chicken-fajita"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/8849bf7b16f3e9ddf308c2b698c5d801/2SEsSeEycSVOtClrqqxivqzInK1eFrjmk6s1AuqaTNNbty1WOqrzCZ1UbRbztavmeTcvmbxSz8mPTTdmQrgfWwvDyNoHkFTSzIVrcPvaO3WrPRSkft7Mtsw9VxVNAyDBgMS7gQGPbJq7hDuDyCuOOr.webp",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "meat-awsal-small"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/6f2517e2444d048b0e87f1460d456d4c/BckHE1CKpwvPkfXUTn2fD6hnoEhmu2Z2aNw4AOgGUiRZ11FDS9aFfvAscH9PEJ1A293CjJGceHha32PdB0QFWQMU6iLfXAagFOiIo7MJcZUbMakjUkzDy5DQjljxYJCct8ka1UmpouE5QIViYZHbOP.jpg",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "shish-tawook-small"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/116b1fc60a0dcff791d5d4b45ee88db3/Taw9epTpwwkCfaAWPRe4NAksf9VR6c1saTdyu0E6AFTqU1i6EAmCeUEg8ZT22hdw5Fn9gcnkGinLTDlcvPCMiuwEaBR6ZkK3yJ90pdE7P0BLzkKhT0cHBxV5qjiczTMCLXbX1rJ0dyHYJrnbVeF6wI.jpg",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "shish-tawook-jumbo"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/fc6113ee4df50cff30dec0889a1342d0/fFmEVnTkGtZ9oOpfiAtqPcM4Fr2AOgmZ6CHKiXIvn7a2bqRGNYwrtT20pi5hJ6UmZP8oqIAKzTQ0XxpNFnSWamM9YYe1AWThcqtVNyS8Uu6Hi5e1kZcFRDSkgbG6EFzqLoGmQBxV9JpcpAEpcrcKax.jpg",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "jumbo-shawarma-40-cm"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/baf52fbcf1ea05f37168ada1e2353bb8/lKnO3IiDrmT5fSdpIh0TnN7YRI7erlDNqH8vSMZPAnLs4qkK7ak0iCNb2TTFJZrNYCHkeaI1Q5T9OfhIdsW4dAHBITr2uhEYo1v69CRFIp35jnVLT7Yc300ZV8FmIIQYKE32reSj4HAJ8oI2PKf0D1.webp",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "meat-awsal-jumbo"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/aca168ba76d5bf05aaae2ec86c8f3c82/nO0p857Pc3Lpcdq7ss7mIZeUaK51RVfNzyTA1GhUdTKFpkZX737PYUWObWU342carbTbKkAUdV79MuNzGmx35wfS9brLu0SoU3YS3ltoxnKr2VrfKmsSVSe6rRvvYiSvKHGBU1Frwaltvoeu36k72y.jpg",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "chicken-kebab-medium"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/8233422a12a3570af5fd0c9302cb4faf/P4RTDZL147V4yNyTM31Ip0fDybEkvGjtneDm8nz43O0DZdhrbBpKQf9WimJm4xZRXoPEbiPpRdl8e2rOTfMk9EZGuRTCpRa9Ij9EU796NBYwfXUxIPPdDzsyEz6lZ1QDF96QhBqUAU7nI4ANHMTioZ.jpg",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "chicken-kebab-jumbo"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/eb81b355faf6fb89d0cc2fde2767e630/cOgOVNUnHnEsSmHfu7zWcPzydQjhlLezTtC8WZLrScpWV4vgVB1tlJtqCpARQPJB6yUNIdzRbY2qiZMfYDTVNnIeLvUO3yWoXcPYjBus7MFhbHjZzfaLc5tidPgvr0Y7vqbnwqVBLOBIVlyq0cTU1e.webp",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "meat-kebab-medium"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/5d99d2756b40bb22a0c26cc137fb7589/8Kw2ZAHYBk5uSej013LDHzItPHWQU93U0AxBSkKVk9O67M74idm8GL2J4WBhajMWy6fxBL1dNF8RNV1gkgqXfu4X6BXJhHFSfJgWWnh7vW29L6yhM0zRn3DPhf1sMHZKYSbwJKhmOVQnPswJJiuBBu.webp",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "meat-kebab-jumbo"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/25a28037064ceaca1f6919cf2083fc50/ysmE8WpLLG7WVvLDHsn0GvHLytKGP7rGBtDodVAdbuIzcMgWB5UrwJSphTR7lCOxHYZS5V1Izf0uryJyex6CwE3K4Fz5sX9PT3GfoBAqneOM0k8QOFbaf4bBMsKEtpPDsDIIr380BjUCs3rfyjw1mN.jpg",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "shawarma-small"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/7a5315f6950b01c51585cfa899425dcd/XEhEBh9bjZj0RuSWyo2eIODJojfTM7dRSymgy7RXRz7wMOW4uwiGr1hrL7IHEQ5odZnens6R4K3OEe0uVdJbxTKsrmmYoAX3HDuFvF89HIPsMPrxX6RNLBY945LnCFdkNkEYzcFKfTFxoMU18ra4u5.jpg",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "rocket-shawarma"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/fefe5d4fea204c9cd80e93bc23b64b1b/19VgP5erJ2zbNxYvgVqsyXhQCkcIoFI9Ie2umRbkCBfWhgmvZjAQShrJIKVOvS0VLVfZmEOvI4MoIWLcoZTXCnLah5gF7YtPYsQB0Y0KsdNh0bf6WQaoo5mFWZO2TWaazgWv0WqqPh2eOeW6Pq872C.png",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "arabi-mixed-kebab"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/a9ac00d1f95eafe78a34c84c18e06a07/BvG7Vt96J8067Ge6145H2x4BtOWjSThRbrcbqgm7AL9U3OCE2k780PgLXYT4s54dz0tsr9FBbPhyGLysjuEW1mxcpmunMdSNeXOPeUHHsvI71DqcnHcShJt0jcLwaeJEJH4UgVr87vTNTcNNmQ6jCs.png",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "arabi-chicken-kebab"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/a490465bb02a1e68a7e21f7a28664427/27tBMxTYzFyYcrgfhbEaChRmmEvsvIxP7YNsJT7DeyrFiBugQgiTLpuBBxU5QhfZiBkCYEAknLsyVslVo9LbnzjzBnx2VjoviAUjeJrDsJfXNJvW3yPygKmylxOZYu9Y4wKqpXf5i3Rl0tPGuXiiSf.png",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "arabi-meat-kebab"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/e78c56e6fab7cd500d4290d1580958b7/loO1wcR2V1hOKa3P3KDT4q8PSLjVanjBmroWJp7ArVy8suUm9skcd2uwIBadr3m9jEtoW7S2qhXhRFkiaB9P2CRHLVhybekKsJJsBHA4u9Q8QX3HiKfaqYs8dLsfclV9jfT1YLoZxU1CtlVFsJpVkV.png",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "cheese-fries"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/aef81cffce82ca2ddb6ab7a924f9c7fc/jn5p9r5nZU7QVuVRtpNViYNgviZFRTBGfbpwy2wgWflYhKtcPu4UdQgQyYDmPsLGgp97Sj0cB44RCYwjpLWskkzDPnbMbEL5tCGIoGeybBYr2ulbvTRT2BUT36FMp7iHAQyQCCsBczbc5J9kZsKsn6.png",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "fries"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/58abd51192a24b7a0a4642d79b325b30/R2XICwbXvcZOG5VcdWHqeMT88TXTpwwN4n681FsVmRnWQux8YKIxoV22y7iG0LE6s7PX0QXYiJ0qjttqPl5sfceHthmLYNi1wdAXesD0DBII6PSNkvd8j5GxtjE8XWaa0fLhHyj9nYatMPu6rrwLpC.png",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "mixed-grill-1-kg"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/6517173a6e3801421911da5fda61abce/wYWIpBEtetcvLl2K1UcRdxPEeCY2NboLaAEwnTCyK8Ev3HUIdvdJef0mgNOANRqXfA1IOWpOIUV7rCX0w7QqpFIZ8eUUXx95gupQiI6oeTpAxNwHgzGVpOzsvHmnJzXCgB104x12aeYTZm4fTB0LwB.png",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "chicken-kebab-plate-large"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/dd4bb600d99d190d7c6881cd1b9513b2/viOFksJJyh4fxq8qqjmIW6bFpV5A8Visl9odUNMMhhExiMSeDavJQmM2aDqLgTMw8X5KV2jjSNjz9mxtRAWQddj5peQ8TmQqPvLvhpZ7vp9DrFRceIbAUTuc2iN7O3nbauXcliVp0yBSI1PdmOmXlX.jpg",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "mixed-grill-awsal-plate"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/f846e414b7b6a5383d265e524d708e07/3IrQMgyXc05CJRl4FSD5egT5fJYnFr01QKCp4oQTl2rsTFQJMngnfJ0Yw9xqODL7BQcKncCXWw8VRQtzFsh4AYH3B8Dcg6GfJ97RvPDaQvV9kL78MtRcXIJEZFmliBDmXhICBwJR3w453yP6GgW4KX.png",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "meat-awsal-plate-large"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/ee64dfb91ed42833352d88d5b6e608d2/5NGG34XmgkHrbZQ9PmbSxN2KZ7DJ49ksttdMjvjbL0S2PaDJlydeCrqnI7gtvkdYmYQ7ALkfUiNIhBVjrlR5HGUaY8KVxSATh8LFoAYhERK68vhmW8Npvb7cfPMM7l5obRdvQutk00zGYQUO7AaJBO.png",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "meat-awsal-plate-small"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/a6e99c2a97162065688bffc62d23ce43/RAfUf3Py8s5VRHA6BRCYIpRDccSpOI31Mz3VR1kWYR93b1iZzDdfMzRUTIWagk3u9WD9ysvyMpvdrJIaQbyvDsinSaT5zUJmhKvLQdL7ak6xxGBeErTrIOzWU5pw1tuY1yNANm5dsNW1z2kQ2AXcfS.png",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "meat-kebab-plate-large"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/e4495f889b298834a82b42dcb4d95210/uOeL3HBG3Vl4TPvb9z4VQiRWdb1rmNWSszROUg2rUAheSFjuWCqP8G1yCTQ40JnJVuQkP9mG93LX9Rm7TtpaVHVD1cIYUPR9061W6P93Q1wmM3AXHPe43Y8v3aGCdBxAiWbH5p4qs7ggApw6uu22Cb.jpg",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "meat-kebab-plate-small"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/0df89dea65098a67bb5a48899914941d/7Uv3bp1MNUNd8G0LsGGbWpnRUSRED1YiHgvVz9ZbIgf8gzfMEng0orY17HrOYvUMRb89v7VNJnjGcdhpgGTtp0Kg2v3uTpKVUAwMT52xdajgvks3EBJLymoEQkIbJ8ACSNOPtUdKyWTbnzVs7xiJKz.png",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "arabi-shawarma-plate-small"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/aca02400705fc6168cde2f29accd21ee/bDx693JKHVnLFII4UPCjdNK7DhMzM7dPMpTgbKcgFTBDvj5iwCROWgP4mWAG7QWq9BZpQGXHMp0KOcY8sAIYgjKEyPYT2pHDdjAq1SkaqJI9VGC0SfZCD3q0COAgudsUFVpMLOn5tPlrDevxrRYk2E.png",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "chicken-kebab-plate-small"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/b370d153cf7062f6eb91dc4078efc0db/0tcVk4QzBAR3f2cbHR4mbp3iLtpT2dZ3t1oJ2UinLP7eQFiJLrNjpIgkUDSbCcwsnXG2JdpZ1LaENx5fHnQnrd6DHCUSpXXaXzzUwPK8386P8k0yWMzgxC4FdyGCNjuWzUTcTfb3oHcYtSzeqbAEVQ.png",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "shish-tawook-plate-large"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/e3c3f4c6190e26c4c575ebea032a755b/3RkjuRPvWtZ1tTISgUjXe7JJHYk7QJQ2PAJ2A3odjsjWQElgQU6ZlWjl0pqzkpBSx7Fo6AmK7o7Dyyyag2lZlWYgFQf32HjX9w2N23Jz9sLFGnwD2uWJd1NGqaSJFyvl4yukPP73vQnM6zx0u6Ez3q.png",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "shish-tawook-plate-small"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/2652d1a06c69de4fa70cdb0fb98c441e/iegszBuyIQ8geKTeEyEUqoj2nmfxaMTAle7ccsi79L0icmKrdha18gQvZ52gCi7Xfd1RWiafWKmdioi4jDc3VRa8P8TWsIe1fygY4ybWzn9lCUbdm2FltNEnCHPbdhC6yVdfyHMPykeGmounqH2fv1.png",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "mixed-meat-grill-plate-small"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/dda206189820d17c6ce53e42cb2b6858/JSAGmMxLnlr6QC4HoLgNxHzv2YbiRT9JoCsuPfZFNYHIIXHLrueKsHm4aqIYdeI6iWqfNmq2vvOnutUdlNu7GZ6lyKdBlCeP6iHpwXRn1rUqiu2REGMK6Q4CKKQHVWLODFcli0Qk8HSTlD9WGDkiSg.png",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "mixed-chicken-grill-plate-small"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/a6e826ebdd8645114a8c3fcbf19ca5be/lKtsgiYQ0JkqcTHkd0KJVl6bQZZ0LydCbTgiUDh1MsKb1WxlnRPvjCSr65J2zzpRxDn82JKJaYbh5AiuSicQmaJTYQRBXAJ34Uu1AmRcSz2sdUNvNpOJe8chCn36DyjOqa8anS9EmA2AOK4MJCRkrK.png",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "mixed-grill-plate-large"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/1e6a23f27313cd05bcda089d2cd9a2d3/95dKbzk8rZfzeDvmukUU3qJCHcQQ1kkOCxIbyVp6wyWQYYLHXVLiOuLs92EXRh1MBeNN0zKxM9dtoB2OkdrMWPBjHay7SJgX9sLppJSKVTqrkJUBrKuYEeWl9JIrgJMCkyuL729XM0ii9HwnkeiZJc.jpg",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "mixed-grill-plate-small"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/cede871d1489a7a4cd96c30a9fdba215/oNX62BtgsvbHm8Q5sb74VlmbFrlRq8kLI8p22WTrjQXxo9r4tHeeiQXpm17rIqMEg7wzlJJAZl6VfKczHOSGCO8sZa7fzeKrPXz9l1bRF1BOaX2XO4EtbV3HDtDMoqtus2pRsp0p2RWDCsV2LlZk2i.png",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "shawarma-plate"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/97319100b7d84f483ec3d72416032dc6/UA2x2cBdvI8Y4gRfwYUHD89irTYlMXFgbjUy521geVXKPnaiWJPNhkfMhZWGSaxswmR1G6CUsumiQGJ2oztjCdziHKFhr8BfxFJgJopecx6uT9Th5fTFO2rEFVSkpDZMzDAsftvv3v3uG6I9mAD2mX.png",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "arabi-shawarma-plate-large"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/f37ee4a632a3b7e1de1b10b64eed1702/SjjfgKapWSUb6GHFwnOppWP5W3gCmGR0Q4ajyTc29Gmg5h4gUE5aHHyvYrtP1OVJIScndDEBEWyxf2nHczuwOnUdtJ85UdMhW4dyEbX3KDdZypJYCW6WoZrvOzHZvdiqpI3qwdiLx0oNRPEc9TJrwI.png",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "arabi-shawarma-plate-medium"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/c80e2cbd7b08aa5b1d0d10527f549563/WrUbIeX2zhg8qNyuK84aKGmbhnlAMyFe3E6lwpbJTDgMkuVZ38g9PFBX2NTMkqdV4E09V5BfRYm8jLCxMVFGrhhTJeEhFGlWLUFvdBKeYKmxLJ95FHUT0s0wuKCRrZJMSVgVmAQczt3JncoaoWTZwS.png",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "chicken-zinger-in-saj-bread"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/7a7ac685690ff4b320f47cb72d56f9d0/s2Ein7E9Kx44tYgZ95vxPPBnklVn05PMFBbYaamaIjRivHzf5y47dUSLfdMYPyNxpno2oVg2BVaMSoaxF65RwFkqzVLDtf79OjW0fj8OD3ZG3l6VKYIUwKobkpeWElCT1p37KUNSJNvaTUMvMAJNyl.png",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "chicken-zinger-burger"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/441a596658e2d95b5eabc596f3e082af/8wvJOJjOMnzZKpBC5LIB9Lufp0zqzFd5Er3xioQ1krxPOuJ7CLwCpTNXzGIGrrBaziIkn5LrCxRQGXAnmYzRrlhXAAdxFGf1A6k80AGCTyFLttjLDZHasWsKIzdPGqGMKXoibEfl1KCHLtmjJkTEJ4.png",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "zinger-meal-saj-bread"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/58346bb69e48a1dca55866161ed1883d/bI0mxmYjZFipme8QqgzinaVOL2LPlC9UeYoZTZ8dG0XkZS2Te4RygjjkVI8VkRWv0H1pd2KX4KSVHTnjMGzzCGDXgoyqVdxTxj3v25xS6yHju9KYCoOOys7Ido1LPC0XdfCLzewZHgECXrricdqBb2.png",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "zinger-meal-burger-bun"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/e3b41bf53fb3c23b3b6ab5d0f089eede/jZSXx4g5dTTkLiX7priMn8bRhgFgKXKueoPakFo3FnUJmVziSMqCofvMIeeAL9Rzni0sYfcYsg1jGN7QtNqsANcgkSBi2h7ddlOPFubySOWIw3tmJKXfPbE4rfd2aTOlI7UbPBTR3PaRjKRzKLW8tH.png",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "beef-burger"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/6d26ded921efcf5d677c9136a44cfa57/81mxB9CHqLbKGWv1JkF100HsfxTwPEqfEl47SgIPqRFPCSu6DDEyDwkTVvOCwcKkc46XbpZzvVcBL05Xs8bk9j51RGGqN6qzKNanLavaP5vrhmpmknWX5OtCTN5v0pg0j0qkOgYKn3wZfdNkgP7AIX.jpg",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "double-beef-burger"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/151e7efe8a8f040e34d693e0397ac19e/EqBxWKFZgtpSuZx1CQoRJtbbXRQ0dQURHiBKsXr9DQ073KHHpTjDMxq6HDysVEf0VqadML8nCklyAR4U1EF4857iTFx4PxYWvG2LoRRdrGjMhWQqK4GYbAsLZm4DaM4Eva8XRZ3jr10xmCuHpf7zS2.jpg",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "chicken-burger"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/a9f76dbb1e7ed2b60d0033411903a63b/DYfDH1lvgoDV3fvOZfugmBhQVb2ZuIEIJ2GsZ6E7DCEgFXcC5Kvw2PUp7YhViRSFLKDVr13X1eG86vDhjC2TPPamP2kDTa3hqPda2xb85VaY08dZC7jI7qZucR0TAHwtov6iEY0zc0jHs0RRiy4Ky4.png",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "double-chicken-burger"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/371538190a0e41ef673b571ba6403243/Ka8EcIOHFieXPJ6LURhsQICIFjcI05Bou4PVTfuHODDN78suCoDDhnXYe1FUeuwnqAPBELC6l8o3xpRbmTPjImQ1zIQgJYuK6iWjcK5AOsMFCGbm22zBuHkgs5MTkCbvJVBTIdVLKQaI7Ie1Jb2nad.png",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "beef-burger-meal"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/d31c2505fd1684481e1433e1450fb249/ZXLTsW2kC0yKKuc9qAICxX2ynXK1TcKq2D7Vc19oy4YGze6TiORusQLocUl3n6rn8lyJYHsjihccgMw2MDHACEFwknAfCs8iNEOOknOIn4Hc2in5GXTfbEzMhEjNGdHfri0U5rPIIzygptaTYLhXTZ.png",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "chicken-burger-meal"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/e266d96489b70f3112213fbc6fb45949/CuICAIACpEKgminpF3HcjfNCkobCZSA8nUYaPV6QuutR1mOOOQ3Q4vvvsMYr49mNrZWHutIY7l6UMySWuT1FN9kxblXoUbJLLfQGLwrLsiEM5TdbcTo0unGEqInp94PrmD6g3Y8bVoC7J6RPZ3cQAt.png",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "double-beef-burger-meal"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/5812d2412fe5c2833dbe225382e63d36/yJDjIbP6divwsZX9pSSMVUhuGtTyyBBrfp2kXBBiT9455xlwV952R2SbVQEUkZEeHJnWvxIH5JvsshN19MC0Em4BfFPXWKuz761RZvOYLUurF3PIIQRLWZKcBtXuZtga2IsY7FODvo2tm6SZkiA7Gn.png",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "double-chicken-burger-meal"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/7d5a13a7fbcbdab88205729a5443819c/CFh0Xn1rzfbs7EDcKlvRipjewsSACAldOCwdIsxQk9EwoQ1FZduTH67EuNFZSBil3wpZHK9wUD17KO3j02tqOIuWNCKx0fZ7wWK0y4Exd0cq4ImHIsbKSTm2AshUimDPVvsANq1PvUxRNPnk7ILP0c.png",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "watsh-pizza-meal-zinger"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/03e1419bd2539db3880f4a05c58c41cf/1758800690-W4tsmh9pg90klULl4Ci4hrUckk9k7bV2kRzTeU9RhR2zrain9s5QkTOEuoJz4pLqhrBDnFMHEZoBu0jeLyqqUGlVIe7RigB5o0vc.jpg",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "shawarma-bomb",
+        "beef-burger-bomb",
+        "chicken-burger-bomb",
+        "shawarma-bomb-meal",
+        "beef-burger-bomb-meal",
+        "chicken-burger-bomb-meal"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/8a71a65eed1b4d6713406c386f580d0f/CeRREGU2zirKYiSLankkNYNAnkkNpLDpLoxuPIeCw6nxFYB9dZHYbS6FiWcUf8ep1W0BldSBb93kimoF954wtMEbuUj3HXihnlAaB1sY3T0EtLt3Fot0rCmGHeZYTHIwjnBDrsdOQ41PiswVZX6Qfs.png",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "watsh-pizza-meal-shawarma"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/93f8038b5a7b62aff10b9c8cdc8248a2/2EfkPS6vZFaN2tPpbm0Gv9zmQdMoLRPSavNfyXlE8D2MierB0xChwRBqIPrVTxX2bY7pVxRuRxrbVsH8SnIDZ8AnP7PdB44wFDFa1tVBovGNr4tbT1Y3VYQ4zNlpkJrRgUmLDxXrF1CIsm5jU73e3l.png",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "watsh-pizza-sausage"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/50a8578a438b821c2885fd407ffae678/n1lNDE7a1KsSiEhP7rHvbvgGLRf8x8tY0xlviRZoYlF6PjYCV4mW8hrkwxlXewqqbT3VlafVwTZYkyX4j2v9E7oUE6pmZqDtfEgYPnkBgbjXYEgu5SSfY1VDxLbdez9lSqbiiHDkwZKIoBGYFiwqVB.png",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "watsh-pizza-meal-sausage"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/91f976847573d90f82a9083c25b9f0b3/XHxKvSZ2fW80KAXpgcI4O1Oks8ft3ULiqY3fu6RXiyKTwxdUc7IWMNJfYmiF9lx4w09ARxRTXMROahviEKOal0B2A3qc2zAHlEHBZHcMlaVQ5YRQvvaDLAhNV7mZsT4EXfFw81ArDgjrziPzJi4H2P.png",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "watsh-pizza-zinger"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/9c83b5c0cefc7e198d259a92cc0c6f7c/8V2LXbgQj7eudZZRwX6cHSO6aEFkC1AOBVEi8k4Nyi9XfBXMHu9J9CDj7fdXfFy7g4DrhOdoMnYASLmrS1zcgh2E4mZKJ2xTQGpFoFehwTxtOF4DrmwhKCfearh4fIjSk71lu83Se5xsLQ5Ru6JJwS.png",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "watsh-pizza-shawarma"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/8130ed5873c0ecae7abe3d218dac8bc7/otZ6GBAAgWdH9PXVNu3t4o3eDYrLE1vJM2PAOC442J6aK5x8u27lZAhwKN4E8mc7D1fSTOSYPI8hFNb6euIXbBQMZsOM2R5lF14UFIvclXpwv6rBZPH0N4XQou8v6Y5HTdkpzrutol47NsmKfDT93Z.png",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "meat-pizza-medium"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/4581c826f44ee6107e6c6372d6163997/xooCetEuOXnM7ftNmbCrG1eo2qgnKfW3aFReWEwFz9Iy2D1AKtc6FCXviv4LHo5LcImQgieMc0nkc35D0T9lOH2PmzAD5Na7ry3eMjcDlD6bVbMeGyCwNZK68mbJ7HN6fJatrCN4VzTp839GKf45x8.png",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "meat-pizza-small"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/a27d2a6d35b002ae4c2fd05c81604500/tgnILgzaDy37HzdUKICeyQ3UfgZ0z6MEiUUWAUHVv5WtGLl6dOcCzar8c5QjBtkXCAMBMNVkINwGCywlkvifLCZ7qMZj77wt5fAB3l8oIUH9XeaFQjwDuMwEh9md7NaugDl1G2VrPTjmkdghjvAXPf.png",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "shawarma-pizza-large"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/4a00802d6b08fa31fd8371dd38361f41/eQF3vEsii1dbTn6bBGT0yqtt9Z3bo6IZ2Kqeo8IiuG2h4RRi2yhscMotnsSGJ0WZhvhQJrBlP49UsyrD9B8lGFrLp9Mjtb6A819F1s4MplnHh6o3d6LTwJlEUlscXaJZR77kUJMGPgudi2APZSt5tm.png",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "shawarma-pizza-medium"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/139b26e375a72f3b5654b0859275f9b7/mJtJT3KhwsAgMYcEnNtot54dKIh8ZCWNhBfxdtefVWCc5LTBHwFAze89nxyVQP5jsxlbTm4faApMkLhtFsGeAq5OiMC5Rs1xWAJ6JynMnneaQOcbkXOVCr5kMWkXIr0mB9jol7ZHir2gY5qU79oag2.png",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "shawarma-pizza-small"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/88f95bc22cef2a538345b9920fd2069b/WS2a3N9Vawau7VRlaA1wdfAvDPE7tBFFJZPwBb51l6hls7LQTldDqJevjFjQ2stzoqJlecYHMMKAukyFtZL9yi8YpAWlo6okJ62nF0RmMk7GysDEDz7JhJF856yKLvJhiHMiFtB73pHZX9eUqAJDeE.png",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "mixed-cheese-pizza-large"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/4adc250e0998f6d3044d186b14477c95/YmGwELJdHP0Yu89zmgQhYbfsecnhgmcOOaCXdRaqys61GCv8FQ7h2EmDl4bSfghLVn5ydHDFE8LfqL69z0bYSqf7Wg9EOBtHZpxAY0mmmTlN3W2dRxhKFITsWHhh955CvzV7ioaPMJKXWsGJ4ZDfXz.png",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "mixed-cheese-pizza-medium"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/472e9644390ae45f4835f2ab95ce27e9/qnNzejbKXp21WxHtFXSH8hKK6ohHuftWi5I4kgx8020jZFLoj3NAQJ2o1TQOWlccohoLVPxRkQz6FSS5xXbJvIQUdXTMZhXLTive1R9J9yOo5dL4hS7ZMRle7zDSW66CIFjdjhjLW2hhiPh2NuSKQn.png",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "mixed-cheese-pizza-small"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/8c19efb9954db53a689ec468954b5ad5/306pdqksIN2yh72BhzpW3SUrNOmcxHzH4bvcqzCATtRBzqzmp1ehNpAHXJMbJ0x5ZTBn2QA9AtSBFgU8EIjSJHyIObC8n7JoVbpbpBjddhjCOG1LVTliEMpVbyt2CZNPJYr3OGEYyul0LZNODkFsHL.png",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "sausage-pizza-large"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/55c55490433866a2fea27bc42e9485ae/7WPujUAXrp0EokVcnKdp0hmcv6qQoU4VlYaT4gQIoUzGcbkBqPuxF6cnmrphKaZyKujvg4ra0PdQnMriAE0OB1yIoinaYkA0gwUfBTv78WU3vb7ffRPQjGOy1IZg5kRwUBLZS0gfcys1hRWsqOMReC.png",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "sausage-pizza-medium"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/b6a3d1adfdaebe385caddd05ac71e091/ffnaKRaGYRXUumitKn1vSBOahLCws2wPwiJD1UJasSWQ791aiAZTDtXgNqQ62fBj58iQfJV79rsK3JpitLYAvH2K1hmWZ3rdirp8SydT2jsKQVpgUjsR4gaPpt7We9vtholLGITF7zcoKXeH1MMmAN.png",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "sausage-pizza-small"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/84a5482fcc637bb9a0e2bd5bb3b23bc9/V10FmKtfWjXtTGakwKcN69f97cdkPcCLGkFOXTQW5OmnviP7Vtq4PhRZw1Fb6OwezWWBREZEDpxDHgsLE60IKY0SkbDbkwkXKd2rMxGL8tW2BtN8f95WuNoV7xD8d2wOYqeSis0Q4uxRK5G0HalQCu.png",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "meat-pizza-large"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/6eb4a83714d211f2fca7a3798ff866e8/LhR11fOiIlSbuytCDESokQVcylkbAB7NOkTkBSDoIcOo9k0ANyAZCm7nN76JdU6451ZsKycRelv62jszHmPWG0BUHUDwhnhT6gbTADaOyFbDlB3cktQFYre6aaXiFbAiOBv210b1RMJ24eDyoQToU4.png",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "ranch-pizza-large"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/a4a0227fbca4776beb9a7d1164d691a2/bgOqvTvWtzBnHrKVLWKUlqwyfMhmG700FlRAzCbDkctZeWw8TEYxTAezeCmUsUu1NrRcnyhMYiXe3ElunAPY5Goc0HrpTPeKWbnWywIu22N9wFd8jdj4Mp8DTUxtOnpRWCbZYttFOa8Xk5yPxhqiPY.png",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "margherita-pizza-medium"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/bdb8b5f20ef4047e32a55d59f045548d/ZoG7aC4ln1k4aGiDmjIKRPKmJItgrw14H3BzxlBaygLd8sAuApMv4jGtqBAs3lvNtfQwxFfleyutq1WWFJ9jI2LuKbU8RT1DKEgdSBJq8rmKljWnn8W81aNWuyckoIQvPty1SB5wmTXkgdXXOTwnWm.png",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "margherita-pizza-small"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/6873d5ac0d7489fd4a246296c8191bee/a9QtXXxVeeTs2FItfpV1osjaQvnFllGY2XPldNB4up8gxOFelFzsFjkYiqIwF12RqYBSK4sHczq1jQik8n6bVOIn0STTScUmeICy6V4MhQSrVioKhpMu15N4mgoKjiEgsDJys4upQrl6EyxmDUXsy3.png",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "vegetable-and-cheese-pizza-large"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/23f6bd95424ffc1a1e3283bbd889d8dc/fKmaOX2wT8YSGyo0I4Kkzu922AIaTPZhNjYWZWOEOsxfxZSZpdKFJwPhrEAfbcus7irETTAYEnEVUb1lFfkXWm2VUQ4U17Mw8sIFmy5m94yD4HaK1fKvgPwZqEZQrNhgkCr6jlHaKmBqJSmtNHjOXv.png",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "vegetable-and-cheese-pizza-medium"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/df08b03b404dd3cffc2f2e1c0612efae/1AVZPLn8yFvfow5H0QzHbzQTRSBIQ019wayKTlwGsneV9Mq0M7VSsDJK4bkoiZUevoWlKcfU21Ww6609XGPsO60PcRNDEdlMz9CbdGG0dlvfLnEMgwlPWqC5sycsLEv2fWnLICdRNds5zJ8AeDhGN5.png",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "vegetable-and-cheese-pizza-small"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/03cd229120f375051cf3cf081b27d23d/iYIa5vWdDUIgUGrNtkIxedHxZ6qFuQuJZ7xQMBEPtraH89V8jwqRFDgW7og9wtW4puVFQVaV4beoqXLwWnW7qlabCO9JR6UzudK1tQM0tRpbGiAx1ncuTD32QVLfKMhOi0kjiGhP8oH5bwfuMjVKZN.png",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "chicken-and-vegetable-pizza-large"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/b237e5ad5f9e4e0c73494b9e5031bb2f/kBHMJnhvF1qiMfD7DRxjPZwvWn4rrTEfpqXB80fJMIyQD5b5Y2UWpx2oMJfDcAwdK4KsyoT49VF7lkFMW3OSz4m9Rj99CtJXINo8mKsvdU3S7OLKrv0DSOdFmLBdUiJM7NzqDOfnhUNPG82mjw6kow.png",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "chicken-and-vegetable-pizza-medium"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/9cacf53019d35038bef8216d046f2b91/ep0yPtYExftEUHfwOEf73SKnmlQAU7gF9dJ7UfvJ6ZkKdSSuPP51EEjleN7zUn5dBTMNjqDkk8awrT1nPHCerWWURmta4ERtylgQYzcdxdxVIM82nIlgHqmPQdlgl0bOu3WzmtUH7M16RlL8hIVsEf.png",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "chicken-and-vegetable-pizza-small"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/a9ff57ad8bdc2e9c13e710690483756e/xJKRUsdYTem8ENl3l6AIJd8bllMB2vNzN9X4GMOrQsJs3vU9un5Gcq1cVetzspYtyLV0CKovamOH4Rnv1fOqvr3ASTS1ijyCQW8zrHYIb75phLHbJCLKKV0ucXlBtIsDwe21OOTreVFaihxwChAYBg.jpg",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "ush-al-bulbul-birds-nest-pizza-large"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/9b391fc8ddcf4a25e5fe4576ffc22367/c7OzhAV34IHuwQgZYa6d4kYADkceFZoyCl3Oo1onNnjIRTsdtvxovgdHD1catNwimC73JToLFs25iZf8rci5an3JjH0KaXOEOCQUTydGYLDVc2X0rfrdbiSJh4WhS7pPXcBu5DQke8FtWAPoepc99p.jpg",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "ush-al-bulbul-birds-nest-pizza-medium"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/b9d5616c40930bdc4f98b733b49fbff2/CZM2hNsQ5iyOMKe3arUoFpaV43yYYBt9zKSQo5lOPZEKeBlG5QnBBqtLd2m84KfnW4NMWZuv4O6VfgE7MLszGtyY4TGEcWJ8P7R9vB5SuDngBjmPjss7qghfwvhfWD4XnfmEOQ3IeX067HQLFeLywF.jpg",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "ush-al-bulbul-birds-nest-pizza-small"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/2558c2deaeeb0a5a60715d77126245e4/evkvJOIaAlZoIxL0FgO19gxNOEAsBSSaUfH49nFX18yiVKnvFSDfLZCAZVDYL47rJnFfjQxC9js1KgPLMTnrIsdB5EnMP1SH6S0biqkMi28wSwZ1uqnG6OB97SnjvXSKmgzeOs3EUBmRsByMr25Z4N.png",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "margherita-pizza-large"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/f92a07ef63babb2e1f85e0899eaffd6d/n5C2uRBgSnCErlqoxpcYKZ1feoL2Vw6QVXvwW1UeUVOwyeexTtbNTCAAO8FMsbZ7DOI3AvOzDyuAQkQ9kBAwj9Huiu25Y3yUFyJLpLSZnDR4oJStP92w4DwWqlUN0wV6iuJkcLliRqppNSfon3ck3C.png",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "ranch-pizza-medium"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/a83708358f9f87175155868c7c5548e6/z3rKEi1NAld5mvzJS6OHuryOR0TJFNeeB3cGD28yAbgIooXWk7embvC071B5WtaectVsiQPuhe8pjocMQLM9gPHjyRgBaWH3xvLQHNQlyhOYXrsiMb8FO3lNhIZweOig8SXrkrphyQh9QOqAUO83ay.png",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "ranch-pizza-small"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/3255084d739fb738629ef934a321dd49/1SxmPvn9uBez00MRB1G0vYjyN3gufh8a5ZQYgPTI1A32ovNoB9xrbu9mr4G4T3F9eHWWZh6ta8It9ZH5MImu5kZm8lbsxgLUrjlf5CkNZ8hkHDhXlTny1KGaVeM8YLqvfNlWrME2VwJ6in8evQPIu0.jpg",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "bbq-pizza-large"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/c269149b430a12e97db6f60fef417085/78g9ppT5VkUBe7pmLmLFYXM50MIemdPFaKDg46C9gQdlPw6uil72sy5FDTxlFL1uhdmsO7yn6u8ieqtXyh2N7y5sjH9UJnTU181AL63JHYr9fggUDGQwVQ6Y5Qgu51OaoMKo5vO3QJ7CLSEyd76dOu.jpg",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "bbq-pizza-medium"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/1a268dd47af0160ea5467433f901a4f7/fUepOe1KeN3bfGSuib0aWjfny4PpXfcFqJvzpqZWXYgFbPpYegll3KYHtlwd17A6Xn2HVn83eTMCQ8BcBqxGeKajqvJzo520wLhNtJ0FEYltwURgr0W2yJBemyPKimBoYsBBFkw3zgkq3pxWKR06Y5.jpg",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "bbq-pizza-small"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/5364256d477aca6fe6f584a9a35a6ba4/mFDSgDimbaXHXN74Kw3YMTAcCkGufMzmX9SpYGaRT5ktkAeIHyjWSZSp6SnKNQF7cJhCq3HzeCNsrxvgLzQkb3wtg4Bp5gHcZVDp7kdX7jt67Mjs0FqDdN4gtPYxkhZPgFaHpgBp9mMlrdIDdBr7LT.png",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "thiqat-al-sham-pizza-large"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/a124fc5705b6fd4d16ce860a5412cb5b/x2gJZGbvEgcJIRpiUJNgSniKGmxBkHg0MLkR416IV5cSWJ8ApjLE1NOcZP3Boq4EDMa948oKwNYNwzFMDNkcLjqgb8xjQ6eKtkaeMbmpTnRGJgPsQDzBkfLvPgLMOOqs57GOncYLc1wBgEPPsyuio0.png",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "thiqat-al-sham-pizza-medium"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/e81dbdd141ff9218a279cd6f7e4ac92a/qmknL2zWvW0KbuBo61403Xl37b4HuRPvHKFUTbn68JJ0yyNj0MTOiwS16KDeDR0Vjw9X7kZo5hn8gVPTtC0kjP3AU3zCUWEt3jEHiLNEdChd69dLYNC8yJU2JVggawW7voc3urCD0HnfWGmn6SO8iy.png",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "thiqat-al-sham-pizza-small"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/bb44886b6b0be9ae4de95ca3e63771be/ZMnbfe07nHgG6SWodsQmmZBc1Q5KkWrvKw2jtyyU975mv8c5260LV5sOI4PbTKEAPyseMBwe9wM4nunsXgpARlx18VVJTYsuG3SC8Xe7OJ5PzvBCBoZfoL2Ql7oTViGHDW6oCcv9T8Mil0ADeuH78t.jpg",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "pepperoni-pizza-large"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/f920383b8515afc7f29923b19eb2bb42/TEawh3lKUXLqJsMEnCbtBwGUhXVV9WgBL3VaUzzut1C2hr37co94IReIynXNVIRpsZswaMnWgIdjCoQFlPenkYca3Hi99BU8oDnoDmv9cebn5ZKDgPYzm9vfxzMYn81t6glJtZmF9wROZrMdC2cw0d.jpg",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "pepperoni-pizza-medium"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/eebec6a576670aba59344421b08a2d54/GGkvo3Rs3v6crEj9FKaRpmZZuYws6WDcjxAkTNN031hbTagr3bZh2vMBJrzSpfEqVtdXVTXW3V4WfZfe0DeMmygWnv8TpE3dcYTwvQSZ0D0DincZVLWN2loy1fy2kiFaBwlhZhYCPTOtpXcy3JqWi0.jpg",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "pepperoni-pizza-small"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/253d8e33326e465e484ddddc7c6ca359/3n38974Y7PsgfhU9yeK7ulrLvhgAer3QsZraDa3akyvorFcfXcDRAwt9iJ4JStPgGAce9Sk3MkXJ42Kun8qdFVhGxPVJYnfLNbTe9lm3ZPDPv13NZPFsCBmuqt4TEAVu4Y05FsZ30xS8CXd07QZG4J.jpg",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "saj-bread"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/d3f35e48b0f043ef25bd47033f6b1a20/YorKLxeTRVbIMiJMCiFqrc0Ya6Dz7TXSn6u9uKcOcMuNswgbYlqcg1fuosEfOk8Y4lkOnUMXGeNAjX6u0exUBmJqfnGkBqOaRjuT6Zfz7meFzkvwa2e7pwzA5UAMdYDtadLEiDUVpJ5CGYlcQvpKne.jpg",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "hummus"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/7f2b3149ceeeb30d58dec917c2c4775d/8IkZMm1qMW8ws51FQ8dF8PkxTuDBjx0do66OZk83DkXI9iwvuw2grWncouZxS6oii6d2CVBsSg66tFqNb8FqJCKokaHyoZ0uPWqDg1QhdpolnrsRlOeHqc4dFAysUhOpWX2HvHgnPELSauH7PrFXDl.png",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "mutabbal"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/ebe63be86cac0510a616d7a0bd7577c3/JARlFZMfbomEg6MBBh7xKfCwQArw0P4gyKgQRMSYsBDWmR8LzCWhLOKU9eKn8YnIfBhMT344mddYebyJ2ybtlVdZvCfCygsXWhLI9Z5IXznXNc4E5CnEXAcmx2x2K6aleB6WQKcVhrcvn9Wq8vOwNw.png",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "tabbouleh"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/d4e0aff313cf399aeaa833b388e737b5/uQGvLDjEB2CrmemrL4wTvXYMtUZpV88aP2epi4GDAtkIevWuB2dW5FGOMOgQLYV0CAKunvOCbeLiTm69FtGvQcnybfLGokQbUoTRB0fSd6mXg829AYTGwRJFpv0ngIQO3XkoLkJ2fOWqiCaBeRKD0i.jpg",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "baba-ghanoush"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/7f534e8295019aedcc02153a0a3b20b2/u65ASdTOrlFQH8V3diRI8mHBUdiynQXPY9T4PlkVUM3V1vZ1ATBvL9Et1J9vOZ0gph7jpv62AZIOcyTHecwzADN3XbYEIZNT0NYcEQl0NDQ6dyL2CMQ5j589emdtL1PuDDFecUqqmBlSd420ybjCg6.jpg",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "mixed-appetizers-plate"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/55c094c6177e8b63a43bccf741fa4dcc/Ylr9wzIN0isKr1ltCxOvGI87OAEn5NzHy4eKvbjHroziAg4gqmxHpAPcVtjPULiCtvFQoVnitb2USuYCgTA4jRA5LlkrzKT8Px3lIH8Onci2DfEJHT8LgMXuyVcS1QDGDxuLprezzmaoCjB6qmQF4w.jpg",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "spinach-and-cheese-fatayer"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/5903c34dabf871e4d4439f8bda314c38/5sIv3NaAjIafHDdqBcZMxDttLLuFoM1H8caLsfODbRGbvH5vwij2OVVxTekf238C2kHWpE7emnrfXMicc0k6l16eI1mjIvBNv8jQTNrwnFJHMTUpwZhv6MS60G3PGGz0kUcblNtkqsMzDaqD9eNe2N.jpg",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "labneh-and-falafel-fatayer"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/b0a3f2ab17034d40386e714d9fed062e/LFfRaVdUy5k7XW1JQCIRz0z3N5MhF1sshQ1lvk9dGTNOStBNRVY8whbCSymU2Q3CwKBnEfXc4jME0qXAKaukrRzDFxfxsNGjNYvdro5dFUULb4zTgUOotCPlGUuGuSVguHsYLgGjxHne9IZE8Nnple.jpg",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "mixed-pastries-plate-large"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/fc94c00b8403184edb664281ddf6e5e3/SRimKuqGu1MtfYKOeRmqVQVA33VbUTbnyrrehz0HTqlTTPV6vNtCtddUhyYGmjZGnqjcwxTXovrLYvCdY5Pe0EvU9DrzwGKCkZhfefULvx4XYPCF9YRwupm3EtWZpG6uFSAVz4E1yDVKnC9nvQhKMd.jpg",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "mixed-pastries-plate-medium"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/77d95958f8fa4b2ca3778119f2b0f2a3/3T1IfzzLL0mMWNnAzFwq75a84XVozuNgPJJxWpHGyPkHcUoGEcOaiqZ7mx0HS3GIsdODSv5QV66hgOkg3jG45kUlGMHnlGKSzBZAckOTKZh3hrokoy8OzeZmjFPWRxsY8i3bbWCrJwErK7MLbm6bxT.jpg",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "mixed-pastries-plate-small"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/b2ebec7cd9829230d9cfaed951726263/QJKWiD5STYdb3rDzlad3tu0Sxjdh6dMOCaVg1PSlaynwcPe3FI8WHh5IY2KTVR0wKwJtqONarlkXHXcilfbrZecdbG3yKf53xWhrb2bh3La17ScAPMTlEGt1vn0DsTYiaaxskNKjTc1lZ9p8YgJlHQ.png",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "plain-meat-fatayer"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/87a45195afa5c52fce96baf35cb87e09/mCcNOyFRvAnfI1lR7lxLeD0N0KWvs7bAxmqHhdVK4ggC1qz7qk9RyPsc4HI0ShPUuHz0WGHyvppZ3awnf2G2B1CgTuwUqsjf3bIiDyhVdV9WO04niJOg9XWIoC7ftfuxrl7JVwhz9Eu4nG9MyGTyHr.jpg",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "muhammara-and-cheese-fatayer"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/57bd2b80dc855e27ba0e999bdf3b6dab/5T68wJdYgIgWNZVN0bcriRG5p6XAktrqv7AnlT47xCxTtmAfyDn1A5NkSFoTdBSiiPZPojrDJIVJMDsKNrtqlXobNQQUStwnCfTfyVCGAq5Cb5LR8hYqlxqTnmyhtG9Pn5kEr6U61wPBzj9HmneC6Q.png",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "plain-muhammara-fatayer"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/b8005901e45dde7f28aaf263a702992b/rd6Efvp8f34S3K0kTHCibTq8TtCqcLkS7rWUDeQRU7bMDgNau5ZX9QxI7Aj7Z6uQFLoojVWN5lsOdtdvZSoAwpRdLB81AgBmIhn8CRwJbEoAiNdzPetGXnJrX5BLxK5pAILxTMV7SziV3IGuSkhC6d.png",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "spinach-fatayer"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/04aa402d6550ed50aa8706dce5de1a01/fsIHejWbUXueZwWzsU5r5jXAEGA8Wyvk2Rj4nzdClygmjdmU40tKlWRiQ9xC5199gFya6wDwUPKQn4ioDLe9COspd13hPC0hbgodoI9DsrJeQuhXasS62mjgmlGj7yA7ZskImz3fej6wqnxfr8Re8p.jpg",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "sausage-and-cheese-fatayer"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/f34ff74f63de0106ea1d9d90d8edbd4f/YZi1Exj4T8EPt4NCGT4lClzMjRj22E5I1PD7N9NJ301qb3mauzymjeGOOdYh8S3QLxsUaRF94BuTDg8HVx9lMjagbeztME6ekwagBFO0EKKLNaaEeEVVnG7Nt3ZqtjqNWThxwfnJ3HLtdwww5339CT.jpg",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "cheddar-cheese-fatayer"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/fcea40882f42527d610e1c6c3169006c/nzPAnl3E8NDCvC8tzAGqYstRnoyasp09auVIzipYw1jdE9OKdpLsUSU0NVO7lQIaMYkdv1S1X1ihoXA3uzuPUxTJ2uJLOnUjr2NtBWLIaZWjJOnrngfXnh8Nc6h4iYwihOYA0r8miTonhN0TQszo59.jpg",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "akkawi-cheese-fatayer"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/99eca832d3d9bb438e19acce86e6e56c/BT3XjjfaYmKt2aLsRa1HC8HA4yBJJHrFNXwEeIZ7rpw8Tu5kLvak6nP4kL7DXDCdOg9RIR6xDYMoMgP6rP4XSD9qr6DPmWdbobSIwMi3SkKis9qp8Bti8RgDGFeObBlmjK4frqBIiZlntALJOvnHc4.png",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "mozzarella-and-vegetable-fatayer"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/66e151b738c240718788bf4d64121100/Tz2SGf57fhLPB11IXc8wjffhSVLiOEtJ3Yig0AckrQeDx6sprHyOiHcxjk6IP6TFVnQpKZNtMK9UVglr1rpnPHrsjfq3fKnJ66e4qYZsB4VBIJTS1uskAUl4qm3AsM3NkGeeWC2K0jVtsuwuiGOpDv.png",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "meat-and-cheese-fatayer"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/fdce6c3c7348b1097add4aa1ed155be1/nF5kE5ULtSKN7IHe9vCyv5pS4i6oEaHphyASM0L9B0RmoJ0ixjlg3YyrQcLFqFCpqXLes3W0qMK8gEynWpR9BcX1jqAMtNzKfcp1nnEK9r5db5Uj4cxJTEbVszN9jGgjmZkJTvxbH46NeTHe1jLErR.png",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "liquid-cheese-boat"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/b9a3abf971067ac82e0d8b61ca24f832/URznOWvHA6jZvSCeGWu08MvRvNXZ1nIJRKHkZ0N1wD17QF8LFFL3egnYVyJpkGAOlp9nqNyXnDRwOMPUQE0slSTCpK1VsM6x7bNFQCAjVt3FowUNG2cMSE5etdWBKHqjQI7YPw8VSMCyyt3NBWuhtj.jpg",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "labneh-and-honey-fatayer"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/4c4f6c87293057ed9ba0bd4a83ac40d2/bT9o18dP8kFE2dpV2ZWMw15kFHwlP7SAOH3IHpAlk3rvQyGfJ2jHT3mc5FABVM7J4lJvpemNXC584Wy69Lj0JeGxTZj0Od67BYDMHJQ7pbC2c92z8YbI1iYjHDZzMzjPD9UBKgjGewX0caekHRE322.png",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "labneh-and-zaatar-fatayer"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/8a46e50b417a332d5e8c9f8d03c0fbe9/rusgNW2u0tzVu2cKzFeEzrkIAiE1MYIutdGTqazlGdFa4Ay9z3PMkDj1BXNHdakA3GWYhxbzWUicyz9GqM5PxnqALfP2aPvbcOtJWM7IafzpISTnZilS4YJoweLJi7RbB0XYVFUCsoVUmPoXVUn6H8.png",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "labneh-and-olive-fatayer"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/a5247d0aae9b2420dcc64600d99074bd/56B7NANmPdvhrqZZ7dMKD2DqT6VNdxXU0jwRWxaULb3MF4DGdgSwfn9FuJM8mgap4pxwBowAhqTDc1X6SGeKRAhjLuIpdW87dl4TF2dBzek5gs6YF2zH5AI0F0i7DEjdEG9UqXf3nOjKyWZn50ulxS.jpg",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "labneh-fatayer"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/877caa3deb6025f3d30e7c134480b62b/oAfz83ZjuY2dtWcV81FcI5VJPPYKKFfO59iRqqt5ydDAwRRDlvu7YyYY5MWDo9VZDM127BrbTRkcXIi6vue15CZhfrjUKJVeNa77TZ5bJf3ObIQrUkQgBzx2rN0k1c7RvjZn5eyekHpXSIJkXgMcaG.png",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "zaatar-fatayer"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/eb31ddaebb9e2fa9eb3bfa0de1cdcc78/6dTlyXUvVkKRHuLhujTFpU1Ar8ESBVvV8WN5bGooXOb4RaCNoSZcrttoUrqih7cVoSPvWxTotreL8ObTkO35e7giVPvgWA7hpLr3In2muEOWQ3Ew1sqb2maClcet5bH7pKYYA9SJFvEZvBy7CQitBt.png",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "liquid-cheese-fatayer"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/8684a47a663544a29fd57114131e1557/Cksy2OqCnSs8oMcTROMlZ8zi39Agy2TkYTjuUqLf9mUQp0H8lRSdWqb3QSNBpn1EbzvC3YllGhaGGbau6lToa7sYanMXoYNZs59N8knFK2Vp96Xau2E8GEJRI73uf45VjSQFtZIlEgTfMqu7Q3kHnP.png",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "mozzarella-boat"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/e66ad11e9d187c7b8ec4080212b383a0/7QkGMUeFIQSEGOZqnFuIOaajq8ikt9Vkix6dU36lVCYwPBAcOXa5xBNw8VJdqcc0nqE6RXyMxkVdIBKLSe1REwymrYvLrQwSwcK6yqDInMKxeR5oHNoC69YJXJ8VGoAMFxNxNb2eq4WzQG3zo2ok3P.png",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "cheddar-boat"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/3feb3ba4619833836d084a562279f9d7/nuMRYQkAYrUgbZnYhwZAORiQPZJkOiIltmBlMmfpvsSIJHihx6oNDppgz8uamU0zkuPzLXlf5hD7w8NMuGxhr1YiGbmbJAVxFk6Y7cYagtgjsr2a6BzeRagavNHuwxeVi3oqyW6xDDH2YOeiKynZiB.png",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "mozzarella-boat-with-labneh-sesame-and-nigella-seeds"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/275cbe81a9e5f402a65988101bbd0a3b/NH33s6WpYxxhKponqht0RobdZL7FlQzi6UKpAMLM6QMmxJG0irDJOg9CtGDfarb5obcOjNmReQV7p38LjQeTGHEYFAq2xmpAiAyUQlUkxFX91dqqmLuloghoExN3244mKMZswYbzOHYStbIFwacyKa.png",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "labneh-boat"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/686b4aaf6dabf52ab7104d37ed303cdb/Izgr4ZiL7SEcGYmNvk3btZYWYFybXUrUhye5ysrfdzR2otFcUznrB2tEarU4br7SBwgFWTtVRt8Qkk9azRgoAZ9jtZfYzSHX1RQP91hYOyyn6mFHkOS51z5yTBlY5PQIgDiqgk604SglJx0Bz6h2Gn.png",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "meat-boat"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/8fcb5154719bc19661d4ed0193483f5a/ad7gEsT5qp3SBY3LeDRWVZi0GfuJfm6YXkyvyONyjG1zlsfGdY40GAwBuhPVS6CtbIQzipy8j9DzT1m7BTijFRqIGCX4UtdoXu9WQ13XzeSQRWQ1FpAhWbLH43Dmytkax2Z0iZ4o89pLKFoF5GjEp3.png",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "zaatar-boat"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/d2c9365819d0beab2003960618ef38a2/UIK392b8UBTXEz8ls73vEtbAjV81n2huDKiRSeiYHOWdutqu1YjyuCXNUPJCYVZwdiEa7otSHgEpcyznr62QcZOQLNVnWXPCo8XWQFF0pHNdw0ndUbpslwE1fZ1dlfEwL9TE7SRkCz6ZxsBXe1PjEW.jpg",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "garlic-sauce-plate"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/db4905efd801e003b57a91f52b203c67/r0gOHS4PK1LEdtfOP3BAQkXItCzIyi4tBWSLPDa4Ci1xexLZhfphlr1CImbOoTVZvRAueZVhsaB2rfpyT3CtPNItD7FPVJsizW9ufLbRPAigugORypisYhm3sMALDxfuvQ6S3aXDMRxJssFWhgjnhB.png",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "garlic-sauce"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/0ad3387ab205e1423411e46e6c9a747d/zUZ2eJiPYqD37SqtsBDn2zXWhZB7Wbclm0pioywMHfMkfWnPS5WmkkzCM5SSrKioKIbkUNWAq2yxO8sp071v4WTnzQZyo5afp1pyw3u811N6kQb29tbyRR4hsiSL5Rx9XH7xnXv7jjUtQtUgg7HMf0.png",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "red-garlic-sauce"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/8c4495acd7b27b044e491a495ba35a2b/ixlZlpNO8eBEA0uQi2mhPo3y1mx9vUAaZcLIrCX0PBwxtPssrwxh6lSO3JRLRDQ0v21Xhrk90Ll9Bjo5rQzJ2sUv2Lesr9FAd9IcAGbgyimbv0aTcRg12v0WUijtNA3RcC3DQrJEg25QE6bhg7ZUNe.jpg",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "thiqat-al-sham-sauce"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/8995f3c34b96e0c43aa04c7b37c6ff34/HKz8ahg3ObapfDQId8LsRwGvSOi6YKkF46WfKzUPbffypEnweAR6d40Au1kW9W4K92zJ8NKpSLLcYraUkHKafIBGUA63kQqAWfxlDQNrksXiDTk9jNtlbifHFT90C1aR3H6hMQ1GcQeUagt4dXDn1t.png",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "tahini-sauce"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/35bb5c788da16c05ad195811b18bd01d/2Gtvo3rXJ5NEF02ihjG8b6zU6gRsMcNSv3c28xaiZSAHrWR9GEuqNIzPUFoEDhOx64ptbkzmIjdh8GXx2pLkqiDR0TDE8phNnhfeZSpqvYpIJ86iCgmRAZZ6fGQ4cusng4ha8Jbh2Qe7Jr2BGctEWx.jpg",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "cheese-sauce"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/b1ae6aacf97d6a432a27f8b6a7ebfcf4/o7SoMQaFobK3aBFrqhysr53XnliQroaHrfETW9uNreDS3X3tZCjKZokcZhfxjtHKN9Ka8KjcMWIAhO3jCfJ8aVHIlfvcODpeUob0YhUyBIWWOm4x85RJp83hQOUgTilqedot3eUW9HioFeD2Jw0yg3.png",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "pomegranate-molasses-sauce"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/627c735677aad30290affb86da3e3193/MjGUwdKsF0NLM9NkxX3Xq2LIlt586tMPSqKw4weQcBc8d5uRWkplczIscyykLMgDHuWS6EXlYUCVoXg2u2jijFm83Qvh0KypLp8Y8lKGVeCDHanMijrIGCsfSgk9B7fsUxM1a0hMZw9ddEoj7gngpE.png",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "white-burger-sauce"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/841c1038dca6a5f6ffba9e3e8bf167bb/uRQE5W3QKbqYtUxf09g74uEtqaManpb2ZZljMzRDBXyc3LjgxFl2hMFJmRBDoRvz0p2ZGG7EOUjz2Zu2YBPO6u0H604jlfrOyvyOKdYVk2BGvo0SwFdYgYvZOfsX0z392PCbHF0fhkNsC5e2AunVb4.jpg",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "dark-burger-sauce"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/901e0265fd10ec5b830f548651d7e14e/luvh1Czr12opW4pCu2ICmDBjnLIoyT4QQtHrIKgnr556cATVMue1c3u0fqmeqmSHocuJZLTCsYsnBuV4Ng3kEml8pEZjMuVQPIxm9luKy5xYnfJ8hqmrauv8elYK1ErIWJ5zAGn0EJYevFAql0GSdX.png",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "al-rabie-juice"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/5ae18875d6143db7919a5d3717ae37ac/qb2Xrwo7jVY9uwkYRBnpgSmreCynmVY8KTBUBlPYaxgHsP9JcFp1LARlJWrzBPHCzIlg5HxMwM7sROFyNBxoEvRgpHy7u2jlor9s8cKWFLDiiBKTL8MXhy9G9vMrIym6Y3nIfLBFkvUpQSGMEpJv4r.jpg",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "kinza-seven-large-360-ml"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/caf7f8bd1de5f5031642a3fb12609055/2fBBlC1FCzUgxHZPWf5XXNE8rGf8WeZFsraAAT1DJcfOdvRakYULM9E1oOLBjwG9AEsXo39OnDJG83Ca9TYjxqlMlRNeU9UvZ9lLiuksuzUrJcl1TekmDazwDCsjNPJgfPRmtrDOoqJBZ5Sw7dMrEq.webp",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "kinza-citrus-large-360-ml"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/7eb069a46eecf821cfc4ec907105f8a6/EGbLTfoHbuP4hnLv41tn24xvITSKgwU3JKnOPe9Nk8JC2Vouc7O4urkBPNqCyCY0OGwTelVsVdyKWqF9JOQUzG1KuqRzYo737Rj9zj8XVuqx1ZTe28ZTzuarV6rqOD3SrVkex6dryprtPkEYxWHfx3.webp",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "kinza-orange-large-360-ml"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/efc4e2a796441ac8b103672b5d4080c1/9QXiKeGoAwMKxqF0hVi0GPLVMPVwYUpkvZVHm8U7QlUsIg2pSWB3UpXeXNIkISaTvffZqDwaiOZUJaCFHne7R8oG3kTK3042oqJqdFvOCgTvczvKvheNLLa9Zu9ZOsgLmkHZUcxt17VgWkVqVFLfAY.webp",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "kinza-seven-small-185-ml"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/59d76e528ba9b9da4a69984d62618342/oBzLiRPVQIugBpoTemiyB3VnDHXnrf71OAUiZqVttRls0apPU1hMtdxfMlca8nt0Mb2YcdMeaafPxckxn5gbMkYh5uBBGIGO4O6WNhcOfvEJndijHjBP8rWfVuitw5LS3UD87hvNfVuyObpAzumawp.jpg",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "kinza-orange-small-185-ml"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/f7f36155b9d4cebe7f84f50228a9a0c2/F8vDi9uuNTAoVY8JRrK8mvN6KCI13aeXLLJ4bJNa4PrEHmtIybdjeqkqD6u5luM5oyhsgdpMVcb0jYUOCqvemczGbKkI8pCluDz0iDumwZhLmy0xjUpHus9l9EGhJiO59IQw1PaRYUO8c3LwoTqhvQ.webp",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "kinza-citrus-small-185-ml"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/04d31b194e6bb3478ee5a8b3894f2fb0/4xBE4diqfJMErjAO5P5ilL8VrwSvFX7DUJMZdNGHboPjcp9HWkoeP90RmjJiI7H4WkQMuUmXyYY3VpkX6yPzPZNVIu1hTNal2fpKo6lEqKbww3OUlbQGouateytTyO5EX5HD96ARA8nz7XpVdFeOkp.webp",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "kinza-cola-small-185-ml"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/bc520a5c61a61c2ad2f67f4717d5e496/WPxIfdUe63NFcGb1qnpDo96xZRA2DrNSF4IMGKANyTab15lFfGVruUaYN0MHx3FCyxog2QAaApMVtJksvsOYFos5cF9oI50pYZb7FSppTkL21CkNQa4hJOej7aSBwanX2wno6qkAairYtkMMaYleKP.png",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "kinza-cola-large-360-ml"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/4c8c2e01919d5f612ca6568bb15656e8/JCGY9E1kipcGi88Q9lZvqicrdWUWILnP0v9g1NOkaLqiSZofO8gBKVjAofjF37Qx97ueqya0DgYIGNFLTQsctNAbBccI4PCeVs32GxsJRzODYtfuLEV3YFNncbMce6Jkx9o81OVtiA6ohjgKOVcwf7.png",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "7up"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/4735c8015fdb2060320c96aa04d21f92/kmPJtccfpRzW6nosWxrf9FDwqCDG1n6oggji6CVe04RayvvslRKptaScOeXZKigEODfbSGiivKCYLKeoUnmYmM3xk4NjnPsnKHLkdxD43X5LSirNDy8bOtSk8gm4mcUmGjmPsjopYFAfSWwonzVYGx.png",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "7up-diet"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/0f0c49880a632022ecf00b2306345247/yJTI5jz1foUaA2rMDrroU3tmC54bHEH4y1S2yYd3L2veDlASfOnrhrOJdIN5oaurqPhluNyQXnb4kw5v6kTjfQHgSRG2uZaLtgPsLL8aK2CgTkFpcNazUvpZcqBLfYh0LHU7Y71ZP0eXUojqIyP8dN.png",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "diet-pepsi"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/0ff74e406c2143e97497460b1a3d9764/7XicvLsZxVQdnhF5Be9PRxRj7Fr34AfmJqNy3gSBZyG1GY60hMc2hKf4BQOMUUaoOGhgrti5NvxfzxpZIwUigL2ZeX0Q82tQ2dsCtEVAcyq6b2foCunGGnR3MPFsCftAsXpqt2z8UrrYVZkXbDkhtJ.png",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "water"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/7873a864fa53ae235ff135a33d4643b9/IMTmg2WTHzmcK7Oniu176MfwgEe7UgSu7Qmo3AKKlQhFrN7OiJXDUltGRaimGDDAAt7HqVA2bhwxZIXCvRwOYX8movOeWOZOmSvNxHmZzLYU6TO2rZSx4yQGjQdvPAn5ielsSXWq6JuSEgl2BMD3uk.png",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "mirinda-orange"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/8296916e32e4c4c9aaf85192c831ffe8/wmddOpPvhAOsjFAPUiFhezmbt2qtfsEA5R8GbL8G33zCQLsa2I1EhIqujeLyBFghRs28fHDBAaVdCMEdnmOhlrS9y93qFBkIL2M6U5R8deae7eaVs5Wgdl4vSV299eHsnCrD1m7KkFQeSzGWuMazCg.png",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "pepsi"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/08d3a2216faf4d7944b53552f047193a/KiUh4Mk2G5RbrDu6QXx3SPNxHKZOFzw7H9zemzvZVPTMRPzqacNE7yz1rUCC8kZZfkOjfwEJrGirJE0JTz1Uih0qTvQie8ymEKMngJc6Tll4td3burrHOAaiu27AWkE7OoeM5KyTuczJmJhA3HuhzI.png",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "mountain-dew"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/5efb3f16e7ecb259d1bd6134e15cbe7e/jucTmtJqee5CqpLSQeqkZP1Adhn7y7YNy5za4BAyCS7nduNqhsVoZOuwD6gFQz9GJb0NS03Y5Ivsim6eIrmdQOBAhsyKm379p85txaXPOee6EoAjfOGEtl7WFd0QkHRVUr2XgIg3etdM0N29OWOwCd.png",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "citrus-soda"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/1584113eb20ccf61d3c4d0c723293581/XHiPew5v0ma3b0PUJG36xPvzrNEurR4ElcZuLoI7A4CFc5rhGaW1eE0bkKZFdkrxeZCKhVj2Ay450DIvv0nTLzsNnb7oee0jodyq70RCfpmDZiTBB6nxSlg7gyMnuwafeo3qi7Ek0CsjOTYIEmSiyq.png",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "mixed-falafel-plate-small"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/388d2b5689a7925639206e9c01ab04b6/y5xT7MmqFxPy0JFOt7k9Q8uUTn4tdAkCzIdHldJGAR0bu7tl6Dg0volRTi6A7tTYqeamfipk29AGE22bQ3iBwbpanBsJirInDO3RmKQJPpKbj78u2A49qinWqYnkCbezf2A1FSiPM3IrohDM8YEY19.png",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "milk-tea"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/b9f6ebc6aa06638bfaf6d991dd42ef6b/NIC3flKjaMaTTIYjQQrLmhuLvJmGJoHVCAqmggEgNzvVFmWeiFJoA8ff4OZyeMIXHtAGKQZv4QDyfX4E3aCMnMCsLGmpLDI3OFggirTO9PUpFwJXkf2NNH3KbhbvZWT8FmIvc6U0tXPuPmdIaIpZ5v.png",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "sunny-side-up-eggs"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/1f8638eb75330d6c6bd452870c84f1c8/sx8f4ict8yNEfzshoHTfhzGLx4nVuoTdY1jg8VGanT0QJjuhmEDE5JGiidrBoSiXuWf5ta5WQPPafptK7edunYM77AH0Zb40GFqt90gQAV0KwWcCxHffdbV0BrLDhWTFzIJocRQcMxxIrlAf3HP6vf.png",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "chicken-mugalgal"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/aec44bbae98683eec432b20aaaad5559/5gYeV4ewYA9qFzeIITHYQFwe7HwTFNBVf4lsT1TJnbQ9B0cfXXQy550uW9FCL6ICCaNNxNsDcRIg3AJbFX9rLSRRt4zMUPnLW5jRo3ISUihqBhpw48GNRgnPBIPRTs7dF75I9UGGaX8Km62xe3Bnqe.png",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "lahsa"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/5462b63ced0c48fb1ce16ed85de53bf3/VHREc4nIg9KfUgSeTMZ20IJsmU9WHYqAWlxVBIw11x16YxSoS0qQm4zjotwH74955TilgodgmVsuDNoGgBRtVwwpt6ZiJGbfJ86agX4I7qJ2GyLOa7tnSS7rG6xW5QbL86DsodxxxZPvW7LiScJ2CA.png",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "shakshuka"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/d38af00628b99575a1ed52f3b670d7fc/xKuBb7OF7gP1pbp1OFz3j2KQEF4ZPFU2CC0q58u9ei6twA64iDeEtWumRjjJbQybOAWeCJnZoI9m3xbAWOWDmATeoTFkpDVWWnezf0HXHWKG8OSg42NYxwnyjPRb0pqehncVnJeGbmlKwEytU4e45D.png",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "tea"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/a281381934102e5b39545640bcf2b906/15RkBq1qEK9KUCC7w7xcGNKk3UgPbMqcCQdynCpbFs7ZIsv9NYdXr0s1yw3ovcTFmS6HiKBV7TGx0m5VvIKT1VFZWUKIucSACahb2f6SizmtKeRWpfVWrl5Dc19WFjVK2vwpPbf9VXKQYIwZG8bTBR.png",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "mixed-falafel-plate-large"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/d5297d50ef192283bc4ecc2161d61ab4/UZ9ZBYJT0iRfTOKLUdHYu0mRogkgn1vHptSikmbu4u245qTLX1KHgNjLnJBr1YBT5izCGt3slkw5aEdb22fUfCYL2lAxcsFfreHsLqAH6bZnSdQwDA3Qjceg2yctOrXvzDarnI2ERTAdL9mhlUZxbk.png",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "mixed-falafel-plate-medium"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/5368035df195b6fe12cd63923a3fa86f/YfR3esY4HnVFcSDjGgJTITsnBSBX1PMPESIGNr3dgU8Akszg1WmITJL6hj0oPmTSPdfhiCnT77drbGsXSSYQUtD32hEVFjsVRQfkBqPKkTmr3N1zYlbspNAImSSGMtGBbxh0mfr2G0qcSJ8X5WwM7t.png",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "fried-egg-sandwich"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/1329491256eb74172183974ce5ef5df4/GLeSrtgXWgEuDrtjvTu3hhVX9n4TSmXJwoCbtNhNlZxk0jT2kNt5ZFBxhnCvuX7eWx7Q17dOEb78yiNhaUGH5uKrBJvK6VpAESmPI3lEsV7pdviz0Qusis2GwjnhDVTnYleyA35beowel05IiAYngk.png",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "falafel-sandwich-with-hummus-and-cheese"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/fe751240231664ffd762a79cc73f3410/H3pVtdiy9g5chm2HtlSbOq8ra6I5oujhfczQUsTKaoIBcAewmdhKKMStenicZNYvjsbtkyAxHPAikjJrRg4Oo2ZsA7oidlrh3Q2YHaHmK75EiME3fZXrGp5GOAYOdljMgPY1lKPiZ5j2QFijUNI78D.png",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "falafel-and-cheese-sandwich"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/08f7451fd13901b6b59f41179af4806b/wE9XRHEBIraPR7brruWp9RLZenXuwxkJB69N6OFqAVDKwzZxlsuBBk8yKTgmaBGsSgiAL3mt2LgHtsj1CRSqr8JUPAp14P0y1oD1rxDn9IdRceSCJIpj80k4gB4VJzu5zJbAVe3iShZj3YcVUj2aKQ.png",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "falafel-sandwich"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/67e7d83a561183ec6198eae5b7f15cb5/QeFc274EKgCiyBg6IHSOzwfItaiSd0K1R7Eu2AU3TjZsECSinEk5njIuXBdSf536zI5Exjo3nQQq4huBcAuVhfjznQCRxx0Tf4j6XApvu2AuwmJJEEnepGi6MHUCDVGCEDcvdpubXYI5Fp546rpBnt.png",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "cheese-sandwich"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/f4d93731cc22ac24d5a27afb090e1620/2hqKP2Zq0i5LDiKNUX56hTzrowGG98TJDcQDRreiOw766zr3BFIreG9NKF1h6rSwasAUrYKd56kDVw3NpK8Jw4ytsRa1zEteBRvITOhZtvkqZAYoD4zxueISi5oGfI3lzpC35oEuMiknbnpgqAbThb.png",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "boiled-egg-and-cheese-sandwich"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/0560dcb00732b0c5db17b34791fcf310/UjfYnxIwgWxyCwY4A0zY0rKrfEA858GDq8U7kCEDoeR6ofsYqdziabYJt9EIDNfOTW1OUDmzNl7XIltheN5P0uoCfNXNrDP4UyjBb3IFDnJsfvMSoXNj8PZEzWUGgOeqmPE3JBZzal8HZgoDyEf9zm.png",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "boiled-egg-sandwich"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    },
+    {
+      "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/2bc3be83ac285e6d78bdc96992203101/9qF7Db4VmeBE3TxuTvgFEPx8p2eMGOJoPcWlARkzv9UZDHeazN9yTJEnV47pQqquBrBfLSzDauHq9bFbX7Svtp3elhtePdGTg5pgaVg9DwzUtj4HCujIiiboqfgBjVOa2uWQsmLfZZJBAhHmbGh6kM.png",
+      "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
+      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
+      "used_for_items": [
+        "fried-egg-and-cheese-sandwich"
+      ],
+      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "date_found": "2026-11-21"
+    }
+  ]
+}
