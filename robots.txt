@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /theqah-restraunt/research/
+Disallow: /theqah-restraunt/tools/
+
+Sitemap: https://bloxforlife.github.io/theqah-restraunt/sitemap.xml

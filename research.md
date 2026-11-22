@@ -48,8 +48,8 @@ Screenshots of key sources: `research/evidence/`. Menu data: `data/menu.json`. H
 | Menu: prices | Restaurant menu (M): 1–120 SAR. HS is higher on 128 of 129 shared items, by 1–8 SAR (mostly +3 or +4); one item 1 SAR cheaper on HS. | M; HS | 2026-11-22 | **UNCONFIRMED** (all 176). The pattern fits M = in-store prices and HS = delivery prices. Site shows M prices. |
 | Item descriptions | 119 of 176 items now have one: 6 from M (the restaurant's own), 113 from HS. Where HS had only English, or its English was wrong/cut off, we translated or rewrote it; each item's `description_source` says so. 57 items have none (not on HS). | M; HS | 2026-11-22 | **VERIFIED** source text (nothing invented) |
 | "وتش" items | Means **pizza sandwich** (HS English: "Zinger Pizza Sandwich", "Sausage Pizza Style Sandwich Meal") | HS | 2026-11-22 | **VERIFIED** (HS); English names updated |
-| What a "meal" includes | Burger, fajita, codo and samoli meals: fries/potatoes + a drink. Pizza-sandwich meals: Pepsi + fries. | HS descriptions; M (pizza-sandwich meals) | 2026-11-22 | **VERIFIED** for those items. Zinger and "bomb" meals: unknown (not on HS). |
-| Calories | HS shows calories for most items, but some look wrong (e.g. Medium/Large Mixed Cheese Pizza both 420; Large Mixed Grill 480 vs Small 849). Stored as `calories_hungerstation`, **not shown on the site**. M's own calories (6 items) are shown. | HS; M | 2026-11-22 | **UNVERIFIED** (HS values) |
+| What a "meal" includes | Burger, fajita, codo and samoli meals: fries/potatoes + a drink. Pizza-sandwich meals: Pepsi + fries. | HS descriptions; M (pizza-sandwich meals) | 2026-11-22 | **VERIFIED** for those items. Zinger and "bomb" meals: **UNVERIFIED**. Blox (2026-11-22): "probably some fries and a coke, but not confirmed; don't add." Nothing added. |
+| Calories | HS shows calories for most items, but some look wrong (e.g. Medium/Large Mixed Cheese Pizza both 420; Large Mixed Grill 480 vs Small 849). Stored as `calories_hungerstation`, **not shown on the site**. M's own calories (6 items) are shown. Blox (2026-11-22): not yet OK to show the HS numbers. | HS; M | 2026-11-22 | **UNVERIFIED** (HS values, hidden) |
 | Snapchat | @thiqat.sa, "مطعم ثقة الشام", active (last update 21 Nov 2026) | M (link); SC | 2026-11-21 | **VERIFIED** |
 | Instagram | @thiqat.sa | M (link `instagram.com/thiqat.sa`); pizza box prints Instagram + Snapchat icons next to "thiqat.sa" (SC post 18 Nov 2026, `research/source-images/snapchat/st41_f*.jpg`) | 2026-11-21 | **VERIFIED** (two of the restaurant's own sources). The profile page itself could not be opened (login wall). |
 | TikTok | @thiqat.sa | M (link); TT says account not found | 2026-11-21 | Dead link, **not used** (Blox: drop it) |
@@ -74,7 +74,7 @@ Screenshots of key sources: `research/evidence/`. Menu data: `data/menu.json`. H
 | 5 | **English item names** | M's English names are machine-translated; 17 are wrong or missing (§5). | Corrected in `menu.json`; originals kept in `en_name_from_restaurant`. |
 | 6 | **Menu photos** | Most photos on M look like stock/manufacturer images (e.g. Pepsi cans, reused pizza photos). | **Approved by Blox**: the owner uses them, so we use them. Logged in `credits.json`. |
 | 7 | **Phone link** | M's call button is `tel:502619361` (missing 0/+966). | Site uses `tel:+966502619361`. Tell the owner their menu-site call button is broken. |
-| 8 | **Shawarma on HS** | 14 shawarma items appear on HS's English page but not its Arabic page. | Kept on our menu (they are on M). Ask the owner if any are unavailable. |
+| 8 | **Shawarma on HS** | 14 shawarma items appear on HS's English page but not its Arabic page. | Kept on our menu (they are on M). **Resolved by Blox (2026-11-22):** none are unavailable, all shawarma items stay listed as available. |
 
 ---
 
@@ -142,10 +142,20 @@ Items and prices copied from **M** (the restaurant's own online menu) on 2026-11
 2. **Breakfast:** the menu has a breakfast category, but the shop opens at noon. When is breakfast served?
 3. **Prices:** all 176 are "unconfirmed". Are the online-menu prices the in-store prices? (HungerStation's are higher.)
 4. **Instagram @thiqat.sa and WhatsApp:** their menu site and pizza box point to Instagram @thiqat.sa, but I couldn't open it. Is it active? Is 0502619361 on WhatsApp? (Both will be linked; please confirm.)
-5. **Meals:** what comes with the Zinger meals and the "bomb" (قنبلة) meals?
-6. **Shawarma:** HungerStation's Arabic page hides all 14 shawarma items. Are any of them unavailable?
-7. **Calories:** OK to show HungerStation's calorie numbers? Several look wrong, so they're hidden for now.
+5. **Meals:** what comes with the Zinger meals and the "bomb" (قنبلة) meals? *Blox: probably fries and a Coke, not confirmed. Nothing is written on the site until the owner says.*
+6. ~~**Shawarma:** HungerStation's Arabic page hides all 14 shawarma items. Are any of them unavailable?~~ *Answered by Blox: all available.*
+7. **Calories:** OK to show HungerStation's calorie numbers? Several look wrong, so they're hidden for now. *Blox: not yet. They stay hidden.*
 8. **Original logo file** and **original phone photos/videos**, if they have them (higher quality).
 9. **Their own fixes:** the menu site's map pin (FG9G+C24), call button (`tel:502619361`) and hours (14:00) are wrong, the TikTok link is dead, and the Snapchat bio says حي الخليج.
 10. **Postal code** 37451: correct?
 11. **Women-owned** (Google attribute) and **opening date**: only mention if the owner wants.
+
+---
+
+## 8. How the website uses this research (Phase 2, 2026-11-22)
+
+- **Shown on the site:** name, address (street + Al-Faisaliyah + Al-Nu'ayriyah), map pin FFC9+QR, phone, WhatsApp button, hours 12:00–02:00 every day, Snapchat, Instagram, HungerStation, the full menu (M prices, with "Prices may vary in store"), the 6 calorie values from M, and the restaurant's own taglines ("مشاوي على الأصول", "معجنات طازجة يوميًا", "مخبوزة بحب").
+- **Linked although UNVERIFIED:** WhatsApp (only the menu site links it) and "open every day incl. Friday". Both are in `config.js` and easy to change.
+- **Not shown:** postal code, HS calories, HS prices, ratings, reviews, "women-owned", opening date, "Syrian", TikTok, meal contents for Zinger/bomb meals.
+- **Photos:** only the restaurant's own (Snapchat posts, Google owner photo, its own online-menu photos). Each website image file is listed in `credits.json` (`used_on_site_as`, `site_files`).
+

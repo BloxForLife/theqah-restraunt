@@ -17,6 +17,14 @@
       "publisher": "Restaurant's HungerStation listing (logo slot)",
       "note": "1484x853, clean flat colours, horizontal layout, no guide lines or shadow. Best reference for the vector redraw.",
       "date_found": "2026-11-22"
+    },
+    {
+      "file": "assets/img/logo.svg (+ assets/img/logo-mark.svg, favicon.svg, favicon.ico, apple-touch-icon.png, icon-192.png, icon-512.png)",
+      "source_url": null,
+      "found_on": null,
+      "publisher": "Clean vector redraw made for this website (approved by the site owner on 2026-11-21)",
+      "note": "The big word ثقة is rebuilt from measured shapes of the HungerStation logo above; the small words مطعم and الشام are traced from it. Colours #00A0D4 and #F8DC10 sampled from it. Icons use the ق ring and dots.",
+      "date_found": "2026-11-22"
     }
   ],
   "photos": [
@@ -27,7 +35,13 @@
       "publisher": "Google account named 'مطعم ثقة الشام' whose avatar is the restaurant logo (treated as owner)",
       "posted": "Nov 2026 (Google label: 'Photo - Nov 2026')",
       "subject": "Storefront at night: illuminated sign, glass front, dome ovens, shawarma station",
-      "date_found": "2026-11-21"
+      "date_found": "2026-11-21",
+      "used_on_site_as": [
+        "assets/img/storefront-800.webp",
+        "assets/img/storefront-1600.webp",
+        "assets/img/og-image.jpg"
+      ],
+      "site_crop_note": "Cropped and resized; Snapchat watermark cropped out where there was one."
     },
     {
       "file": "research/source-images/snapchat/sp49_f0.jpg",
@@ -573,7 +587,11 @@
       "frame": "still frame #1 extracted from the video",
       "watermark": "Snapchat '@thiqat.sa' watermark in corners (crop before use)",
       "subject": "Pizzas being prepared",
-      "date_found": "2026-11-21"
+      "date_found": "2026-11-21",
+      "used_on_site_as": [
+        "assets/img/pizza.webp"
+      ],
+      "site_crop_note": "Cropped and resized; Snapchat watermark cropped out where there was one."
     },
     {
       "file": "research/source-images/snapchat/sp71_f2.jpg",
@@ -586,7 +604,11 @@
       "frame": "still frame #2 extracted from the video",
       "watermark": "Snapchat '@thiqat.sa' watermark in corners (crop before use)",
       "subject": "Pizzas being prepared",
-      "date_found": "2026-11-21"
+      "date_found": "2026-11-21",
+      "used_on_site_as": [
+        "assets/img/pizzas-row.webp"
+      ],
+      "site_crop_note": "Cropped and resized; Snapchat watermark cropped out where there was one."
     },
     {
       "file": "research/source-images/snapchat/sp71_f3.jpg",
@@ -690,7 +712,11 @@
       "frame": "still frame #1 extracted from the video",
       "watermark": null,
       "subject": "Tray of fatayer",
-      "date_found": "2026-11-21"
+      "date_found": "2026-11-21",
+      "used_on_site_as": [
+        "assets/img/fatayer.webp"
+      ],
+      "site_crop_note": "Cropped and resized; Snapchat watermark cropped out where there was one."
     },
     {
       "file": "research/source-images/snapchat/st00_f2.jpg",
@@ -755,7 +781,11 @@
       "frame": "still frame #2 extracted from the video",
       "watermark": null,
       "subject": "Shaping fatayer dough",
-      "date_found": "2026-11-21"
+      "date_found": "2026-11-21",
+      "used_on_site_as": [
+        "assets/img/fatayer-dough.webp"
+      ],
+      "site_crop_note": "Cropped and resized; Snapchat watermark cropped out where there was one."
     },
     {
       "file": "research/source-images/snapchat/st19_f3.jpg",
@@ -794,7 +824,11 @@
       "frame": "still frame #1 extracted from the video",
       "watermark": null,
       "subject": "Shish tawook and kebab skewers over charcoal",
-      "date_found": "2026-11-21"
+      "date_found": "2026-11-21",
+      "used_on_site_as": [
+        "assets/img/hero-grill.webp"
+      ],
+      "site_crop_note": "Cropped and resized; Snapchat watermark cropped out where there was one."
     },
     {
       "file": "research/source-images/snapchat/st20_f2.jpg",
@@ -833,7 +867,11 @@
       "frame": "still frame #0 extracted from the video",
       "watermark": null,
       "subject": "Mixed skewers over charcoal",
-      "date_found": "2026-11-21"
+      "date_found": "2026-11-21",
+      "used_on_site_as": [
+        "assets/img/grill-skewers.webp"
+      ],
+      "site_crop_note": "Cropped and resized; Snapchat watermark cropped out where there was one."
     },
     {
       "file": "research/source-images/snapchat/st31_f1.jpg",
@@ -898,7 +936,11 @@
       "frame": "still frame #1 extracted from the video",
       "watermark": null,
       "subject": "Chicken shawarma on the spit",
-      "date_found": "2026-11-21"
+      "date_found": "2026-11-21",
+      "used_on_site_as": [
+        "assets/img/shawarma.webp"
+      ],
+      "site_crop_note": "Cropped and resized; Snapchat watermark cropped out where there was one."
     },
     {
       "file": "research/source-images/snapchat/st37_f2.jpg",
@@ -1039,7 +1081,10 @@
       "used_for_items": [
         "samoli-shawarma-meal"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/samoli-shawarma-meal.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -1049,7 +1094,10 @@
       "used_for_items": [
         "samoli-shawarma"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/samoli-shawarma.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -1059,7 +1107,10 @@
       "used_for_items": [
         "chicken-codo-meal"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/chicken-codo-meal.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -1069,7 +1120,10 @@
       "used_for_items": [
         "chicken-fajita-meal"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/chicken-fajita-meal.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -1079,7 +1133,10 @@
       "used_for_items": [
         "chicken-codo"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/chicken-codo.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -1089,7 +1146,10 @@
       "used_for_items": [
         "chicken-fajita"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/chicken-fajita.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -1099,7 +1159,10 @@
       "used_for_items": [
         "meat-awsal-small"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/meat-awsal-small.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -1109,7 +1172,10 @@
       "used_for_items": [
         "shish-tawook-small"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/shish-tawook-small.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -1119,7 +1185,10 @@
       "used_for_items": [
         "shish-tawook-jumbo"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/shish-tawook-jumbo.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -1129,7 +1198,10 @@
       "used_for_items": [
         "jumbo-shawarma-40-cm"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/jumbo-shawarma-40-cm.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -1139,7 +1211,10 @@
       "used_for_items": [
         "meat-awsal-jumbo"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/meat-awsal-jumbo.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -1149,7 +1224,10 @@
       "used_for_items": [
         "chicken-kebab-medium"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/chicken-kebab-medium.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -1159,7 +1237,10 @@
       "used_for_items": [
         "chicken-kebab-jumbo"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/chicken-kebab-jumbo.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -1169,7 +1250,10 @@
       "used_for_items": [
         "meat-kebab-medium"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/meat-kebab-medium.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -1179,7 +1263,10 @@
       "used_for_items": [
         "meat-kebab-jumbo"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/meat-kebab-jumbo.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -1189,7 +1276,10 @@
       "used_for_items": [
         "shawarma-small"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/shawarma-small.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -1199,7 +1289,10 @@
       "used_for_items": [
         "rocket-shawarma"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/rocket-shawarma.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -1209,7 +1302,10 @@
       "used_for_items": [
         "arabi-mixed-kebab"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/arabi-mixed-kebab.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -1219,7 +1315,10 @@
       "used_for_items": [
         "arabi-chicken-kebab"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/arabi-chicken-kebab.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -1229,7 +1328,10 @@
       "used_for_items": [
         "arabi-meat-kebab"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/arabi-meat-kebab.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -1239,7 +1341,10 @@
       "used_for_items": [
         "cheese-fries"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/cheese-fries.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -1249,7 +1354,10 @@
       "used_for_items": [
         "fries"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/fries.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -1259,7 +1367,10 @@
       "used_for_items": [
         "mixed-grill-1-kg"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/mixed-grill-1-kg.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -1269,7 +1380,10 @@
       "used_for_items": [
         "chicken-kebab-plate-large"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/chicken-kebab-plate-large.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -1279,7 +1393,10 @@
       "used_for_items": [
         "mixed-grill-awsal-plate"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/mixed-grill-awsal-plate.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -1289,7 +1406,10 @@
       "used_for_items": [
         "meat-awsal-plate-large"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/meat-awsal-plate-large.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -1299,7 +1419,10 @@
       "used_for_items": [
         "meat-awsal-plate-small"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/meat-awsal-plate-small.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -1309,7 +1432,10 @@
       "used_for_items": [
         "meat-kebab-plate-large"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/meat-kebab-plate-large.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -1319,7 +1445,10 @@
       "used_for_items": [
         "meat-kebab-plate-small"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/meat-kebab-plate-small.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -1329,7 +1458,10 @@
       "used_for_items": [
         "arabi-shawarma-plate-small"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/arabi-shawarma-plate-small.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -1339,7 +1471,10 @@
       "used_for_items": [
         "chicken-kebab-plate-small"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/chicken-kebab-plate-small.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -1349,7 +1484,10 @@
       "used_for_items": [
         "shish-tawook-plate-large"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/shish-tawook-plate-large.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -1359,7 +1497,10 @@
       "used_for_items": [
         "shish-tawook-plate-small"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/shish-tawook-plate-small.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -1369,7 +1510,10 @@
       "used_for_items": [
         "mixed-meat-grill-plate-small"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/mixed-meat-grill-plate-small.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -1379,7 +1523,10 @@
       "used_for_items": [
         "mixed-chicken-grill-plate-small"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/mixed-chicken-grill-plate-small.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -1389,7 +1536,10 @@
       "used_for_items": [
         "mixed-grill-plate-large"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/mixed-grill-plate-large.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -1399,7 +1549,10 @@
       "used_for_items": [
         "mixed-grill-plate-small"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/mixed-grill-plate-small.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -1409,7 +1562,10 @@
       "used_for_items": [
         "shawarma-plate"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/shawarma-plate.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -1419,7 +1575,10 @@
       "used_for_items": [
         "arabi-shawarma-plate-large"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/arabi-shawarma-plate-large.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -1429,7 +1588,10 @@
       "used_for_items": [
         "arabi-shawarma-plate-medium"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/arabi-shawarma-plate-medium.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -1439,7 +1601,10 @@
       "used_for_items": [
         "chicken-zinger-in-saj-bread"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/chicken-zinger-in-saj-bread.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -1449,7 +1614,10 @@
       "used_for_items": [
         "chicken-zinger-burger"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/chicken-zinger-burger.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -1459,7 +1627,10 @@
       "used_for_items": [
         "zinger-meal-saj-bread"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/zinger-meal-saj-bread.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -1469,7 +1640,10 @@
       "used_for_items": [
         "zinger-meal-burger-bun"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/zinger-meal-burger-bun.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -1479,7 +1653,10 @@
       "used_for_items": [
         "beef-burger"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/beef-burger.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -1489,7 +1666,10 @@
       "used_for_items": [
         "double-beef-burger"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/double-beef-burger.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -1499,7 +1679,10 @@
       "used_for_items": [
         "chicken-burger"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/chicken-burger.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -1509,7 +1692,10 @@
       "used_for_items": [
         "double-chicken-burger"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/double-chicken-burger.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -1519,7 +1705,10 @@
       "used_for_items": [
         "beef-burger-meal"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/beef-burger-meal.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -1529,7 +1718,10 @@
       "used_for_items": [
         "chicken-burger-meal"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/chicken-burger-meal.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -1539,7 +1731,10 @@
       "used_for_items": [
         "double-beef-burger-meal"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/double-beef-burger-meal.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -1549,7 +1744,10 @@
       "used_for_items": [
         "double-chicken-burger-meal"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/double-chicken-burger-meal.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -1557,15 +1755,17 @@
       "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
       "publisher": "Restaurant (photo shown next to the item on its own online menu)",
       "used_for_items": [
-        "watsh-pizza-meal-zinger"
+        "zinger-pizza-sandwich-meal"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/zinger-pizza-sandwich-meal.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
       "source_url": "https://menus.sfo3.cdn.digitaloceanspaces.com/03e1419bd2539db3880f4a05c58c41cf/1758800690-W4tsmh9pg90klULl4Ci4hrUckk9k7bV2kRzTeU9RhR2zrain9s5QkTOEuoJz4pLqhrBDnFMHEZoBu0jeLyqqUGlVIe7RigB5o0vc.jpg",
       "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
-      "publisher": "Restaurant (photo shown next to the item on its own online menu)",
       "used_for_items": [
         "shawarma-bomb",
         "beef-burger-bomb",
@@ -1574,7 +1774,7 @@
         "beef-burger-bomb-meal",
         "chicken-burger-bomb-meal"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "note": "The online menu shows the logo as a placeholder for these items. Not used: the website shows a plain branded tile instead.",
       "date_found": "2026-11-21"
     },
     {
@@ -1582,9 +1782,12 @@
       "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
       "publisher": "Restaurant (photo shown next to the item on its own online menu)",
       "used_for_items": [
-        "watsh-pizza-meal-shawarma"
+        "shawarma-pizza-sandwich-meal"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/shawarma-pizza-sandwich-meal.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -1592,9 +1795,12 @@
       "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
       "publisher": "Restaurant (photo shown next to the item on its own online menu)",
       "used_for_items": [
-        "watsh-pizza-sausage"
+        "sausage-pizza-sandwich"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/sausage-pizza-sandwich.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -1602,9 +1808,12 @@
       "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
       "publisher": "Restaurant (photo shown next to the item on its own online menu)",
       "used_for_items": [
-        "watsh-pizza-meal-sausage"
+        "sausage-pizza-sandwich-meal"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/sausage-pizza-sandwich-meal.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -1612,9 +1821,12 @@
       "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
       "publisher": "Restaurant (photo shown next to the item on its own online menu)",
       "used_for_items": [
-        "watsh-pizza-zinger"
+        "zinger-pizza-sandwich"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/zinger-pizza-sandwich.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -1622,9 +1834,12 @@
       "found_on": "https://thiqat-alshaam.menus-sa.com/ar",
       "publisher": "Restaurant (photo shown next to the item on its own online menu)",
       "used_for_items": [
-        "watsh-pizza-shawarma"
+        "shawarma-pizza-sandwich"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/shawarma-pizza-sandwich.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -1634,7 +1849,10 @@
       "used_for_items": [
         "meat-pizza-medium"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/meat-pizza-medium.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -1644,7 +1862,10 @@
       "used_for_items": [
         "meat-pizza-small"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/meat-pizza-small.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -1654,7 +1875,10 @@
       "used_for_items": [
         "shawarma-pizza-large"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/shawarma-pizza-large.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -1664,7 +1888,10 @@
       "used_for_items": [
         "shawarma-pizza-medium"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/shawarma-pizza-medium.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -1674,7 +1901,10 @@
       "used_for_items": [
         "shawarma-pizza-small"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/shawarma-pizza-small.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -1684,7 +1914,10 @@
       "used_for_items": [
         "mixed-cheese-pizza-large"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/mixed-cheese-pizza-large.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -1694,7 +1927,10 @@
       "used_for_items": [
         "mixed-cheese-pizza-medium"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/mixed-cheese-pizza-medium.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -1704,7 +1940,10 @@
       "used_for_items": [
         "mixed-cheese-pizza-small"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/mixed-cheese-pizza-small.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -1714,7 +1953,10 @@
       "used_for_items": [
         "sausage-pizza-large"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/sausage-pizza-large.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -1724,7 +1966,10 @@
       "used_for_items": [
         "sausage-pizza-medium"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/sausage-pizza-medium.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -1734,7 +1979,10 @@
       "used_for_items": [
         "sausage-pizza-small"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/sausage-pizza-small.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -1744,7 +1992,10 @@
       "used_for_items": [
         "meat-pizza-large"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/meat-pizza-large.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -1754,7 +2005,10 @@
       "used_for_items": [
         "ranch-pizza-large"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/ranch-pizza-large.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -1764,7 +2018,10 @@
       "used_for_items": [
         "margherita-pizza-medium"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/margherita-pizza-medium.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -1774,7 +2031,10 @@
       "used_for_items": [
         "margherita-pizza-small"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/margherita-pizza-small.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -1784,7 +2044,10 @@
       "used_for_items": [
         "vegetable-and-cheese-pizza-large"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/vegetable-and-cheese-pizza-large.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -1794,7 +2057,10 @@
       "used_for_items": [
         "vegetable-and-cheese-pizza-medium"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/vegetable-and-cheese-pizza-medium.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -1804,7 +2070,10 @@
       "used_for_items": [
         "vegetable-and-cheese-pizza-small"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/vegetable-and-cheese-pizza-small.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -1814,7 +2083,10 @@
       "used_for_items": [
         "chicken-and-vegetable-pizza-large"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/chicken-and-vegetable-pizza-large.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -1824,7 +2096,10 @@
       "used_for_items": [
         "chicken-and-vegetable-pizza-medium"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/chicken-and-vegetable-pizza-medium.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -1834,7 +2109,10 @@
       "used_for_items": [
         "chicken-and-vegetable-pizza-small"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/chicken-and-vegetable-pizza-small.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -1844,7 +2122,10 @@
       "used_for_items": [
         "ush-al-bulbul-birds-nest-pizza-large"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/ush-al-bulbul-birds-nest-pizza-large.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -1854,7 +2135,10 @@
       "used_for_items": [
         "ush-al-bulbul-birds-nest-pizza-medium"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/ush-al-bulbul-birds-nest-pizza-medium.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -1864,7 +2148,10 @@
       "used_for_items": [
         "ush-al-bulbul-birds-nest-pizza-small"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/ush-al-bulbul-birds-nest-pizza-small.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -1874,7 +2161,10 @@
       "used_for_items": [
         "margherita-pizza-large"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/margherita-pizza-large.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -1884,7 +2174,10 @@
       "used_for_items": [
         "ranch-pizza-medium"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/ranch-pizza-medium.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -1894,7 +2187,10 @@
       "used_for_items": [
         "ranch-pizza-small"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/ranch-pizza-small.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -1904,7 +2200,10 @@
       "used_for_items": [
         "bbq-pizza-large"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/bbq-pizza-large.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -1914,7 +2213,10 @@
       "used_for_items": [
         "bbq-pizza-medium"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/bbq-pizza-medium.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -1924,7 +2226,10 @@
       "used_for_items": [
         "bbq-pizza-small"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/bbq-pizza-small.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -1934,7 +2239,10 @@
       "used_for_items": [
         "thiqat-al-sham-pizza-large"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/thiqat-al-sham-pizza-large.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -1944,7 +2252,10 @@
       "used_for_items": [
         "thiqat-al-sham-pizza-medium"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/thiqat-al-sham-pizza-medium.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -1954,7 +2265,10 @@
       "used_for_items": [
         "thiqat-al-sham-pizza-small"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/thiqat-al-sham-pizza-small.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -1964,7 +2278,10 @@
       "used_for_items": [
         "pepperoni-pizza-large"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/pepperoni-pizza-large.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -1974,7 +2291,10 @@
       "used_for_items": [
         "pepperoni-pizza-medium"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/pepperoni-pizza-medium.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -1984,7 +2304,10 @@
       "used_for_items": [
         "pepperoni-pizza-small"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/pepperoni-pizza-small.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -1994,7 +2317,10 @@
       "used_for_items": [
         "saj-bread"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/saj-bread.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -2004,7 +2330,10 @@
       "used_for_items": [
         "hummus"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/hummus.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -2014,7 +2343,10 @@
       "used_for_items": [
         "mutabbal"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/mutabbal.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -2024,7 +2356,10 @@
       "used_for_items": [
         "tabbouleh"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/tabbouleh.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -2034,7 +2369,10 @@
       "used_for_items": [
         "baba-ghanoush"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/baba-ghanoush.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -2044,7 +2382,10 @@
       "used_for_items": [
         "mixed-appetizers-plate"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/mixed-appetizers-plate.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -2054,7 +2395,10 @@
       "used_for_items": [
         "spinach-and-cheese-fatayer"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/spinach-and-cheese-fatayer.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -2064,7 +2408,10 @@
       "used_for_items": [
         "labneh-and-falafel-fatayer"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/labneh-and-falafel-fatayer.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -2074,7 +2421,10 @@
       "used_for_items": [
         "mixed-pastries-plate-large"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/mixed-pastries-plate-large.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -2084,7 +2434,10 @@
       "used_for_items": [
         "mixed-pastries-plate-medium"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/mixed-pastries-plate-medium.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -2094,7 +2447,10 @@
       "used_for_items": [
         "mixed-pastries-plate-small"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/mixed-pastries-plate-small.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -2104,7 +2460,10 @@
       "used_for_items": [
         "plain-meat-fatayer"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/plain-meat-fatayer.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -2114,7 +2473,10 @@
       "used_for_items": [
         "muhammara-and-cheese-fatayer"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/muhammara-and-cheese-fatayer.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -2124,7 +2486,10 @@
       "used_for_items": [
         "plain-muhammara-fatayer"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/plain-muhammara-fatayer.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -2134,7 +2499,10 @@
       "used_for_items": [
         "spinach-fatayer"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/spinach-fatayer.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -2144,7 +2512,10 @@
       "used_for_items": [
         "sausage-and-cheese-fatayer"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/sausage-and-cheese-fatayer.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -2154,7 +2525,10 @@
       "used_for_items": [
         "cheddar-cheese-fatayer"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/cheddar-cheese-fatayer.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -2164,7 +2538,10 @@
       "used_for_items": [
         "akkawi-cheese-fatayer"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/akkawi-cheese-fatayer.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -2174,7 +2551,10 @@
       "used_for_items": [
         "mozzarella-and-vegetable-fatayer"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/mozzarella-and-vegetable-fatayer.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -2184,7 +2564,10 @@
       "used_for_items": [
         "meat-and-cheese-fatayer"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/meat-and-cheese-fatayer.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -2194,7 +2577,10 @@
       "used_for_items": [
         "liquid-cheese-boat"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/liquid-cheese-boat.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -2204,7 +2590,10 @@
       "used_for_items": [
         "labneh-and-honey-fatayer"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/labneh-and-honey-fatayer.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -2214,7 +2603,10 @@
       "used_for_items": [
         "labneh-and-zaatar-fatayer"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/labneh-and-zaatar-fatayer.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -2224,7 +2616,10 @@
       "used_for_items": [
         "labneh-and-olive-fatayer"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/labneh-and-olive-fatayer.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -2234,7 +2629,10 @@
       "used_for_items": [
         "labneh-fatayer"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/labneh-fatayer.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -2244,7 +2642,10 @@
       "used_for_items": [
         "zaatar-fatayer"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/zaatar-fatayer.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -2254,7 +2655,10 @@
       "used_for_items": [
         "liquid-cheese-fatayer"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/liquid-cheese-fatayer.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -2264,7 +2668,10 @@
       "used_for_items": [
         "mozzarella-boat"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/mozzarella-boat.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -2274,7 +2681,10 @@
       "used_for_items": [
         "cheddar-boat"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/cheddar-boat.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -2284,7 +2694,10 @@
       "used_for_items": [
         "mozzarella-boat-with-labneh-sesame-and-nigella-seeds"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/mozzarella-boat-with-labneh-sesame-and-nigella-seeds.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -2294,7 +2707,10 @@
       "used_for_items": [
         "labneh-boat"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/labneh-boat.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -2304,7 +2720,10 @@
       "used_for_items": [
         "meat-boat"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/meat-boat.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -2314,7 +2733,10 @@
       "used_for_items": [
         "zaatar-boat"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/zaatar-boat.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -2324,7 +2746,10 @@
       "used_for_items": [
         "garlic-sauce-plate"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/garlic-sauce-plate.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -2334,7 +2759,10 @@
       "used_for_items": [
         "garlic-sauce"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/garlic-sauce.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -2344,7 +2772,10 @@
       "used_for_items": [
         "red-garlic-sauce"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/red-garlic-sauce.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -2354,7 +2785,10 @@
       "used_for_items": [
         "thiqat-al-sham-sauce"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/thiqat-al-sham-sauce.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -2364,7 +2798,10 @@
       "used_for_items": [
         "tahini-sauce"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/tahini-sauce.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -2374,7 +2811,10 @@
       "used_for_items": [
         "cheese-sauce"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/cheese-sauce.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -2384,7 +2824,10 @@
       "used_for_items": [
         "pomegranate-molasses-sauce"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/pomegranate-molasses-sauce.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -2394,7 +2837,10 @@
       "used_for_items": [
         "white-burger-sauce"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/white-burger-sauce.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -2404,7 +2850,10 @@
       "used_for_items": [
         "dark-burger-sauce"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/dark-burger-sauce.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -2414,7 +2863,10 @@
       "used_for_items": [
         "al-rabie-juice"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/al-rabie-juice.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -2424,7 +2876,10 @@
       "used_for_items": [
         "kinza-seven-large-360-ml"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/kinza-seven-large-360-ml.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -2434,7 +2889,10 @@
       "used_for_items": [
         "kinza-citrus-large-360-ml"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/kinza-citrus-large-360-ml.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -2444,7 +2902,10 @@
       "used_for_items": [
         "kinza-orange-large-360-ml"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/kinza-orange-large-360-ml.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -2454,7 +2915,10 @@
       "used_for_items": [
         "kinza-seven-small-185-ml"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/kinza-seven-small-185-ml.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -2464,7 +2928,10 @@
       "used_for_items": [
         "kinza-orange-small-185-ml"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/kinza-orange-small-185-ml.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -2474,7 +2941,10 @@
       "used_for_items": [
         "kinza-citrus-small-185-ml"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/kinza-citrus-small-185-ml.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -2484,7 +2954,10 @@
       "used_for_items": [
         "kinza-cola-small-185-ml"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/kinza-cola-small-185-ml.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -2494,7 +2967,10 @@
       "used_for_items": [
         "kinza-cola-large-360-ml"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/kinza-cola-large-360-ml.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -2504,7 +2980,10 @@
       "used_for_items": [
         "7up"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/7up.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -2514,7 +2993,10 @@
       "used_for_items": [
         "7up-diet"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/7up-diet.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -2524,7 +3006,10 @@
       "used_for_items": [
         "diet-pepsi"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/diet-pepsi.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -2534,7 +3019,10 @@
       "used_for_items": [
         "water"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/water.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -2544,7 +3032,10 @@
       "used_for_items": [
         "mirinda-orange"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/mirinda-orange.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -2554,7 +3045,10 @@
       "used_for_items": [
         "pepsi"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/pepsi.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -2564,7 +3058,10 @@
       "used_for_items": [
         "mountain-dew"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/mountain-dew.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -2574,7 +3071,10 @@
       "used_for_items": [
         "citrus-soda"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/citrus-soda.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -2584,7 +3084,10 @@
       "used_for_items": [
         "mixed-falafel-plate-small"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/mixed-falafel-plate-small.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -2594,7 +3097,10 @@
       "used_for_items": [
         "milk-tea"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/milk-tea.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -2604,7 +3110,10 @@
       "used_for_items": [
         "sunny-side-up-eggs"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/sunny-side-up-eggs.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -2614,7 +3123,10 @@
       "used_for_items": [
         "chicken-mugalgal"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/chicken-mugalgal.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -2624,7 +3136,10 @@
       "used_for_items": [
         "lahsa"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/lahsa.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -2634,7 +3149,10 @@
       "used_for_items": [
         "shakshuka"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/shakshuka.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -2644,7 +3162,10 @@
       "used_for_items": [
         "tea"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/tea.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -2654,7 +3175,10 @@
       "used_for_items": [
         "mixed-falafel-plate-large"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/mixed-falafel-plate-large.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -2664,7 +3188,10 @@
       "used_for_items": [
         "mixed-falafel-plate-medium"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/mixed-falafel-plate-medium.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -2674,7 +3201,10 @@
       "used_for_items": [
         "fried-egg-sandwich"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/fried-egg-sandwich.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -2684,7 +3214,10 @@
       "used_for_items": [
         "falafel-sandwich-with-hummus-and-cheese"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/falafel-sandwich-with-hummus-and-cheese.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -2694,7 +3227,10 @@
       "used_for_items": [
         "falafel-and-cheese-sandwich"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/falafel-and-cheese-sandwich.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -2704,7 +3240,10 @@
       "used_for_items": [
         "falafel-sandwich"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/falafel-sandwich.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -2714,7 +3253,10 @@
       "used_for_items": [
         "cheese-sandwich"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/cheese-sandwich.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -2724,7 +3266,10 @@
       "used_for_items": [
         "boiled-egg-and-cheese-sandwich"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/boiled-egg-and-cheese-sandwich.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -2734,7 +3279,10 @@
       "used_for_items": [
         "boiled-egg-sandwich"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/boiled-egg-sandwich.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     },
     {
@@ -2744,7 +3292,10 @@
       "used_for_items": [
         "fried-egg-and-cheese-sandwich"
       ],
-      "note": "Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
+      "site_files": [
+        "assets/menu/fried-egg-and-cheese-sandwich.webp"
+      ],
+      "note": "Resized to 360x270 WebP for the website. Many of these look like generic/stock or manufacturer product images; approved for use by the site owner (2026-11-21) because the restaurant itself uses them.",
       "date_found": "2026-11-21"
     }
   ]

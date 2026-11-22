@@ -1,0 +1,3 @@
+*.line.svg  — Lucide icons (https://lucide.dev), ISC License. Copyright (c) Lucide Contributors; portions (c) Cole Bemis (Feather, MIT).
+*.fill.svg  — Simple Icons (https://simpleicons.org), CC0 1.0 (public domain). Brand names and logos belong to their owners.
+Only the inner <path>/<circle> markup is stored here; tools/build_pages.py wraps them into an inline SVG sprite.
