@@ -9,6 +9,14 @@
       "publisher": "Restaurant (its own online menu, logo slot)",
       "note": "585x702 JPEG; it is a screenshot of a design-tool canvas (guide lines and handles visible). Site owner approved a clean vector redraw (2026-11-21). Same image is the avatar of the Google account that posted the storefront photo.",
       "date_found": "2026-11-21"
+    },
+    {
+      "file": "research/source-images/logo-hungerstation-1484x853.jpg",
+      "source_url": "https://images.deliveryhero.io/image/hungerstation/restaurant/logo_ar/1966de344615202420470fe46538bac4.jpeg",
+      "found_on": "https://hungerstation.com/sa-ar/restaurant/alnuayreayh/al-faisaliyah/180455 (logo URL reported by Claude in Blox's browser, 2026-11-22)",
+      "publisher": "Restaurant's HungerStation listing (logo slot)",
+      "note": "1484x853, clean flat colours, horizontal layout, no guide lines or shadow. Best reference for the vector redraw.",
+      "date_found": "2026-11-22"
     }
   ],
   "photos": [

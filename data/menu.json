@@ -9,7 +9,7 @@
     "en": "Prices may vary in store."
   },
   "last_checked": "2026-11-21",
-  "source_summary": "All items and prices were copied from the restaurant's own online menu at https://thiqat-alshaam.menus-sa.com/ar (linked as the website on the restaurant's Google Maps listing). Prices are marked 'unconfirmed' until the owner confirms them in store. Item photos are the ones the restaurant uses on that same menu (approved for use by the site owner on 2026-11-21); see credits.json.",
+  "source_summary": "All items and prices were copied from the restaurant's own online menu at https://thiqat-alshaam.menus-sa.com/ar (linked as the website on the restaurant's Google Maps listing). Prices are marked 'unconfirmed' until the owner confirms them in store. Item photos are the ones the restaurant uses on that same menu (approved for use by the site owner on 2026-11-21); see credits.json. HungerStation delivery prices, calories and most item descriptions were added on 2026-11-22 (fields price_hungerstation, calories_hungerstation, description_source).",
   "categories": [
     {
       "id": "sandwiches",
@@ -30,8 +30,8 @@
           },
           "price": 20,
           "description": {
-            "ar": "",
-            "en": ""
+            "ar": "وجبة شاورما صامولي مع البطاطس ومشروب",
+            "en": "Samoli shawarma meal with potatoes and a drink"
           },
           "calories": null,
           "image": null,
@@ -41,7 +41,10 @@
           "en_name_status": "corrected",
           "en_name_from_restaurant": "shawarma sandwich meal",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: سندويشات)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": 25,
+          "calories_hungerstation": 780,
+          "description_source": "HungerStation branch 180455 listing, checked 2026-11-22; Arabic is our translation of HungerStation's English (item only on HungerStation's English page)"
         },
         {
           "id": "samoli-shawarma",
@@ -51,8 +54,8 @@
           },
           "price": 16,
           "description": {
-            "ar": "",
-            "en": ""
+            "ar": "خبز صامولي محشو بقطع الشاورما والصوص اللذيذ",
+            "en": "Samoli bread filled with shawarma pieces and delicious sauce"
           },
           "calories": null,
           "image": null,
@@ -62,7 +65,10 @@
           "en_name_status": "corrected",
           "en_name_from_restaurant": "shawarma sandwich",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: سندويشات)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": 18,
+          "calories_hungerstation": 400,
+          "description_source": "HungerStation branch 180455 listing, checked 2026-11-22; Arabic is our translation of HungerStation's English (item only on HungerStation's English page)"
         },
         {
           "id": "chicken-codo-meal",
@@ -72,8 +78,8 @@
           },
           "price": 17,
           "description": {
-            "ar": "",
-            "en": ""
+            "ar": "وجبة الكودو مع البطاطس والمشروب",
+            "en": "Codo meal with potatoes and a drink"
           },
           "calories": null,
           "image": null,
@@ -83,7 +89,10 @@
           "en_name_status": "edited",
           "en_name_from_restaurant": "chiken codo meal",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: سندويشات)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": 20,
+          "calories_hungerstation": 750,
+          "description_source": "HungerStation branch 180455 listing, checked 2026-11-22; English rewritten by us to match the Arabic (HungerStation's English was cut off, transliterated or mistranslated)"
         },
         {
           "id": "chicken-fajita-meal",
@@ -93,8 +102,8 @@
           },
           "price": 17,
           "description": {
-            "ar": "",
-            "en": ""
+            "ar": "وجبة الفاهيتا مع البطاطس ومشروب",
+            "en": "Fajita meal with potatoes and a drink"
           },
           "calories": null,
           "image": null,
@@ -104,7 +113,10 @@
           "en_name_status": "edited",
           "en_name_from_restaurant": "chiken fahita meal",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: سندويشات)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": 20,
+          "calories_hungerstation": 730,
+          "description_source": "HungerStation branch 180455 listing, checked 2026-11-22"
         },
         {
           "id": "chicken-codo",
@@ -114,8 +126,8 @@
           },
           "price": 15,
           "description": {
-            "ar": "",
-            "en": ""
+            "ar": "خبز الكودو مع الدجاج والفلفل والتوابل الخاصة",
+            "en": "Codo bread with chicken, peppers and special spices"
           },
           "calories": null,
           "image": null,
@@ -125,7 +137,10 @@
           "en_name_status": "edited",
           "en_name_from_restaurant": "chiken codo",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: سندويشات)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": 17,
+          "calories_hungerstation": 420,
+          "description_source": "HungerStation branch 180455 listing, checked 2026-11-22; English rewritten by us to match the Arabic (HungerStation's English was cut off, transliterated or mistranslated)"
         },
         {
           "id": "chicken-fajita",
@@ -135,8 +150,8 @@
           },
           "price": 15,
           "description": {
-            "ar": "",
-            "en": ""
+            "ar": "خبز الفاهيتا مع الدجاج المتبل والفلفل",
+            "en": "Fajita bread with marinated chicken and peppers"
           },
           "calories": null,
           "image": null,
@@ -146,7 +161,10 @@
           "en_name_status": "edited",
           "en_name_from_restaurant": "chiken fahita",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: سندويشات)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": 17,
+          "calories_hungerstation": 400,
+          "description_source": "HungerStation branch 180455 listing, checked 2026-11-22"
         },
         {
           "id": "meat-awsal-small",
@@ -156,8 +174,8 @@
           },
           "price": 12,
           "description": {
-            "ar": "",
-            "en": ""
+            "ar": "سيخ اوصال اللحم الطازجه والمتبله بخلطة خاصه",
+            "en": "One skewer of fresh, marinated meat pieces in a special blend"
           },
           "calories": null,
           "image": null,
@@ -167,7 +185,10 @@
           "en_name_status": "same",
           "en_name_from_restaurant": "Small meat awsal",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: سندويشات)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": 15,
+          "calories_hungerstation": 504,
+          "description_source": "HungerStation branch 180455 listing, checked 2026-11-22"
         },
         {
           "id": "shish-tawook-small",
@@ -177,8 +198,8 @@
           },
           "price": 10,
           "description": {
-            "ar": "",
-            "en": ""
+            "ar": "سيخ قطع شيش طاووق متبلة بنكهة مميزة",
+            "en": "One skewer of marinated shish tawook pieces"
           },
           "calories": null,
           "image": null,
@@ -188,7 +209,10 @@
           "en_name_status": "corrected",
           "en_name_from_restaurant": "large chiken awsal",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: سندويشات)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": 13,
+          "calories_hungerstation": 410,
+          "description_source": "HungerStation branch 180455 listing, checked 2026-11-22"
         },
         {
           "id": "shish-tawook-jumbo",
@@ -198,8 +222,8 @@
           },
           "price": 16,
           "description": {
-            "ar": "",
-            "en": ""
+            "ar": "ساندوتش بحجم 40 سم محشو قطع شيش طاووق متبلة بنكهة مميزة",
+            "en": "40cm sandwich filled with marinated shish tawook pieces"
           },
           "calories": null,
           "image": null,
@@ -209,7 +233,10 @@
           "en_name_status": "corrected",
           "en_name_from_restaurant": "larg chiken awsal",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: سندويشات)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": 19,
+          "calories_hungerstation": 629,
+          "description_source": "HungerStation branch 180455 listing, checked 2026-11-22"
         },
         {
           "id": "jumbo-shawarma-40-cm",
@@ -219,8 +246,8 @@
           },
           "price": 16,
           "description": {
-            "ar": "",
-            "en": ""
+            "ar": "ساندويتش 40 سم محشو بشاورما الدجاج المتبلة بخلطتنا الخاصة",
+            "en": "40cm special sandwich filled with our special marinated chicken shawarma"
           },
           "calories": null,
           "image": null,
@@ -230,7 +257,10 @@
           "en_name_status": "edited",
           "en_name_from_restaurant": "larg shawarma 40 cm",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: سندويشات)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": 19,
+          "calories_hungerstation": 770,
+          "description_source": "HungerStation branch 180455 listing, checked 2026-11-22; Arabic is our translation of HungerStation's English (item only on HungerStation's English page)"
         },
         {
           "id": "meat-awsal-jumbo",
@@ -240,8 +270,8 @@
           },
           "price": 18,
           "description": {
-            "ar": "",
-            "en": ""
+            "ar": "ساندوتش بحجم 40 سم و قطع اوصال اللحم الطازجه والمتبله بخلطة خاصه",
+            "en": "40cm sandwich with fresh, marinated meat pieces in a special blend"
           },
           "calories": null,
           "image": null,
@@ -251,7 +281,10 @@
           "en_name_status": "edited",
           "en_name_from_restaurant": "larg meat awsal",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: سندويشات)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": 21,
+          "calories_hungerstation": 775,
+          "description_source": "HungerStation branch 180455 listing, checked 2026-11-22"
         },
         {
           "id": "chicken-kebab-medium",
@@ -261,8 +294,8 @@
           },
           "price": 10,
           "description": {
-            "ar": "",
-            "en": ""
+            "ar": "سيخ كباب دجاج مفروم بالخلطة اللذيذه",
+            "en": "One skewer of minced chicken kebab marinated in a delicious blend"
           },
           "calories": null,
           "image": null,
@@ -272,7 +305,10 @@
           "en_name_status": "same",
           "en_name_from_restaurant": "Medium chicken kebab",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: سندويشات)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": 13,
+          "calories_hungerstation": 430,
+          "description_source": "HungerStation branch 180455 listing, checked 2026-11-22"
         },
         {
           "id": "chicken-kebab-jumbo",
@@ -282,8 +318,8 @@
           },
           "price": 16,
           "description": {
-            "ar": "",
-            "en": ""
+            "ar": "ساندوتش بحجم 40 سم وسيخين كباب دجاج مفروم ومتبل بالخلطة اللذيذه",
+            "en": "40cm sandwich with two skewers of minced chicken kebab marinated in a delicious blend"
           },
           "calories": null,
           "image": null,
@@ -293,7 +329,10 @@
           "en_name_status": "same",
           "en_name_from_restaurant": "Jumbo chicken kebab",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: سندويشات)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": 19,
+          "calories_hungerstation": 669,
+          "description_source": "HungerStation branch 180455 listing, checked 2026-11-22"
         },
         {
           "id": "meat-kebab-medium",
@@ -303,8 +342,8 @@
           },
           "price": 11,
           "description": {
-            "ar": "",
-            "en": ""
+            "ar": "سيخ كباب لحم مفروم ومتبل بالخلطة اللذيذه",
+            "en": "One skewer of minced meat kebab marinated in a delicious blend"
           },
           "calories": null,
           "image": null,
@@ -314,7 +353,10 @@
           "en_name_status": "same",
           "en_name_from_restaurant": "Medium meat kebab",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: سندويشات)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": 13,
+          "calories_hungerstation": 513,
+          "description_source": "HungerStation branch 180455 listing, checked 2026-11-22"
         },
         {
           "id": "meat-kebab-jumbo",
@@ -324,8 +366,8 @@
           },
           "price": 17,
           "description": {
-            "ar": "",
-            "en": ""
+            "ar": "ساندوتش بحجم 40 سم وسيخين كباب لحم مفروم ومتبل بالخلطة اللذيذه",
+            "en": "40cm sandwich with two skewers of minced meat kebab marinated in a delicious blend"
           },
           "calories": null,
           "image": null,
@@ -335,7 +377,10 @@
           "en_name_status": "same",
           "en_name_from_restaurant": "Jumbo meat kebab",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: سندويشات)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": 20,
+          "calories_hungerstation": 789,
+          "description_source": "HungerStation branch 180455 listing, checked 2026-11-22"
         },
         {
           "id": "shawarma-small",
@@ -345,8 +390,8 @@
           },
           "price": 8,
           "description": {
-            "ar": "",
-            "en": ""
+            "ar": "ساندويتش صغير محشو بشاورما الدجاج المتبلة بخلطتنا الخاصة",
+            "en": "Small special sandwich filled with our special marinated chicken shawarma"
           },
           "calories": null,
           "image": null,
@@ -356,7 +401,10 @@
           "en_name_status": "same",
           "en_name_from_restaurant": "Small shawarma",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: سندويشات)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": 9,
+          "calories_hungerstation": 355,
+          "description_source": "HungerStation branch 180455 listing, checked 2026-11-22; Arabic is our translation of HungerStation's English (item only on HungerStation's English page)"
         },
         {
           "id": "rocket-shawarma",
@@ -366,8 +414,8 @@
           },
           "price": 11,
           "description": {
-            "ar": "",
-            "en": ""
+            "ar": "ساندويتش وسط محشو بشاورما الدجاج المتبلة بخلطتنا الخاصة",
+            "en": "Medium special sandwich filled with our special marinated chicken shawarma"
           },
           "calories": null,
           "image": null,
@@ -377,7 +425,10 @@
           "en_name_status": "corrected",
           "en_name_from_restaurant": "shawarma medium",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: سندويشات)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": 13,
+          "calories_hungerstation": 550,
+          "description_source": "HungerStation branch 180455 listing, checked 2026-11-22; Arabic is our translation of HungerStation's English (item only on HungerStation's English page)"
         }
       ]
     },
@@ -400,8 +451,8 @@
           },
           "price": 28,
           "description": {
-            "ar": "",
-            "en": ""
+            "ar": "10 قطع كباب اللحم والدجاج المتبلة مع الصوصات والبطاطس",
+            "en": "10 pieces of marinated meat and chicken kebab with sauces and potatoes"
           },
           "calories": null,
           "image": null,
@@ -411,7 +462,10 @@
           "en_name_status": "edited",
           "en_name_from_restaurant": "Arabic kebab mix",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: صحون)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": 34,
+          "calories_hungerstation": 870,
+          "description_source": "HungerStation branch 180455 listing, checked 2026-11-22; English rewritten by us to match the Arabic (HungerStation's English was cut off, transliterated or mistranslated)"
         },
         {
           "id": "arabi-chicken-kebab",
@@ -421,8 +475,8 @@
           },
           "price": 26,
           "description": {
-            "ar": "",
-            "en": ""
+            "ar": "10 قطع كباب الدجاج مع الصوصات والبطاطس",
+            "en": "10 pieces of chicken kebabs with sauces and potatoes"
           },
           "calories": null,
           "image": null,
@@ -432,7 +486,10 @@
           "en_name_status": "edited",
           "en_name_from_restaurant": "Arabic chicken kebab",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: صحون)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": 30,
+          "calories_hungerstation": 830,
+          "description_source": "HungerStation branch 180455 listing, checked 2026-11-22"
         },
         {
           "id": "arabi-meat-kebab",
@@ -442,8 +499,8 @@
           },
           "price": 26,
           "description": {
-            "ar": "",
-            "en": ""
+            "ar": "10 قطع كباب اللحم مع الصوصات والبطاطس",
+            "en": "10 pieces of meat kebab with sauces and potatoes"
           },
           "calories": null,
           "image": null,
@@ -453,7 +510,10 @@
           "en_name_status": "edited",
           "en_name_from_restaurant": "Arabic meat kebab",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: صحون)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": 30,
+          "calories_hungerstation": 1026,
+          "description_source": "HungerStation branch 180455 listing, checked 2026-11-22; English rewritten by us to match the Arabic (HungerStation's English was cut off, transliterated or mistranslated)"
         },
         {
           "id": "cheese-fries",
@@ -474,7 +534,9 @@
           "en_name_status": "same",
           "en_name_from_restaurant": "Cheese fries",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: صحون)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": 9,
+          "calories_hungerstation": 304
         },
         {
           "id": "fries",
@@ -495,7 +557,9 @@
           "en_name_status": "edited",
           "en_name_from_restaurant": "frize plate",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: صحون)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": 7,
+          "calories_hungerstation": 120
         },
         {
           "id": "mixed-grill-1-kg",
@@ -516,7 +580,9 @@
           "en_name_status": "corrected",
           "en_name_from_restaurant": "mashawie 1k",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: صحون)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": null,
+          "calories_hungerstation": null
         },
         {
           "id": "chicken-kebab-plate-large",
@@ -526,8 +592,8 @@
           },
           "price": 56,
           "description": {
-            "ar": "",
-            "en": ""
+            "ar": "ثمان اسياخ كباب دجاج مع البطاطس والطماطم والبصل المشوي والصوصات",
+            "en": "Eight chicken kebab skewers with potatoes, tomatoes, grilled onions and sauces"
           },
           "calories": null,
           "image": null,
@@ -537,7 +603,10 @@
           "en_name_status": "same",
           "en_name_from_restaurant": "Large chicken kebab plate",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: صحون)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": 55,
+          "calories_hungerstation": 1210,
+          "description_source": "HungerStation branch 180455 listing, checked 2026-11-22; English rewritten by us to match the Arabic (HungerStation's English was cut off, transliterated or mistranslated)"
         },
         {
           "id": "mixed-grill-awsal-plate",
@@ -547,8 +616,8 @@
           },
           "price": 42,
           "description": {
-            "ar": "",
-            "en": ""
+            "ar": "اربع اسياخ اوصال لحم وشيش طاووق مع البطاطس والطماطم والبصل المشوي والصوصات",
+            "en": "Four meat awsal and shish tawook skewers with potatoes, tomatoes, grilled onions and sauces"
           },
           "calories": null,
           "image": null,
@@ -558,7 +627,10 @@
           "en_name_status": "same",
           "en_name_from_restaurant": "Mixed grilled awsal plate",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: صحون)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": 46,
+          "calories_hungerstation": 400,
+          "description_source": "HungerStation branch 180455 listing, checked 2026-11-22; English rewritten by us to match the Arabic (HungerStation's English was cut off, transliterated or mistranslated)"
         },
         {
           "id": "meat-awsal-plate-large",
@@ -568,8 +640,8 @@
           },
           "price": 62,
           "description": {
-            "ar": "",
-            "en": ""
+            "ar": "ثمان اسياخ اوصال لحم مع البطاطس والطماطم والبصل المشوي والصوصات",
+            "en": "Eight meat awsal skewers with potatoes, tomatoes, grilled onions and sauces"
           },
           "calories": null,
           "image": null,
@@ -579,7 +651,10 @@
           "en_name_status": "same",
           "en_name_from_restaurant": "Large meat awsal plate",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: صحون)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": 66,
+          "calories_hungerstation": 1085,
+          "description_source": "HungerStation branch 180455 listing, checked 2026-11-22; English rewritten by us to match the Arabic (HungerStation's English was cut off, transliterated or mistranslated)"
         },
         {
           "id": "meat-awsal-plate-small",
@@ -589,8 +664,8 @@
           },
           "price": 32,
           "description": {
-            "ar": "",
-            "en": ""
+            "ar": "اربع اسياخ اوصال لحم مع البطاطس والطماطم والبصل المشوي والصوصات",
+            "en": "Four meat awsal skewers with potatoes, tomatoes, grilled onions and sauces"
           },
           "calories": null,
           "image": null,
@@ -600,7 +675,10 @@
           "en_name_status": "same",
           "en_name_from_restaurant": "Small meat awsal plate",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: صحون)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": 36,
+          "calories_hungerstation": 542,
+          "description_source": "HungerStation branch 180455 listing, checked 2026-11-22; English rewritten by us to match the Arabic (HungerStation's English was cut off, transliterated or mistranslated)"
         },
         {
           "id": "meat-kebab-plate-large",
@@ -610,8 +688,8 @@
           },
           "price": 56,
           "description": {
-            "ar": "",
-            "en": ""
+            "ar": "ثمان اسياخ كباب لحم مع البطاطس والطماطم والبصل المشوي والصوصات",
+            "en": "Eight meat kebab skewers with potatoes, tomatoes, grilled onions and sauces"
           },
           "calories": null,
           "image": null,
@@ -621,7 +699,10 @@
           "en_name_status": "same",
           "en_name_from_restaurant": "Large meat kebab plate",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: صحون)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": 59,
+          "calories_hungerstation": 542,
+          "description_source": "HungerStation branch 180455 listing, checked 2026-11-22; English rewritten by us to match the Arabic (HungerStation's English was cut off, transliterated or mistranslated)"
         },
         {
           "id": "meat-kebab-plate-small",
@@ -631,8 +712,8 @@
           },
           "price": 28,
           "description": {
-            "ar": "",
-            "en": ""
+            "ar": "اربع اسياخ كباب لحم مع البطاطس والطماطم والبصل المشوي والصوصات",
+            "en": "Four meat kebab skewers with potatoes, tomatoes, grilled onions and sauces"
           },
           "calories": null,
           "image": null,
@@ -642,7 +723,10 @@
           "en_name_status": "same",
           "en_name_from_restaurant": "Small meat kebab plate",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: صحون)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": 36,
+          "calories_hungerstation": 1074,
+          "description_source": "HungerStation branch 180455 listing, checked 2026-11-22; English rewritten by us to match the Arabic (HungerStation's English was cut off, transliterated or mistranslated)"
         },
         {
           "id": "arabi-shawarma-plate-small",
@@ -652,8 +736,8 @@
           },
           "price": 17,
           "description": {
-            "ar": "",
-            "en": ""
+            "ar": "قطع شاورما متبلة مع البطاطس وصوص الثوم والصوص الحار",
+            "en": "Marinated shawarma pieces with potatoes, garlic sauce, and spicy sauce"
           },
           "calories": null,
           "image": null,
@@ -663,7 +747,10 @@
           "en_name_status": "same",
           "en_name_from_restaurant": "Small Arabic shawarma plate",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: صحون)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": 20,
+          "calories_hungerstation": 696,
+          "description_source": "HungerStation branch 180455 listing, checked 2026-11-22; Arabic is our translation of HungerStation's English (item only on HungerStation's English page)"
         },
         {
           "id": "chicken-kebab-plate-small",
@@ -673,8 +760,8 @@
           },
           "price": 28,
           "description": {
-            "ar": "",
-            "en": ""
+            "ar": "اربع اسياخ كباب دجاج مع البطاطس والطماطم والبصل المشوي والصوصات",
+            "en": "Four chicken kebab skewers with potatoes, tomatoes, grilled onions, and sauces"
           },
           "calories": null,
           "image": null,
@@ -684,7 +771,10 @@
           "en_name_status": "same",
           "en_name_from_restaurant": "Small chicken kebab plate",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: صحون)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": 34,
+          "calories_hungerstation": 1210,
+          "description_source": "HungerStation branch 180455 listing, checked 2026-11-22"
         },
         {
           "id": "shish-tawook-plate-large",
@@ -694,8 +784,8 @@
           },
           "price": 56,
           "description": {
-            "ar": "",
-            "en": ""
+            "ar": "ثمان اسياخ شيش طاووق مع البطاطس والطماطم والبصل المشوي والصوصات",
+            "en": "Eight shish tawook skewers with potatoes, tomatoes, grilled onions, and sauces"
           },
           "calories": null,
           "image": null,
@@ -705,7 +795,10 @@
           "en_name_status": "same",
           "en_name_from_restaurant": "Large shish tawook plate",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: صحون)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": 59,
+          "calories_hungerstation": 1170,
+          "description_source": "HungerStation branch 180455 listing, checked 2026-11-22"
         },
         {
           "id": "shish-tawook-plate-small",
@@ -715,8 +808,8 @@
           },
           "price": 28,
           "description": {
-            "ar": "",
-            "en": ""
+            "ar": "اربع اسياخ شيش طاووق مع البطاطس والطماطم والبصل المشوي والصوصات",
+            "en": "Four shish tawook skewers with potatoes, tomatoes, grilled onions, and sauces"
           },
           "calories": null,
           "image": null,
@@ -726,7 +819,10 @@
           "en_name_status": "same",
           "en_name_from_restaurant": "Small shish tawook plate",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: صحون)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": 31,
+          "calories_hungerstation": 317,
+          "description_source": "HungerStation branch 180455 listing, checked 2026-11-22"
         },
         {
           "id": "mixed-meat-grill-plate-small",
@@ -736,8 +832,8 @@
           },
           "price": 40,
           "description": {
-            "ar": "",
-            "en": ""
+            "ar": "اربع اسياخ كباب لحم واوصال لحم مع البطاطس والطماطم والبصل المشوي والصوصات",
+            "en": "Four meat kebab and meat awsal skewers with potatoes, tomatoes, grilled onions and sauces"
           },
           "calories": null,
           "image": null,
@@ -747,7 +843,10 @@
           "en_name_status": "same",
           "en_name_from_restaurant": "Small mixed grilled meat plate",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: صحون)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": 43,
+          "calories_hungerstation": 537,
+          "description_source": "HungerStation branch 180455 listing, checked 2026-11-22; English rewritten by us to match the Arabic (HungerStation's English was cut off, transliterated or mistranslated)"
         },
         {
           "id": "mixed-chicken-grill-plate-small",
@@ -757,8 +856,8 @@
           },
           "price": 35,
           "description": {
-            "ar": "",
-            "en": ""
+            "ar": "اربع اسياخ كباب دجاج وشيش طاووق مع البطاطس والطماطم والبصل المشوي والصوصات",
+            "en": "Four chicken kebab and shish tawook skewers with potatoes, tomatoes, grilled onions, and sauces"
           },
           "calories": null,
           "image": null,
@@ -768,7 +867,10 @@
           "en_name_status": "same",
           "en_name_from_restaurant": "Small chicken mixed grill plate",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: صحون)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": 38,
+          "calories_hungerstation": 480,
+          "description_source": "HungerStation branch 180455 listing, checked 2026-11-22"
         },
         {
           "id": "mixed-grill-plate-large",
@@ -778,8 +880,8 @@
           },
           "price": 74,
           "description": {
-            "ar": "",
-            "en": ""
+            "ar": "ثمان اسياخ مشويات مشكله مع البطاطس والطماطم والبصل المشوي والصوصات",
+            "en": "Eight mixed grill skewers with potatoes, tomatoes, grilled onions, and sauces"
           },
           "calories": null,
           "image": null,
@@ -789,7 +891,10 @@
           "en_name_status": "same",
           "en_name_from_restaurant": "Large mixed grill plate",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: صحون)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": 80,
+          "calories_hungerstation": 480,
+          "description_source": "HungerStation branch 180455 listing, checked 2026-11-22"
         },
         {
           "id": "mixed-grill-plate-small",
@@ -799,8 +904,8 @@
           },
           "price": 37,
           "description": {
-            "ar": "",
-            "en": ""
+            "ar": "اربع اسياخ مشويات مشكله مع البطاطس والطماطم والبصل المشوي والصوصات",
+            "en": "Four mixed grill skewers with potatoes, tomatoes, grilled onions, and sauces"
           },
           "calories": null,
           "image": null,
@@ -810,7 +915,10 @@
           "en_name_status": "same",
           "en_name_from_restaurant": "Small mixed grill plate",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: صحون)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": 45,
+          "calories_hungerstation": 849,
+          "description_source": "HungerStation branch 180455 listing, checked 2026-11-22"
         },
         {
           "id": "shawarma-plate",
@@ -820,8 +928,8 @@
           },
           "price": 25,
           "description": {
-            "ar": "",
-            "en": ""
+            "ar": "شاورما مقطعة داخل الصحن مع البطاطس وصوص سبايسي وصوص الطحينية",
+            "en": "Sliced shawarma on a plate with potatoes, spicy sauce and tahini sauce"
           },
           "calories": null,
           "image": null,
@@ -831,7 +939,10 @@
           "en_name_status": "same",
           "en_name_from_restaurant": "Shawarma plate",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: صحون)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": 29,
+          "calories_hungerstation": 700,
+          "description_source": "HungerStation branch 180455 listing, checked 2026-11-22; Arabic is our translation of HungerStation's English (item only on HungerStation's English page); English rewritten by us to match the Arabic (HungerStation's English was cut off, transliterated or mistranslated)"
         },
         {
           "id": "arabi-shawarma-plate-large",
@@ -841,8 +952,8 @@
           },
           "price": 40,
           "description": {
-            "ar": "",
-            "en": ""
+            "ar": "قطع شاورما متبلة مع البطاطس وصوص الثوم والصوص الحار وصوص الأفوكادو",
+            "en": "Marinated shawarma pieces with potatoes, garlic sauce, spicy sauce, and avocado sauce"
           },
           "calories": null,
           "image": null,
@@ -852,7 +963,10 @@
           "en_name_status": "same",
           "en_name_from_restaurant": "Large Arabic shawarma plate",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: صحون)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": 43,
+          "calories_hungerstation": 1540,
+          "description_source": "HungerStation branch 180455 listing, checked 2026-11-22; Arabic is our translation of HungerStation's English (item only on HungerStation's English page)"
         },
         {
           "id": "arabi-shawarma-plate-medium",
@@ -862,8 +976,8 @@
           },
           "price": 26,
           "description": {
-            "ar": "",
-            "en": ""
+            "ar": "قطع شاورما متبلة مع البطاطس وصوص الثوم والصوص الحار",
+            "en": "Marinated shawarma pieces with potatoes, garlic sauce, and spicy sauce"
           },
           "calories": null,
           "image": null,
@@ -873,7 +987,10 @@
           "en_name_status": "same",
           "en_name_from_restaurant": "Medium Arabic shawarma plate",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: صحون)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": 29,
+          "calories_hungerstation": 784,
+          "description_source": "HungerStation branch 180455 listing, checked 2026-11-22; Arabic is our translation of HungerStation's English (item only on HungerStation's English page)"
         }
       ]
     },
@@ -907,7 +1024,9 @@
           "en_name_status": "same",
           "en_name_from_restaurant": "Zinger sandwich, saj bread",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: برجر)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": null,
+          "calories_hungerstation": null
         },
         {
           "id": "chicken-zinger-burger",
@@ -928,7 +1047,9 @@
           "en_name_status": "same",
           "en_name_from_restaurant": "Zinger burger bun sandwich",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: برجر)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": null,
+          "calories_hungerstation": null
         },
         {
           "id": "zinger-meal-saj-bread",
@@ -949,7 +1070,9 @@
           "en_name_status": "same",
           "en_name_from_restaurant": "Zinger meal, saj bread",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: برجر)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": null,
+          "calories_hungerstation": null
         },
         {
           "id": "zinger-meal-burger-bun",
@@ -970,7 +1093,9 @@
           "en_name_status": "same",
           "en_name_from_restaurant": "Zinger Burger Bun Meal",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: برجر)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": null,
+          "calories_hungerstation": null
         },
         {
           "id": "beef-burger",
@@ -980,8 +1105,8 @@
           },
           "price": 14,
           "description": {
-            "ar": "",
-            "en": ""
+            "ar": "شريحة لحم مشوي مع الجبن وصوص دارك برجر",
+            "en": "Grilled beef patty with cheese and dark burger sauce"
           },
           "calories": null,
           "image": null,
@@ -991,7 +1116,10 @@
           "en_name_status": "same",
           "en_name_from_restaurant": "Beef burger",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: برجر)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": 17,
+          "calories_hungerstation": 410,
+          "description_source": "HungerStation branch 180455 listing, checked 2026-11-22"
         },
         {
           "id": "double-beef-burger",
@@ -1001,8 +1129,8 @@
           },
           "price": 19,
           "description": {
-            "ar": "",
-            "en": ""
+            "ar": "شريحتين لحم مشوي مع الجبن وصوص دارك برجر",
+            "en": "Two grilled beef patties with cheese and dark burger sauce"
           },
           "calories": null,
           "image": null,
@@ -1012,7 +1140,10 @@
           "en_name_status": "same",
           "en_name_from_restaurant": "Double beef burger",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: برجر)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": 23,
+          "calories_hungerstation": 820,
+          "description_source": "HungerStation branch 180455 listing, checked 2026-11-22"
         },
         {
           "id": "chicken-burger",
@@ -1022,8 +1153,8 @@
           },
           "price": 12,
           "description": {
-            "ar": "",
-            "en": ""
+            "ar": "شريحة دجاج مشوي مع الجبن وصوص وايت برجر",
+            "en": "Grilled chicken patty with cheese and white burger sauce"
           },
           "calories": null,
           "image": null,
@@ -1033,7 +1164,10 @@
           "en_name_status": "same",
           "en_name_from_restaurant": "Chicken burger",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: برجر)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": 15,
+          "calories_hungerstation": 350,
+          "description_source": "HungerStation branch 180455 listing, checked 2026-11-22"
         },
         {
           "id": "double-chicken-burger",
@@ -1043,8 +1177,8 @@
           },
           "price": 17,
           "description": {
-            "ar": "",
-            "en": ""
+            "ar": "شريحتين برجر مشوي مع الجبن وصوص وايت برجر",
+            "en": "Two grilled burger patties with cheese and white burger sauce"
           },
           "calories": null,
           "image": null,
@@ -1054,7 +1188,10 @@
           "en_name_status": "same",
           "en_name_from_restaurant": "Double chicken burger",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: برجر)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": 20,
+          "calories_hungerstation": 700,
+          "description_source": "HungerStation branch 180455 listing, checked 2026-11-22"
         },
         {
           "id": "beef-burger-meal",
@@ -1064,8 +1201,8 @@
           },
           "price": 21,
           "description": {
-            "ar": "",
-            "en": ""
+            "ar": "شريحة برجر لحم مشوي مع البطاطس والمشروب",
+            "en": "Grilled beef burger patty with fries and a drink"
           },
           "calories": null,
           "image": null,
@@ -1075,7 +1212,10 @@
           "en_name_status": "same",
           "en_name_from_restaurant": "Beef burger meal",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: برجر)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": 25,
+          "calories_hungerstation": 1060,
+          "description_source": "HungerStation branch 180455 listing, checked 2026-11-22"
         },
         {
           "id": "chicken-burger-meal",
@@ -1085,8 +1225,8 @@
           },
           "price": 18,
           "description": {
-            "ar": "",
-            "en": ""
+            "ar": "شريحة برجر دجاج مشوي مع البطاطس والمشروب",
+            "en": "Grilled chicken burger patty with fries and a drink"
           },
           "calories": null,
           "image": null,
@@ -1096,7 +1236,10 @@
           "en_name_status": "same",
           "en_name_from_restaurant": "Chicken burger meal",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: برجر)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": 22,
+          "calories_hungerstation": 980,
+          "description_source": "HungerStation branch 180455 listing, checked 2026-11-22"
         },
         {
           "id": "double-beef-burger-meal",
@@ -1106,8 +1249,8 @@
           },
           "price": 26,
           "description": {
-            "ar": "",
-            "en": ""
+            "ar": "شريحتين برجر لحم مشوي مع البطاطس والمشروب",
+            "en": "Two grilled beef burger patties with fries and a drink"
           },
           "calories": null,
           "image": null,
@@ -1117,7 +1260,10 @@
           "en_name_status": "same",
           "en_name_from_restaurant": "Double beef burger meal",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: برجر)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": 30,
+          "calories_hungerstation": 1433,
+          "description_source": "HungerStation branch 180455 listing, checked 2026-11-22"
         },
         {
           "id": "double-chicken-burger-meal",
@@ -1127,8 +1273,8 @@
           },
           "price": 23,
           "description": {
-            "ar": "",
-            "en": ""
+            "ar": "شريحتين برجر دجاج مشوي مع البطاطس والمشروب",
+            "en": "Two grilled chicken burger patties with fries and a drink"
           },
           "calories": null,
           "image": null,
@@ -1138,7 +1284,10 @@
           "en_name_status": "same",
           "en_name_from_restaurant": "Double chicken burger meal",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: برجر)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": 27,
+          "calories_hungerstation": 1298,
+          "description_source": "HungerStation branch 180455 listing, checked 2026-11-22"
         }
       ]
     },
@@ -1154,10 +1303,10 @@
       },
       "items": [
         {
-          "id": "watsh-pizza-meal-zinger",
+          "id": "zinger-pizza-sandwich-meal",
           "name": {
             "ar": "وجبه وتش بيتزا زنجر",
-            "en": "Watsh Pizza Meal, Zinger"
+            "en": "Zinger Pizza Sandwich Meal"
           },
           "price": 17,
           "description": {
@@ -1174,7 +1323,9 @@
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: البيتزا)",
           "date_found": "2026-11-21",
           "description_source": "Arabic text copied from https://thiqat-alshaam.menus-sa.com/ar; English is our translation",
-          "description_original_ar": "زنجر + جبن موزريلا + شيدر + خضار + صوصات + ببسي + بطاط"
+          "description_original_ar": "زنجر + جبن موزريلا + شيدر + خضار + صوصات + ببسي + بطاط",
+          "price_hungerstation": 20,
+          "calories_hungerstation": 400
         },
         {
           "id": "shawarma-bomb",
@@ -1195,7 +1346,9 @@
           "en_name_status": "same",
           "en_name_from_restaurant": "Shawarma bomb",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: البيتزا)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": null,
+          "calories_hungerstation": null
         },
         {
           "id": "beef-burger-bomb",
@@ -1216,7 +1369,9 @@
           "en_name_status": "same",
           "en_name_from_restaurant": "Beef burger bomb",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: البيتزا)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": null,
+          "calories_hungerstation": null
         },
         {
           "id": "chicken-burger-bomb",
@@ -1237,7 +1392,9 @@
           "en_name_status": "corrected",
           "en_name_from_restaurant": "قنبلة برجر دجاج",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: البيتزا)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": null,
+          "calories_hungerstation": null
         },
         {
           "id": "shawarma-bomb-meal",
@@ -1258,7 +1415,9 @@
           "en_name_status": "same",
           "en_name_from_restaurant": "Shawarma bomb meal",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: البيتزا)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": null,
+          "calories_hungerstation": null
         },
         {
           "id": "beef-burger-bomb-meal",
@@ -1279,7 +1438,9 @@
           "en_name_status": "same",
           "en_name_from_restaurant": "Beef Burger Bomb Meal",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: البيتزا)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": null,
+          "calories_hungerstation": null
         },
         {
           "id": "chicken-burger-bomb-meal",
@@ -1300,13 +1461,15 @@
           "en_name_status": "same",
           "en_name_from_restaurant": "Chicken Burger Bomb Meal",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: البيتزا)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": null,
+          "calories_hungerstation": null
         },
         {
-          "id": "watsh-pizza-meal-shawarma",
+          "id": "shawarma-pizza-sandwich-meal",
           "name": {
             "ar": "وجبه وتش بيتزا شورما",
-            "en": "Watsh Pizza Meal, Shawarma"
+            "en": "Shawarma Pizza Sandwich Meal"
           },
           "price": 17,
           "description": {
@@ -1323,13 +1486,15 @@
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: البيتزا)",
           "date_found": "2026-11-21",
           "description_source": "Arabic text copied from https://thiqat-alshaam.menus-sa.com/ar; English is our translation",
-          "description_original_ar": "شورما + وجبن+موزريلا + وشيدر + وخضار + وصوصات + ببسي + بطاط"
+          "description_original_ar": "شورما + وجبن+موزريلا + وشيدر + وخضار + وصوصات + ببسي + بطاط",
+          "price_hungerstation": 20,
+          "calories_hungerstation": 400
         },
         {
-          "id": "watsh-pizza-sausage",
+          "id": "sausage-pizza-sandwich",
           "name": {
             "ar": "وتش بيزا نقانق",
-            "en": "Watsh Pizza, Sausage"
+            "en": "Sausage Pizza Sandwich"
           },
           "price": 15,
           "description": {
@@ -1346,13 +1511,15 @@
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: البيتزا)",
           "date_found": "2026-11-21",
           "description_source": "Arabic text copied from https://thiqat-alshaam.menus-sa.com/ar; English is our translation",
-          "description_original_ar": "نقانق + وجبن + موزريلا + وشيدر + وخضار + وصوصات"
+          "description_original_ar": "نقانق + وجبن + موزريلا + وشيدر + وخضار + وصوصات",
+          "price_hungerstation": 18,
+          "calories_hungerstation": 380
         },
         {
-          "id": "watsh-pizza-meal-sausage",
+          "id": "sausage-pizza-sandwich-meal",
           "name": {
             "ar": "وجبه وتش بيزا نقانق",
-            "en": "Watsh Pizza Meal, Sausage"
+            "en": "Sausage Pizza Sandwich Meal"
           },
           "price": 17,
           "description": {
@@ -1369,13 +1536,15 @@
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: البيتزا)",
           "date_found": "2026-11-21",
           "description_source": "Arabic text copied from https://thiqat-alshaam.menus-sa.com/ar; English is our translation",
-          "description_original_ar": "نقانق+ وجبن + موزريلا + وشيدر + وخضار + وصوصات + ببسي + بطاط"
+          "description_original_ar": "نقانق+ وجبن + موزريلا + وشيدر + وخضار + وصوصات + ببسي + بطاط",
+          "price_hungerstation": 20,
+          "calories_hungerstation": 400
         },
         {
-          "id": "watsh-pizza-zinger",
+          "id": "zinger-pizza-sandwich",
           "name": {
             "ar": "وتش بيتزا زنجر",
-            "en": "Watsh Pizza, Zinger"
+            "en": "Zinger Pizza Sandwich"
           },
           "price": 15,
           "description": {
@@ -1392,13 +1561,15 @@
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: البيتزا)",
           "date_found": "2026-11-21",
           "description_source": "Arabic text copied from https://thiqat-alshaam.menus-sa.com/ar; English is our translation",
-          "description_original_ar": "زنجر + وجبن + موزريلا + وشيدر + وخضار + وصوصات"
+          "description_original_ar": "زنجر + وجبن + موزريلا + وشيدر + وخضار + وصوصات",
+          "price_hungerstation": 18,
+          "calories_hungerstation": 400
         },
         {
-          "id": "watsh-pizza-shawarma",
+          "id": "shawarma-pizza-sandwich",
           "name": {
             "ar": "وتش بيتزا شورما",
-            "en": "Watsh Pizza, Shawarma"
+            "en": "Shawarma Pizza Sandwich"
           },
           "price": 15,
           "description": {
@@ -1415,7 +1586,9 @@
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: البيتزا)",
           "date_found": "2026-11-21",
           "description_source": "Arabic text copied from https://thiqat-alshaam.menus-sa.com/ar; English is our translation",
-          "description_original_ar": "شورما + وجبن موزريلا + وشيدر+ وخضار+ وصوصات"
+          "description_original_ar": "شورما + وجبن موزريلا + وشيدر+ وخضار+ وصوصات",
+          "price_hungerstation": 18,
+          "calories_hungerstation": 400
         },
         {
           "id": "meat-pizza-medium",
@@ -1425,8 +1598,8 @@
           },
           "price": 16,
           "description": {
-            "ar": "",
-            "en": ""
+            "ar": "بيتزا مكونة من قطع اللحم وجبنة الموازريلا والخضار المتنوعه",
+            "en": "Pizza made with meat pieces, mozzarella cheese, and assorted vegetables"
           },
           "calories": null,
           "image": null,
@@ -1436,7 +1609,10 @@
           "en_name_status": "same",
           "en_name_from_restaurant": "Medium meat pizza",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: البيتزا)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": 19,
+          "calories_hungerstation": 1364,
+          "description_source": "HungerStation branch 180455 listing, checked 2026-11-22"
         },
         {
           "id": "meat-pizza-small",
@@ -1446,8 +1622,8 @@
           },
           "price": 11,
           "description": {
-            "ar": "",
-            "en": ""
+            "ar": "بيتزا مكونة من قطع اللحم وجبنة الموازريلا والخضار المتنوعه",
+            "en": "Pizza made with meat pieces, mozzarella cheese, and assorted vegetables"
           },
           "calories": null,
           "image": null,
@@ -1457,7 +1633,10 @@
           "en_name_status": "same",
           "en_name_from_restaurant": "Small meat pizza",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: البيتزا)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": 15,
+          "calories_hungerstation": 1100,
+          "description_source": "HungerStation branch 180455 listing, checked 2026-11-22"
         },
         {
           "id": "shawarma-pizza-large",
@@ -1467,8 +1646,8 @@
           },
           "price": 24,
           "description": {
-            "ar": "",
-            "en": ""
+            "ar": "بيتزا بشاورما الدجاج وجبن الموزاريلا والخضار",
+            "en": "Pizza made with shawarma chicken, mozzarella cheese, and vegetables"
           },
           "calories": null,
           "image": null,
@@ -1478,7 +1657,10 @@
           "en_name_status": "same",
           "en_name_from_restaurant": "Large shawarma pizza",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: البيتزا)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": 28,
+          "calories_hungerstation": 820,
+          "description_source": "HungerStation branch 180455 listing, checked 2026-11-22; Arabic is our translation of HungerStation's English (item only on HungerStation's English page); English rewritten by us to match the Arabic (HungerStation's English was cut off, transliterated or mistranslated)"
         },
         {
           "id": "shawarma-pizza-medium",
@@ -1488,8 +1670,8 @@
           },
           "price": 17,
           "description": {
-            "ar": "",
-            "en": ""
+            "ar": "بيتزا بشاورما الدجاج وجبن الموزاريلا والخضار",
+            "en": "Pizza made with shawarma chicken, mozzarella cheese, and vegetables"
           },
           "calories": null,
           "image": null,
@@ -1499,7 +1681,10 @@
           "en_name_status": "same",
           "en_name_from_restaurant": "Medium shawarma pizza",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: البيتزا)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": 21,
+          "calories_hungerstation": 820,
+          "description_source": "HungerStation branch 180455 listing, checked 2026-11-22; Arabic is our translation of HungerStation's English (item only on HungerStation's English page)"
         },
         {
           "id": "shawarma-pizza-small",
@@ -1509,8 +1694,8 @@
           },
           "price": 14,
           "description": {
-            "ar": "",
-            "en": ""
+            "ar": "بيتزا بشاورما الدجاج وجبن الموزاريلا والخضار",
+            "en": "Pizza made with shawarma chicken, mozzarella cheese, and vegetables"
           },
           "calories": null,
           "image": null,
@@ -1520,7 +1705,10 @@
           "en_name_status": "same",
           "en_name_from_restaurant": "Small shawarma pizza",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: البيتزا)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": 17,
+          "calories_hungerstation": 350,
+          "description_source": "HungerStation branch 180455 listing, checked 2026-11-22; Arabic is our translation of HungerStation's English (item only on HungerStation's English page)"
         },
         {
           "id": "mixed-cheese-pizza-large",
@@ -1530,8 +1718,8 @@
           },
           "price": 23,
           "description": {
-            "ar": "",
-            "en": ""
+            "ar": "بيتزا مكونة من ثلاث انواع من الاجبان اللذيذة",
+            "en": "Delicious three cheese pizza"
           },
           "calories": null,
           "image": null,
@@ -1541,7 +1729,10 @@
           "en_name_status": "same",
           "en_name_from_restaurant": "Large mixed cheese pizza",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: البيتزا)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": 27,
+          "calories_hungerstation": 420,
+          "description_source": "HungerStation branch 180455 listing, checked 2026-11-22"
         },
         {
           "id": "mixed-cheese-pizza-medium",
@@ -1551,8 +1742,8 @@
           },
           "price": 18,
           "description": {
-            "ar": "",
-            "en": ""
+            "ar": "بيتزا مكونة من ثلاث انواع من الاجبان اللذيذة",
+            "en": "Delicious three cheese pizza"
           },
           "calories": null,
           "image": null,
@@ -1562,7 +1753,10 @@
           "en_name_status": "same",
           "en_name_from_restaurant": "Medium mixed cheese pizza",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: البيتزا)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": 21,
+          "calories_hungerstation": 420,
+          "description_source": "HungerStation branch 180455 listing, checked 2026-11-22"
         },
         {
           "id": "mixed-cheese-pizza-small",
@@ -1572,8 +1766,8 @@
           },
           "price": 14,
           "description": {
-            "ar": "",
-            "en": ""
+            "ar": "بيتزا مكونة من ثلاث انواع من الاجبان اللذيذة",
+            "en": "Delicious three cheese pizza"
           },
           "calories": null,
           "image": null,
@@ -1583,7 +1777,10 @@
           "en_name_status": "same",
           "en_name_from_restaurant": "Small mixed cheese pizza",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: البيتزا)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": 17,
+          "calories_hungerstation": 1060,
+          "description_source": "HungerStation branch 180455 listing, checked 2026-11-22"
         },
         {
           "id": "sausage-pizza-large",
@@ -1593,8 +1790,8 @@
           },
           "price": 23,
           "description": {
-            "ar": "",
-            "en": ""
+            "ar": "بيتزا مكونة من قطع النقانق وجبنة الموازريلا والخضار",
+            "en": "Sausage, mozzarella and vegetable pizza"
           },
           "calories": null,
           "image": null,
@@ -1604,7 +1801,10 @@
           "en_name_status": "same",
           "en_name_from_restaurant": "Large sausage pizza",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: البيتزا)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": 26,
+          "calories_hungerstation": 2000,
+          "description_source": "HungerStation branch 180455 listing, checked 2026-11-22; English rewritten by us to match the Arabic (HungerStation's English was cut off, transliterated or mistranslated)"
         },
         {
           "id": "sausage-pizza-medium",
@@ -1614,8 +1814,8 @@
           },
           "price": 18,
           "description": {
-            "ar": "",
-            "en": ""
+            "ar": "بيتزا مكونة من قطع النقانق وجبنة الموازريلا والخضار",
+            "en": "Sausage, mozzarella and vegetable pizza"
           },
           "calories": null,
           "image": null,
@@ -1625,7 +1825,10 @@
           "en_name_status": "same",
           "en_name_from_restaurant": "Medium sausage pizza",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: البيتزا)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": 21,
+          "calories_hungerstation": 1433,
+          "description_source": "HungerStation branch 180455 listing, checked 2026-11-22; English rewritten by us to match the Arabic (HungerStation's English was cut off, transliterated or mistranslated)"
         },
         {
           "id": "sausage-pizza-small",
@@ -1635,8 +1838,8 @@
           },
           "price": 14,
           "description": {
-            "ar": "",
-            "en": ""
+            "ar": "بيتزا مكونة من قطع النقانق وجبنة الموازريلا والخضار",
+            "en": "Sausage, mozzarella and vegetable pizza"
           },
           "calories": null,
           "image": null,
@@ -1646,7 +1849,10 @@
           "en_name_status": "same",
           "en_name_from_restaurant": "Small sausage pizza",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: البيتزا)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": 17,
+          "calories_hungerstation": 1298,
+          "description_source": "HungerStation branch 180455 listing, checked 2026-11-22; English rewritten by us to match the Arabic (HungerStation's English was cut off, transliterated or mistranslated)"
         },
         {
           "id": "meat-pizza-large",
@@ -1656,8 +1862,8 @@
           },
           "price": 21,
           "description": {
-            "ar": "",
-            "en": ""
+            "ar": "بيتزا مكونة من قطع اللحم وجبنة الموازريلا والخضار المتنوعه",
+            "en": "Pizza made with meat pieces, mozzarella cheese, and assorted vegetables"
           },
           "calories": null,
           "image": null,
@@ -1667,7 +1873,10 @@
           "en_name_status": "same",
           "en_name_from_restaurant": "Large meat pizza",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: البيتزا)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": 26,
+          "calories_hungerstation": 1720,
+          "description_source": "HungerStation branch 180455 listing, checked 2026-11-22"
         },
         {
           "id": "ranch-pizza-large",
@@ -1677,8 +1886,8 @@
           },
           "price": 26,
           "description": {
-            "ar": "",
-            "en": ""
+            "ar": "بيتزا مزيج من الصلصة وقطع الدجاج وجبنة الموازريلا وصوص الرانش الشهي",
+            "en": "Pizza with a mixture of sauce, chicken pieces, mozzarella cheese, and delicious ranch dressing"
           },
           "calories": null,
           "image": null,
@@ -1688,7 +1897,10 @@
           "en_name_status": "same",
           "en_name_from_restaurant": "Large ranch pizza",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: البيتزا)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": 30,
+          "calories_hungerstation": 1632,
+          "description_source": "HungerStation branch 180455 listing, checked 2026-11-22"
         },
         {
           "id": "margherita-pizza-medium",
@@ -1698,8 +1910,8 @@
           },
           "price": 15,
           "description": {
-            "ar": "",
-            "en": ""
+            "ar": "بيتزا شهية بجبن الموازريلا والصلصة الغنية",
+            "en": "Delicious pizza with mozzarella cheese and rich sauce"
           },
           "calories": null,
           "image": null,
@@ -1709,7 +1921,10 @@
           "en_name_status": "same",
           "en_name_from_restaurant": "Medium margherita pizza",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: البيتزا)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": 18,
+          "calories_hungerstation": 930,
+          "description_source": "HungerStation branch 180455 listing, checked 2026-11-22"
         },
         {
           "id": "margherita-pizza-small",
@@ -1719,8 +1934,8 @@
           },
           "price": 11,
           "description": {
-            "ar": "",
-            "en": ""
+            "ar": "بيتزا شهية بجبن الموازريلا والصلصة الغنية",
+            "en": "Delicious pizza with mozzarella cheese and rich sauce"
           },
           "calories": null,
           "image": null,
@@ -1730,7 +1945,10 @@
           "en_name_status": "same",
           "en_name_from_restaurant": "Small margherita pizza",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: البيتزا)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": 14,
+          "calories_hungerstation": 786,
+          "description_source": "HungerStation branch 180455 listing, checked 2026-11-22"
         },
         {
           "id": "vegetable-and-cheese-pizza-large",
@@ -1740,8 +1958,8 @@
           },
           "price": 21,
           "description": {
-            "ar": "",
-            "en": ""
+            "ar": "بيتزا مع جبنة الموازريلا والصلصة والفلفل والزيتون والطماطم",
+            "en": "Pizza with mozzarella cheese, sauce, peppers, olives, and tomatoes"
           },
           "calories": null,
           "image": null,
@@ -1751,7 +1969,10 @@
           "en_name_status": "same",
           "en_name_from_restaurant": "Large vegetable and cheese pizza",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: البيتزا)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": 24,
+          "calories_hungerstation": 1033,
+          "description_source": "HungerStation branch 180455 listing, checked 2026-11-22"
         },
         {
           "id": "vegetable-and-cheese-pizza-medium",
@@ -1761,8 +1982,8 @@
           },
           "price": 16,
           "description": {
-            "ar": "",
-            "en": ""
+            "ar": "بيتزا مع جبنة الموازريلا والصلصة والفلفل والزيتون والطماطم",
+            "en": "Pizza with mozzarella cheese, sauce, peppers, olives, and tomatoes"
           },
           "calories": null,
           "image": null,
@@ -1772,7 +1993,10 @@
           "en_name_status": "same",
           "en_name_from_restaurant": "Vegetable cheese pizza medium",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: البيتزا)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": 19,
+          "calories_hungerstation": 977,
+          "description_source": "HungerStation branch 180455 listing, checked 2026-11-22"
         },
         {
           "id": "vegetable-and-cheese-pizza-small",
@@ -1782,8 +2006,8 @@
           },
           "price": 11,
           "description": {
-            "ar": "",
-            "en": ""
+            "ar": "بيتزا مع جبنة الموازريلا والصلصة والفلفل والزيتون والطماطم",
+            "en": "Pizza with mozzarella cheese, sauce, peppers, olives, and tomatoes"
           },
           "calories": null,
           "image": null,
@@ -1793,7 +2017,10 @@
           "en_name_status": "same",
           "en_name_from_restaurant": "Small vegetable and cheese pizza",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: البيتزا)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": 14,
+          "calories_hungerstation": 820,
+          "description_source": "HungerStation branch 180455 listing, checked 2026-11-22"
         },
         {
           "id": "chicken-and-vegetable-pizza-large",
@@ -1803,8 +2030,8 @@
           },
           "price": 19,
           "description": {
-            "ar": "",
-            "en": ""
+            "ar": "بيتزا مع قطع الدجاج وجبنة الموازريلا والصلصة والخضار المتنوعة والزيتون",
+            "en": "Pizza with chicken pieces, mozzarella cheese, sauce, assorted vegetables, and olives"
           },
           "calories": null,
           "image": null,
@@ -1814,7 +2041,10 @@
           "en_name_status": "same",
           "en_name_from_restaurant": "Large chicken and vegetable pizza",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: البيتزا)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": 23,
+          "calories_hungerstation": 1200,
+          "description_source": "HungerStation branch 180455 listing, checked 2026-11-22"
         },
         {
           "id": "chicken-and-vegetable-pizza-medium",
@@ -1824,8 +2054,8 @@
           },
           "price": 16,
           "description": {
-            "ar": "",
-            "en": ""
+            "ar": "بيتزا مع قطع الدجاج وجبنة الموازريلا والصلصة والخضار المتنوعة والزيتون",
+            "en": "Pizza with chicken pieces, mozzarella cheese, sauce, assorted vegetables, and olives"
           },
           "calories": null,
           "image": null,
@@ -1835,7 +2065,10 @@
           "en_name_status": "same",
           "en_name_from_restaurant": "Medium chicken and vegetable pizza",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: البيتزا)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": 19,
+          "calories_hungerstation": 1060,
+          "description_source": "HungerStation branch 180455 listing, checked 2026-11-22"
         },
         {
           "id": "chicken-and-vegetable-pizza-small",
@@ -1845,8 +2078,8 @@
           },
           "price": 11,
           "description": {
-            "ar": "",
-            "en": ""
+            "ar": "بيتزا مع قطع الدجاج وجبنة الموازريلا والصلصة والخضار المتنوعة والزيتون",
+            "en": "Pizza with chicken pieces, mozzarella cheese, sauce, assorted vegetables, and olives"
           },
           "calories": null,
           "image": null,
@@ -1856,7 +2089,10 @@
           "en_name_status": "same",
           "en_name_from_restaurant": "Small chicken and vegetable pizza",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: البيتزا)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": 14,
+          "calories_hungerstation": 792,
+          "description_source": "HungerStation branch 180455 listing, checked 2026-11-22"
         },
         {
           "id": "ush-al-bulbul-birds-nest-pizza-large",
@@ -1866,8 +2102,8 @@
           },
           "price": 19,
           "description": {
-            "ar": "",
-            "en": ""
+            "ar": "بيتزا مزيج من اللبنة وجبنة الموازريلا والعسل",
+            "en": "Pizza with a mixture of labneh, mozzarella cheese, and honey"
           },
           "calories": null,
           "image": null,
@@ -1877,7 +2113,10 @@
           "en_name_status": "edited",
           "en_name_from_restaurant": "Large nest of bolbol pizza",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: البيتزا)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": 23,
+          "calories_hungerstation": 1460,
+          "description_source": "HungerStation branch 180455 listing, checked 2026-11-22"
         },
         {
           "id": "ush-al-bulbul-birds-nest-pizza-medium",
@@ -1887,8 +2126,8 @@
           },
           "price": 15,
           "description": {
-            "ar": "",
-            "en": ""
+            "ar": "بيتزا مزيج من اللبنة وجبنة الموازريلا والعسل",
+            "en": "Pizza with a mixture of labneh, mozzarella cheese, and honey"
           },
           "calories": null,
           "image": null,
@@ -1898,7 +2137,10 @@
           "en_name_status": "edited",
           "en_name_from_restaurant": "Medium nest of bolbol pizza",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: البيتزا)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": 19,
+          "calories_hungerstation": 1232,
+          "description_source": "HungerStation branch 180455 listing, checked 2026-11-22"
         },
         {
           "id": "ush-al-bulbul-birds-nest-pizza-small",
@@ -1908,8 +2150,8 @@
           },
           "price": 11,
           "description": {
-            "ar": "",
-            "en": ""
+            "ar": "بيتزا مزيج من اللبنة وجبنة الموازريلا والعسل",
+            "en": "Pizza with a mixture of labneh, mozzarella cheese, and honey"
           },
           "calories": null,
           "image": null,
@@ -1919,7 +2161,10 @@
           "en_name_status": "edited",
           "en_name_from_restaurant": "Small nest of bolbol pizza",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: البيتزا)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": 15,
+          "calories_hungerstation": 1184,
+          "description_source": "HungerStation branch 180455 listing, checked 2026-11-22"
         },
         {
           "id": "margherita-pizza-large",
@@ -1929,8 +2174,8 @@
           },
           "price": 19,
           "description": {
-            "ar": "",
-            "en": ""
+            "ar": "بيتزا شهية بجبن الموازريلا والصلصة الغنية",
+            "en": "Delicious pizza with mozzarella cheese and rich sauce"
           },
           "calories": null,
           "image": null,
@@ -1940,7 +2185,10 @@
           "en_name_status": "same",
           "en_name_from_restaurant": "Large margherita pizza",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: البيتزا)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": 23,
+          "calories_hungerstation": 1160,
+          "description_source": "HungerStation branch 180455 listing, checked 2026-11-22"
         },
         {
           "id": "ranch-pizza-medium",
@@ -1950,8 +2198,8 @@
           },
           "price": 19,
           "description": {
-            "ar": "",
-            "en": ""
+            "ar": "بيتزا مزيج من الصلصة وقطع الدجاج وجبنة الموازريلا وصوص الرانش الشهي",
+            "en": "Pizza with a mixture of sauce, chicken pieces, mozzarella cheese, and delicious ranch dressing"
           },
           "calories": null,
           "image": null,
@@ -1961,7 +2209,10 @@
           "en_name_status": "same",
           "en_name_from_restaurant": "Ranch pizza medium",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: البيتزا)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": 23,
+          "calories_hungerstation": 1366,
+          "description_source": "HungerStation branch 180455 listing, checked 2026-11-22"
         },
         {
           "id": "ranch-pizza-small",
@@ -1971,8 +2222,8 @@
           },
           "price": 14,
           "description": {
-            "ar": "",
-            "en": ""
+            "ar": "بيتزا مزيج من الصلصة وقطع الدجاج وجبنة الموازريلا وصوص الرانش الشهي",
+            "en": "Pizza with a mixture of sauce, chicken pieces, mozzarella cheese, and delicious ranch dressing"
           },
           "calories": null,
           "image": null,
@@ -1982,7 +2233,10 @@
           "en_name_status": "same",
           "en_name_from_restaurant": "Small ranch pizza",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: البيتزا)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": 17,
+          "calories_hungerstation": 1031,
+          "description_source": "HungerStation branch 180455 listing, checked 2026-11-22; English rewritten by us to match the Arabic (HungerStation's English was cut off, transliterated or mistranslated)"
         },
         {
           "id": "bbq-pizza-large",
@@ -1992,8 +2246,8 @@
           },
           "price": 26,
           "description": {
-            "ar": "",
-            "en": ""
+            "ar": "بيتزا مزيج من الصلصة وقطع الدجاج وجبنة الموازريلا وصوص الباربكيو الشهي",
+            "en": "Pizza made with a blend of sauce, chicken pieces, mozzarella cheese, and delicious bbq sauce"
           },
           "calories": null,
           "image": null,
@@ -2003,7 +2257,10 @@
           "en_name_status": "same",
           "en_name_from_restaurant": "Large BBQ pizza",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: البيتزا)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": 30,
+          "calories_hungerstation": 995,
+          "description_source": "HungerStation branch 180455 listing, checked 2026-11-22"
         },
         {
           "id": "bbq-pizza-medium",
@@ -2013,8 +2270,8 @@
           },
           "price": 20,
           "description": {
-            "ar": "",
-            "en": ""
+            "ar": "بيتزا مزيج من الصلصة وقطع الدجاج وجبنة الموازريلا وصوص الباربكيو الشهي",
+            "en": "Pizza made with a blend of sauce, chicken pieces, mozzarella cheese, and delicious bbq sauce"
           },
           "calories": null,
           "image": null,
@@ -2024,7 +2281,10 @@
           "en_name_status": "same",
           "en_name_from_restaurant": "Medium BBQ pizza",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: البيتزا)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": 23,
+          "calories_hungerstation": 872,
+          "description_source": "HungerStation branch 180455 listing, checked 2026-11-22"
         },
         {
           "id": "bbq-pizza-small",
@@ -2034,8 +2294,8 @@
           },
           "price": 14,
           "description": {
-            "ar": "",
-            "en": ""
+            "ar": "بيتزا مزيج من الصلصة وقطع الدجاج وجبنة الموازريلا وصوص الباربكيو الشهي",
+            "en": "Pizza made with a blend of sauce, chicken pieces, mozzarella cheese, and delicious bbq sauce"
           },
           "calories": null,
           "image": null,
@@ -2045,7 +2305,10 @@
           "en_name_status": "same",
           "en_name_from_restaurant": "Small BBQ pizza",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: البيتزا)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": 17,
+          "calories_hungerstation": 720,
+          "description_source": "HungerStation branch 180455 listing, checked 2026-11-22"
         },
         {
           "id": "thiqat-al-sham-pizza-large",
@@ -2055,8 +2318,8 @@
           },
           "price": 31,
           "description": {
-            "ar": "",
-            "en": ""
+            "ar": "بيتزا مكونة من الدجاج والصلصة وجبن الموازريلا والخضار وصوصات شهية",
+            "en": "Pizza made with chicken, sauce, mozzarella cheese, vegetables, and delicious sauces"
           },
           "calories": null,
           "image": null,
@@ -2066,7 +2329,10 @@
           "en_name_status": "edited",
           "en_name_from_restaurant": "Thiqat Al Sham pizza is large",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: البيتزا)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": 34,
+          "calories_hungerstation": 1260,
+          "description_source": "HungerStation branch 180455 listing, checked 2026-11-22"
         },
         {
           "id": "thiqat-al-sham-pizza-medium",
@@ -2076,8 +2342,8 @@
           },
           "price": 24,
           "description": {
-            "ar": "",
-            "en": ""
+            "ar": "بيتزا مكونة من الدجاج والصلصة وجبن الموازريلا والخضار وصوصات شهية",
+            "en": "Pizza made with chicken, sauce, mozzarella cheese, vegetables, and delicious sauces"
           },
           "calories": null,
           "image": null,
@@ -2087,7 +2353,10 @@
           "en_name_status": "edited",
           "en_name_from_restaurant": "Medium Thiqat Al Sham Pizza",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: البيتزا)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": 27,
+          "calories_hungerstation": 1177,
+          "description_source": "HungerStation branch 180455 listing, checked 2026-11-22"
         },
         {
           "id": "thiqat-al-sham-pizza-small",
@@ -2097,8 +2366,8 @@
           },
           "price": 16,
           "description": {
-            "ar": "",
-            "en": ""
+            "ar": "بيتزا مكونة من الدجاج والصلصة وجبن الموازريلا والخضار وصوصات شهية",
+            "en": "Pizza made with chicken, sauce, mozzarella cheese, vegetables, and delicious sauces"
           },
           "calories": null,
           "image": null,
@@ -2108,7 +2377,10 @@
           "en_name_status": "edited",
           "en_name_from_restaurant": "Thiqat Al Sham Pizza Small",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: البيتزا)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": 20,
+          "calories_hungerstation": 935,
+          "description_source": "HungerStation branch 180455 listing, checked 2026-11-22"
         },
         {
           "id": "pepperoni-pizza-large",
@@ -2118,8 +2390,8 @@
           },
           "price": 26,
           "description": {
-            "ar": "",
-            "en": ""
+            "ar": "بيتزا مكونة من شرايح لحم الببروني مع جبنة الموازريلا والصلصة الغنية",
+            "en": "Pizza made with pepperoni slices, mozzarella cheese, and rich sauce"
           },
           "calories": null,
           "image": null,
@@ -2129,7 +2401,10 @@
           "en_name_status": "same",
           "en_name_from_restaurant": "Large pepperoni pizza",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: البيتزا)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": 30,
+          "calories_hungerstation": 1634,
+          "description_source": "HungerStation branch 180455 listing, checked 2026-11-22"
         },
         {
           "id": "pepperoni-pizza-medium",
@@ -2139,8 +2414,8 @@
           },
           "price": 19,
           "description": {
-            "ar": "",
-            "en": ""
+            "ar": "بيتزا مكونة من شرايح لحم الببروني مع جبنة الموازريلا والصلصة الغنية",
+            "en": "Pizza made with pepperoni slices, mozzarella cheese, and rich sauce"
           },
           "calories": null,
           "image": null,
@@ -2150,7 +2425,10 @@
           "en_name_status": "same",
           "en_name_from_restaurant": "Medium pepperoni pizza",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: البيتزا)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": 23,
+          "calories_hungerstation": 1264,
+          "description_source": "HungerStation branch 180455 listing, checked 2026-11-22"
         },
         {
           "id": "pepperoni-pizza-small",
@@ -2160,8 +2438,8 @@
           },
           "price": 13,
           "description": {
-            "ar": "",
-            "en": ""
+            "ar": "بيتزا مكونة من شرايح لحم الببروني مع جبنة الموازريلا والصلصة الغنية",
+            "en": "Pizza made with pepperoni slices, mozzarella cheese, and rich sauce"
           },
           "calories": null,
           "image": null,
@@ -2171,7 +2449,10 @@
           "en_name_status": "same",
           "en_name_from_restaurant": "Small pepperoni pizza",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: البيتزا)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": 16,
+          "calories_hungerstation": 989,
+          "description_source": "HungerStation branch 180455 listing, checked 2026-11-22"
         }
       ]
     },
@@ -2194,8 +2475,8 @@
           },
           "price": 1,
           "description": {
-            "ar": "",
-            "en": ""
+            "ar": "خبز طازج ساخن محضر على الصاج",
+            "en": "Hot fresh bread baked on a saj (flatbread griddle)"
           },
           "calories": null,
           "image": null,
@@ -2205,7 +2486,10 @@
           "en_name_status": "same",
           "en_name_from_restaurant": "Saj bread",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: مقبلات)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": 2,
+          "calories_hungerstation": 224,
+          "description_source": "HungerStation branch 180455 listing, checked 2026-11-22"
         },
         {
           "id": "hummus",
@@ -2215,8 +2499,8 @@
           },
           "price": 8,
           "description": {
-            "ar": "",
-            "en": ""
+            "ar": "صحن حمص ناعم مع زيت الزيتون",
+            "en": "Smooth hummus with olive oil"
           },
           "calories": null,
           "image": null,
@@ -2226,7 +2510,10 @@
           "en_name_status": "same",
           "en_name_from_restaurant": "Hummus plate",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: مقبلات)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": 11,
+          "calories_hungerstation": 190,
+          "description_source": "HungerStation branch 180455 listing, checked 2026-11-22"
         },
         {
           "id": "mutabbal",
@@ -2236,8 +2523,8 @@
           },
           "price": 8,
           "description": {
-            "ar": "",
-            "en": ""
+            "ar": "صحن متبل مع زيت الزيتون وحبيبات الرمان",
+            "en": "Mtabbal with olive oil and pomegranate seeds"
           },
           "calories": null,
           "image": null,
@@ -2247,7 +2534,10 @@
           "en_name_status": "edited",
           "en_name_from_restaurant": "Mutabal plate",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: مقبلات)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": 11,
+          "calories_hungerstation": 145,
+          "description_source": "HungerStation branch 180455 listing, checked 2026-11-22"
         },
         {
           "id": "tabbouleh",
@@ -2257,8 +2547,8 @@
           },
           "price": 9,
           "description": {
-            "ar": "",
-            "en": ""
+            "ar": "سلطة تحتوي على البقدونس والنعناع والطماطم والبصل والبرغل بعصير الليمون وزيت الزيتون.",
+            "en": "A salad containing parsley, mint, tomatoes, onions, and bulgur dressed with lemon juice and olive oil"
           },
           "calories": null,
           "image": null,
@@ -2268,7 +2558,10 @@
           "en_name_status": "same",
           "en_name_from_restaurant": "tabbouleh plate",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: مقبلات)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": 12,
+          "calories_hungerstation": 150,
+          "description_source": "HungerStation branch 180455 listing, checked 2026-11-22"
         },
         {
           "id": "baba-ghanoush",
@@ -2278,8 +2571,8 @@
           },
           "price": 6,
           "description": {
-            "ar": "",
-            "en": ""
+            "ar": "صحن البابا غنوج بزيت الزيتون والخلطة اللذيذة",
+            "en": "Baba ghanoush with olive oil and a delicious dressing"
           },
           "calories": null,
           "image": null,
@@ -2289,7 +2582,10 @@
           "en_name_status": "edited",
           "en_name_from_restaurant": "Baba Ghanouj plate",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: مقبلات)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": 9,
+          "calories_hungerstation": 95,
+          "description_source": "HungerStation branch 180455 listing, checked 2026-11-22"
         },
         {
           "id": "mixed-appetizers-plate",
@@ -2299,8 +2595,8 @@
           },
           "price": 20,
           "description": {
-            "ar": "",
-            "en": ""
+            "ar": "حمص ومتبل وبابا غنوج وتبولة وسلطة السماق الشهية",
+            "en": "Hummus, mutabbal, baba ghanoush, tabbouleh and sumac salad"
           },
           "calories": null,
           "image": null,
@@ -2310,7 +2606,10 @@
           "en_name_status": "same",
           "en_name_from_restaurant": "Mixed appetizer plate",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: مقبلات)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": 24,
+          "calories_hungerstation": 326,
+          "description_source": "HungerStation branch 180455 listing, checked 2026-11-22; English rewritten by us to match the Arabic (HungerStation's English was cut off, transliterated or mistranslated)"
         }
       ]
     },
@@ -2344,7 +2643,9 @@
           "en_name_status": "same",
           "en_name_from_restaurant": "Spinach and cheese pie",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: الفطائر)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": null,
+          "calories_hungerstation": null
         },
         {
           "id": "labneh-and-falafel-fatayer",
@@ -2365,7 +2666,9 @@
           "en_name_status": "same",
           "en_name_from_restaurant": "Labneh pie with falafel",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: الفطائر)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": null,
+          "calories_hungerstation": null
         },
         {
           "id": "mixed-pastries-plate-large",
@@ -2375,8 +2678,8 @@
           },
           "price": 50,
           "description": {
-            "ar": "",
-            "en": ""
+            "ar": "تشكيلة متنوعة من الفطاير بحشوات مختلفة ولذيذة",
+            "en": "A diverse selection of pies with different and delicious fillings"
           },
           "calories": null,
           "image": null,
@@ -2386,7 +2689,10 @@
           "en_name_status": "edited",
           "en_name_from_restaurant": "large plate pastries",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: الفطائر)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": 56,
+          "calories_hungerstation": 1265,
+          "description_source": "HungerStation branch 180455 listing, checked 2026-11-22"
         },
         {
           "id": "mixed-pastries-plate-medium",
@@ -2396,8 +2702,8 @@
           },
           "price": 28,
           "description": {
-            "ar": "",
-            "en": ""
+            "ar": "تشكيلة متنوعة من الفطاير بحشوات مختلفة ولذيذة",
+            "en": "A diverse selection of pies with different and delicious fillings"
           },
           "calories": null,
           "image": null,
@@ -2407,7 +2713,10 @@
           "en_name_status": "edited",
           "en_name_from_restaurant": "medium plate pastries",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: الفطائر)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": 34,
+          "calories_hungerstation": 870,
+          "description_source": "HungerStation branch 180455 listing, checked 2026-11-22"
         },
         {
           "id": "mixed-pastries-plate-small",
@@ -2417,8 +2726,8 @@
           },
           "price": 18,
           "description": {
-            "ar": "",
-            "en": ""
+            "ar": "تشكيلة متنوعة من الفطاير بحشوات مختلفة ولذيذة",
+            "en": "A diverse selection of pies with different and delicious fillings"
           },
           "calories": null,
           "image": null,
@@ -2428,7 +2737,10 @@
           "en_name_status": "edited",
           "en_name_from_restaurant": "small plate pastries",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: الفطائر)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": 23,
+          "calories_hungerstation": 750,
+          "description_source": "HungerStation branch 180455 listing, checked 2026-11-22"
         },
         {
           "id": "plain-meat-fatayer",
@@ -2438,8 +2750,8 @@
           },
           "price": 7,
           "description": {
-            "ar": "",
-            "en": ""
+            "ar": "فطيرة محشوة باللحم المفروم الشهي",
+            "en": "Delicious minced meat filled pie"
           },
           "calories": null,
           "image": null,
@@ -2449,7 +2761,10 @@
           "en_name_status": "same",
           "en_name_from_restaurant": "Plain meat pie",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: الفطائر)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": 10,
+          "calories_hungerstation": 380,
+          "description_source": "HungerStation branch 180455 listing, checked 2026-11-22"
         },
         {
           "id": "muhammara-and-cheese-fatayer",
@@ -2459,8 +2774,8 @@
           },
           "price": 7,
           "description": {
-            "ar": "",
-            "en": ""
+            "ar": "فطيرة ممزوجه بالطماطم والفلفل الحار الخفيف وجبن الموازريلا",
+            "en": "Mixed tomato, mild chili pepper, and mozzarella cheese-filled pie"
           },
           "calories": null,
           "image": null,
@@ -2470,7 +2785,10 @@
           "en_name_status": "same",
           "en_name_from_restaurant": "Muhammara pie with cheese",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: الفطائر)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": 10,
+          "calories_hungerstation": 296,
+          "description_source": "HungerStation branch 180455 listing, checked 2026-11-22"
         },
         {
           "id": "plain-muhammara-fatayer",
@@ -2480,8 +2798,8 @@
           },
           "price": 6,
           "description": {
-            "ar": "",
-            "en": ""
+            "ar": "فطيرة ممزوجة بالطماطم والفلفل الحار الخفيف",
+            "en": "Mixed tomato and mild chili pepper pie"
           },
           "calories": null,
           "image": null,
@@ -2491,7 +2809,10 @@
           "en_name_status": "same",
           "en_name_from_restaurant": "Plain muhammara pie",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: الفطائر)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": 8,
+          "calories_hungerstation": 160,
+          "description_source": "HungerStation branch 180455 listing, checked 2026-11-22"
         },
         {
           "id": "spinach-fatayer",
@@ -2501,8 +2822,8 @@
           },
           "price": 7,
           "description": {
-            "ar": "",
-            "en": ""
+            "ar": "فطيرة السبانخ الشهية",
+            "en": "Delicious spinach pie"
           },
           "calories": null,
           "image": null,
@@ -2512,7 +2833,10 @@
           "en_name_status": "same",
           "en_name_from_restaurant": "Spinach pie",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: الفطائر)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": 10,
+          "calories_hungerstation": 280,
+          "description_source": "HungerStation branch 180455 listing, checked 2026-11-22"
         },
         {
           "id": "sausage-and-cheese-fatayer",
@@ -2522,8 +2846,8 @@
           },
           "price": 9,
           "description": {
-            "ar": "",
-            "en": ""
+            "ar": "فطيرة ممزوجة بجبن الموازريلا وقطع النقانق",
+            "en": "Mixed mozzarella cheese and sausage pieces-filled pie"
           },
           "calories": null,
           "image": null,
@@ -2533,7 +2857,10 @@
           "en_name_status": "same",
           "en_name_from_restaurant": "Sausage cheese pie",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: الفطائر)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": 13,
+          "calories_hungerstation": 523,
+          "description_source": "HungerStation branch 180455 listing, checked 2026-11-22"
         },
         {
           "id": "cheddar-cheese-fatayer",
@@ -2543,8 +2870,8 @@
           },
           "price": 6,
           "description": {
-            "ar": "",
-            "en": ""
+            "ar": "فطيرة محشوة بجبن الشيدر",
+            "en": "Cheddar cheese filled pie"
           },
           "calories": null,
           "image": null,
@@ -2554,7 +2881,10 @@
           "en_name_status": "same",
           "en_name_from_restaurant": "Cheddar cheese pie",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: الفطائر)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": 9,
+          "calories_hungerstation": 331,
+          "description_source": "HungerStation branch 180455 listing, checked 2026-11-22"
         },
         {
           "id": "akkawi-cheese-fatayer",
@@ -2564,8 +2894,8 @@
           },
           "price": 7,
           "description": {
-            "ar": "",
-            "en": ""
+            "ar": "فطيرة محشوة بجبن العكاوي وحبة البركة والسمسم",
+            "en": "Akkawi cheese, nigella seeds, and sesame-filled pie"
           },
           "calories": null,
           "image": null,
@@ -2575,7 +2905,10 @@
           "en_name_status": "same",
           "en_name_from_restaurant": "Akkawi cheese pie",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: الفطائر)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": 10,
+          "calories_hungerstation": 250,
+          "description_source": "HungerStation branch 180455 listing, checked 2026-11-22"
         },
         {
           "id": "mozzarella-and-vegetable-fatayer",
@@ -2585,8 +2918,8 @@
           },
           "price": 7,
           "description": {
-            "ar": "",
-            "en": ""
+            "ar": "فطيرة ممزوجه بجبن الموازريلا والخضار المتنوعه",
+            "en": "Mixed mozzarella cheese and assorted vegetables filled pie"
           },
           "calories": null,
           "image": null,
@@ -2596,7 +2929,10 @@
           "en_name_status": "same",
           "en_name_from_restaurant": "Mozzarella cheese pie with vegetables",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: الفطائر)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": 10,
+          "calories_hungerstation": 300,
+          "description_source": "HungerStation branch 180455 listing, checked 2026-11-22"
         },
         {
           "id": "meat-and-cheese-fatayer",
@@ -2606,8 +2942,8 @@
           },
           "price": 7,
           "description": {
-            "ar": "",
-            "en": ""
+            "ar": "فطيرة محشوة باللحم المفروم وجبن الموازريلا",
+            "en": "Minced meat and mozzarella cheese filled pie"
           },
           "calories": null,
           "image": null,
@@ -2617,7 +2953,10 @@
           "en_name_status": "same",
           "en_name_from_restaurant": "Meat pie with cheese",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: الفطائر)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": 10,
+          "calories_hungerstation": 490,
+          "description_source": "HungerStation branch 180455 listing, checked 2026-11-22"
         },
         {
           "id": "liquid-cheese-boat",
@@ -2638,7 +2977,9 @@
           "en_name_status": "same",
           "en_name_from_restaurant": "Liquid cheese boat",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: الفطائر)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": null,
+          "calories_hungerstation": null
         },
         {
           "id": "labneh-and-honey-fatayer",
@@ -2648,8 +2989,8 @@
           },
           "price": 7,
           "description": {
-            "ar": "",
-            "en": ""
+            "ar": "فطيرة محشوة باللبنة الطازجة والعسل",
+            "en": "Fresh labneh and honey filled pie"
           },
           "calories": null,
           "image": null,
@@ -2659,7 +3000,10 @@
           "en_name_status": "same",
           "en_name_from_restaurant": "Labneh pie with honey",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: الفطائر)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": 10,
+          "calories_hungerstation": 426,
+          "description_source": "HungerStation branch 180455 listing, checked 2026-11-22"
         },
         {
           "id": "labneh-and-zaatar-fatayer",
@@ -2669,8 +3013,8 @@
           },
           "price": 7,
           "description": {
-            "ar": "",
-            "en": ""
+            "ar": "فطيرة محشوة باللبنة الطازجة والزعتر",
+            "en": "Pie filled with fresh labneh and za'atar"
           },
           "calories": null,
           "image": null,
@@ -2680,7 +3024,10 @@
           "en_name_status": "edited",
           "en_name_from_restaurant": "Labneh pie with thyme",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: الفطائر)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": 10,
+          "calories_hungerstation": 390,
+          "description_source": "HungerStation branch 180455 listing, checked 2026-11-22; English rewritten by us to match the Arabic (HungerStation's English was cut off, transliterated or mistranslated)"
         },
         {
           "id": "labneh-and-olive-fatayer",
@@ -2690,8 +3037,8 @@
           },
           "price": 7,
           "description": {
-            "ar": "",
-            "en": ""
+            "ar": "فطيرة محشوة باللبنة الطازجه وشرايح الزيتون",
+            "en": "Pie filled with fresh labneh and sliced olives"
           },
           "calories": null,
           "image": null,
@@ -2701,7 +3048,10 @@
           "en_name_status": "same",
           "en_name_from_restaurant": "Labneh pie with olives",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: الفطائر)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": 10,
+          "calories_hungerstation": 320,
+          "description_source": "HungerStation branch 180455 listing, checked 2026-11-22; English rewritten by us to match the Arabic (HungerStation's English was cut off, transliterated or mistranslated)"
         },
         {
           "id": "labneh-fatayer",
@@ -2711,8 +3061,8 @@
           },
           "price": 6,
           "description": {
-            "ar": "",
-            "en": ""
+            "ar": "فطيرة محشوة باللبنة الطازجة",
+            "en": "Fresh labneh filled pie"
           },
           "calories": null,
           "image": null,
@@ -2722,7 +3072,10 @@
           "en_name_status": "same",
           "en_name_from_restaurant": "Labneh pie",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: الفطائر)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": 9,
+          "calories_hungerstation": 236,
+          "description_source": "HungerStation branch 180455 listing, checked 2026-11-22"
         },
         {
           "id": "zaatar-fatayer",
@@ -2732,8 +3085,8 @@
           },
           "price": 6,
           "description": {
-            "ar": "",
-            "en": ""
+            "ar": "فطيرة محشوة بزيت الزيتون والزعتر",
+            "en": "Pie filled with olive oil and za'atar"
           },
           "calories": null,
           "image": null,
@@ -2743,7 +3096,10 @@
           "en_name_status": "edited",
           "en_name_from_restaurant": "Thyme pie",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: الفطائر)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": 9,
+          "calories_hungerstation": 263,
+          "description_source": "HungerStation branch 180455 listing, checked 2026-11-22; English rewritten by us to match the Arabic (HungerStation's English was cut off, transliterated or mistranslated)"
         },
         {
           "id": "liquid-cheese-fatayer",
@@ -2753,8 +3109,8 @@
           },
           "price": 6,
           "description": {
-            "ar": "",
-            "en": ""
+            "ar": "فطيرة محشوة بالجبن السائل",
+            "en": "Cheese filled pie"
           },
           "calories": null,
           "image": null,
@@ -2764,7 +3120,10 @@
           "en_name_status": "same",
           "en_name_from_restaurant": "Liquid cheese pie",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: الفطائر)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": 9,
+          "calories_hungerstation": 220,
+          "description_source": "HungerStation branch 180455 listing, checked 2026-11-22"
         },
         {
           "id": "mozzarella-boat",
@@ -2785,7 +3144,9 @@
           "en_name_status": "same",
           "en_name_from_restaurant": "Mozzarella cheese boat",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: الفطائر)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": null,
+          "calories_hungerstation": null
         },
         {
           "id": "cheddar-boat",
@@ -2806,7 +3167,9 @@
           "en_name_status": "same",
           "en_name_from_restaurant": "Cheddar cheese boat",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: الفطائر)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": null,
+          "calories_hungerstation": null
         },
         {
           "id": "mozzarella-boat-with-labneh-sesame-and-nigella-seeds",
@@ -2827,7 +3190,9 @@
           "en_name_status": "same",
           "en_name_from_restaurant": "Mozzarella cheese boat with labneh, sesame and black seed",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: الفطائر)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": null,
+          "calories_hungerstation": null
         },
         {
           "id": "labneh-boat",
@@ -2848,7 +3213,9 @@
           "en_name_status": "corrected",
           "en_name_from_restaurant": "Brick boat",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: الفطائر)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": null,
+          "calories_hungerstation": null
         },
         {
           "id": "meat-boat",
@@ -2869,7 +3236,9 @@
           "en_name_status": "same",
           "en_name_from_restaurant": "Meat boat",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: الفطائر)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": null,
+          "calories_hungerstation": null
         },
         {
           "id": "zaatar-boat",
@@ -2890,7 +3259,9 @@
           "en_name_status": "edited",
           "en_name_from_restaurant": "Thyme boat",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: الفطائر)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": null,
+          "calories_hungerstation": null
         }
       ]
     },
@@ -2924,7 +3295,9 @@
           "en_name_status": "edited",
           "en_name_from_restaurant": "Garlic plate",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: صوصات)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": null,
+          "calories_hungerstation": null
         },
         {
           "id": "garlic-sauce",
@@ -2934,8 +3307,8 @@
           },
           "price": 2,
           "description": {
-            "ar": "",
-            "en": ""
+            "ar": "صوص الثوم الابيض",
+            "en": "White garlic sauce"
           },
           "calories": null,
           "image": null,
@@ -2945,7 +3318,10 @@
           "en_name_status": "same",
           "en_name_from_restaurant": "Garlic sauce",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: صوصات)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": 3,
+          "calories_hungerstation": 140,
+          "description_source": "HungerStation branch 180455 listing, checked 2026-11-22"
         },
         {
           "id": "red-garlic-sauce",
@@ -2955,8 +3331,8 @@
           },
           "price": 2,
           "description": {
-            "ar": "",
-            "en": ""
+            "ar": "صوص الثوم الاحمر الحار",
+            "en": "Spicy red garlic sauce"
           },
           "calories": null,
           "image": null,
@@ -2966,7 +3342,10 @@
           "en_name_status": "same",
           "en_name_from_restaurant": "Red garlic sauce",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: صوصات)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": 3,
+          "calories_hungerstation": 148,
+          "description_source": "HungerStation branch 180455 listing, checked 2026-11-22"
         },
         {
           "id": "thiqat-al-sham-sauce",
@@ -2976,8 +3355,8 @@
           },
           "price": 2,
           "description": {
-            "ar": "",
-            "en": ""
+            "ar": "صوص بخلطة خاصة",
+            "en": "A special blended sauce"
           },
           "calories": null,
           "image": null,
@@ -2987,7 +3366,10 @@
           "en_name_status": "same",
           "en_name_from_restaurant": "Thiqat Al-Sham sauce",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: صوصات)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": 3,
+          "calories_hungerstation": 44,
+          "description_source": "HungerStation branch 180455 listing, checked 2026-11-22"
         },
         {
           "id": "tahini-sauce",
@@ -2997,8 +3379,8 @@
           },
           "price": 2,
           "description": {
-            "ar": "",
-            "en": ""
+            "ar": "صوص الطحينية الشهي بالسماق",
+            "en": "Delicious tahini sauce with sumac"
           },
           "calories": null,
           "image": null,
@@ -3008,7 +3390,10 @@
           "en_name_status": "same",
           "en_name_from_restaurant": "Tahini sauce",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: صوصات)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": 3,
+          "calories_hungerstation": 48,
+          "description_source": "HungerStation branch 180455 listing, checked 2026-11-22"
         },
         {
           "id": "cheese-sauce",
@@ -3018,8 +3403,8 @@
           },
           "price": 2,
           "description": {
-            "ar": "",
-            "en": ""
+            "ar": "صوص جبن شيدر سائل",
+            "en": "Cream cheddar cheese sauce"
           },
           "calories": null,
           "image": null,
@@ -3029,7 +3414,10 @@
           "en_name_status": "same",
           "en_name_from_restaurant": "Cheese sauce",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: صوصات)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": 3,
+          "calories_hungerstation": 65,
+          "description_source": "HungerStation branch 180455 listing, checked 2026-11-22"
         },
         {
           "id": "pomegranate-molasses-sauce",
@@ -3039,8 +3427,8 @@
           },
           "price": 2,
           "description": {
-            "ar": "",
-            "en": ""
+            "ar": "صوص دبس الرمان الحامض",
+            "en": "Sour pomegranate molasses sauce"
           },
           "calories": null,
           "image": null,
@@ -3050,7 +3438,10 @@
           "en_name_status": "same",
           "en_name_from_restaurant": "Pomegranate molasses sauce",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: صوصات)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": 3,
+          "calories_hungerstation": 65,
+          "description_source": "HungerStation branch 180455 listing, checked 2026-11-22"
         },
         {
           "id": "white-burger-sauce",
@@ -3060,8 +3451,8 @@
           },
           "price": 2,
           "description": {
-            "ar": "",
-            "en": ""
+            "ar": "صوص خاص برجر الدجاج",
+            "en": "Special sauce for chicken burgers"
           },
           "calories": null,
           "image": null,
@@ -3071,7 +3462,10 @@
           "en_name_status": "same",
           "en_name_from_restaurant": "White burger sauce",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: صوصات)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": 3,
+          "calories_hungerstation": 72,
+          "description_source": "HungerStation branch 180455 listing, checked 2026-11-22"
         },
         {
           "id": "dark-burger-sauce",
@@ -3081,8 +3475,8 @@
           },
           "price": 2,
           "description": {
-            "ar": "",
-            "en": ""
+            "ar": "صوص خاص برجر اللحم",
+            "en": "Special sauce for beef burgers"
           },
           "calories": null,
           "image": null,
@@ -3092,7 +3486,10 @@
           "en_name_status": "same",
           "en_name_from_restaurant": "Dark burger sauce",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: صوصات)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": 3,
+          "calories_hungerstation": 74,
+          "description_source": "HungerStation branch 180455 listing, checked 2026-11-22"
         }
       ]
     },
@@ -3126,7 +3523,9 @@
           "en_name_status": "edited",
           "en_name_from_restaurant": "Rabea juice",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: مشروبات)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": null,
+          "calories_hungerstation": null
         },
         {
           "id": "kinza-seven-large-360-ml",
@@ -3147,7 +3546,9 @@
           "en_name_status": "edited",
           "en_name_from_restaurant": "Kenza Seven Large 360m",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: مشروبات)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": null,
+          "calories_hungerstation": null
         },
         {
           "id": "kinza-citrus-large-360-ml",
@@ -3168,7 +3569,9 @@
           "en_name_status": "edited",
           "en_name_from_restaurant": "Kenza Citrus Large 360m",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: مشروبات)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": null,
+          "calories_hungerstation": null
         },
         {
           "id": "kinza-orange-large-360-ml",
@@ -3189,7 +3592,9 @@
           "en_name_status": "edited",
           "en_name_from_restaurant": "Kenza large orange 360m",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: مشروبات)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": null,
+          "calories_hungerstation": null
         },
         {
           "id": "kinza-seven-small-185-ml",
@@ -3210,7 +3615,9 @@
           "en_name_status": "edited",
           "en_name_from_restaurant": "Kenza Seven Small",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: مشروبات)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": null,
+          "calories_hungerstation": null
         },
         {
           "id": "kinza-orange-small-185-ml",
@@ -3231,7 +3638,9 @@
           "en_name_status": "edited",
           "en_name_from_restaurant": "Kenza small orange",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: مشروبات)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": null,
+          "calories_hungerstation": null
         },
         {
           "id": "kinza-citrus-small-185-ml",
@@ -3252,7 +3661,9 @@
           "en_name_status": "edited",
           "en_name_from_restaurant": "Small citrus kenza",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: مشروبات)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": null,
+          "calories_hungerstation": null
         },
         {
           "id": "kinza-cola-small-185-ml",
@@ -3273,7 +3684,9 @@
           "en_name_status": "corrected",
           "en_name_from_restaurant": "A small cola treasure",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: مشروبات)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": null,
+          "calories_hungerstation": null
         },
         {
           "id": "kinza-cola-large-360-ml",
@@ -3294,7 +3707,9 @@
           "en_name_status": "corrected",
           "en_name_from_restaurant": "kinza",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: مشروبات)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": null,
+          "calories_hungerstation": null
         },
         {
           "id": "7up",
@@ -3315,7 +3730,9 @@
           "en_name_status": "same",
           "en_name_from_restaurant": "7Up",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: مشروبات)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": 4,
+          "calories_hungerstation": 145
         },
         {
           "id": "7up-diet",
@@ -3336,7 +3753,9 @@
           "en_name_status": "same",
           "en_name_from_restaurant": "7Up Diet",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: مشروبات)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": 4,
+          "calories_hungerstation": null
         },
         {
           "id": "diet-pepsi",
@@ -3357,7 +3776,9 @@
           "en_name_status": "same",
           "en_name_from_restaurant": "Diet Pepsi",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: مشروبات)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": 4,
+          "calories_hungerstation": null
         },
         {
           "id": "water",
@@ -3378,7 +3799,9 @@
           "en_name_status": "same",
           "en_name_from_restaurant": "water",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: مشروبات)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": 2,
+          "calories_hungerstation": null
         },
         {
           "id": "mirinda-orange",
@@ -3399,7 +3822,9 @@
           "en_name_status": "same",
           "en_name_from_restaurant": "Mirinda orange",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: مشروبات)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": 4,
+          "calories_hungerstation": 170
         },
         {
           "id": "pepsi",
@@ -3420,7 +3845,9 @@
           "en_name_status": "same",
           "en_name_from_restaurant": "Pepsi",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: مشروبات)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": 4,
+          "calories_hungerstation": 150
         },
         {
           "id": "mountain-dew",
@@ -3441,7 +3868,9 @@
           "en_name_status": "edited",
           "en_name_from_restaurant": "Dew",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: مشروبات)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": 4,
+          "calories_hungerstation": 170
         },
         {
           "id": "citrus-soda",
@@ -3462,7 +3891,9 @@
           "en_name_status": "edited",
           "en_name_from_restaurant": "Citrus",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: مشروبات)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": 4,
+          "calories_hungerstation": 160
         }
       ]
     },
@@ -3496,7 +3927,9 @@
           "en_name_status": "same",
           "en_name_from_restaurant": "small mixed falafel plate",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: الافطار)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": null,
+          "calories_hungerstation": null
         },
         {
           "id": "milk-tea",
@@ -3517,7 +3950,9 @@
           "en_name_status": "same",
           "en_name_from_restaurant": "Milk tea",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: الافطار)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": null,
+          "calories_hungerstation": null
         },
         {
           "id": "sunny-side-up-eggs",
@@ -3538,7 +3973,9 @@
           "en_name_status": "corrected",
           "en_name_from_restaurant": "A plate of eggs",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: الافطار)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": null,
+          "calories_hungerstation": null
         },
         {
           "id": "chicken-mugalgal",
@@ -3559,7 +3996,9 @@
           "en_name_status": "edited",
           "en_name_from_restaurant": "Chicken moqalqal",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: الافطار)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": null,
+          "calories_hungerstation": null
         },
         {
           "id": "lahsa",
@@ -3580,7 +4019,9 @@
           "en_name_status": "edited",
           "en_name_from_restaurant": "lahsa",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: الافطار)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": null,
+          "calories_hungerstation": null
         },
         {
           "id": "shakshuka",
@@ -3601,7 +4042,9 @@
           "en_name_status": "same",
           "en_name_from_restaurant": "Shakshuka plate",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: الافطار)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": null,
+          "calories_hungerstation": null
         },
         {
           "id": "tea",
@@ -3622,7 +4065,9 @@
           "en_name_status": "same",
           "en_name_from_restaurant": "tea",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: الافطار)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": null,
+          "calories_hungerstation": null
         },
         {
           "id": "mixed-falafel-plate-large",
@@ -3643,7 +4088,9 @@
           "en_name_status": "same",
           "en_name_from_restaurant": "large mixed falafel plate",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: الافطار)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": null,
+          "calories_hungerstation": null
         },
         {
           "id": "mixed-falafel-plate-medium",
@@ -3664,7 +4111,9 @@
           "en_name_status": "same",
           "en_name_from_restaurant": "Medium mixed falafel plate",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: الافطار)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": null,
+          "calories_hungerstation": null
         },
         {
           "id": "fried-egg-sandwich",
@@ -3685,7 +4134,9 @@
           "en_name_status": "same",
           "en_name_from_restaurant": "fried egg sandwich",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: الافطار)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": null,
+          "calories_hungerstation": null
         },
         {
           "id": "falafel-sandwich-with-hummus-and-cheese",
@@ -3706,7 +4157,9 @@
           "en_name_status": "edited",
           "en_name_from_restaurant": "Falafel sandwich with cheese and chickpeas",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: الافطار)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": null,
+          "calories_hungerstation": null
         },
         {
           "id": "falafel-and-cheese-sandwich",
@@ -3727,7 +4180,9 @@
           "en_name_status": "same",
           "en_name_from_restaurant": "Falafel and cheese sandwich",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: الافطار)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": null,
+          "calories_hungerstation": null
         },
         {
           "id": "falafel-sandwich",
@@ -3748,7 +4203,9 @@
           "en_name_status": "same",
           "en_name_from_restaurant": "Falafel sandwich",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: الافطار)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": null,
+          "calories_hungerstation": null
         },
         {
           "id": "cheese-sandwich",
@@ -3769,7 +4226,9 @@
           "en_name_status": "same",
           "en_name_from_restaurant": "Cheese sandwich",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: الافطار)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": null,
+          "calories_hungerstation": null
         },
         {
           "id": "boiled-egg-and-cheese-sandwich",
@@ -3790,7 +4249,9 @@
           "en_name_status": "same",
           "en_name_from_restaurant": "Boiled egg and cheese sandwich",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: الافطار)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": null,
+          "calories_hungerstation": null
         },
         {
           "id": "boiled-egg-sandwich",
@@ -3811,7 +4272,9 @@
           "en_name_status": "same",
           "en_name_from_restaurant": "boiled egg sandwich",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: الافطار)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": null,
+          "calories_hungerstation": null
         },
         {
           "id": "fried-egg-and-cheese-sandwich",
@@ -3832,7 +4295,9 @@
           "en_name_status": "same",
           "en_name_from_restaurant": "Fried egg and cheese sandwich",
           "source": "https://thiqat-alshaam.menus-sa.com/ar (category: الافطار)",
-          "date_found": "2026-11-21"
+          "date_found": "2026-11-21",
+          "price_hungerstation": null,
+          "calories_hungerstation": null
         }
       ]
     }
